@@ -430,7 +430,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2212.04495)] \[[Project](https://vcai.m
 
 **MotionCLIP: Exposing Human Motion Generation to CLIP Space.**<br>
 *Guy Tevet, Brian Gordon, Amir Hertz, Amit H. Bermano, Daniel Cohen-Or.*<br>
-ECCV 2022. \[[PDF](https://arxiv.org/abs/2203.08063)] \[[Project](https://guytevet.github.io/motionclip-page)] \[[Code](https://github.com/GuyTevet/MotionCLIP) ⭐ 499 | 🐛 23 | 🌐 Python | 📅 2023-12-18]
+ECCV 2022. \[[PDF](https://arxiv.org/abs/2203.08063)] \[[Project](https://guytevet.github.io/motionclip-page)] \[[Code](https://github.com/GuyTevet/MotionCLIP) ⭐ 500 | 🐛 23 | 🌐 Python | 📅 2023-12-18]
 
 **TEMOS: Generating diverse human motions from textual descriptions.**<br>
 *[Mathis Petrovich](https://mathis.petrovich.fr), Michael J. Black, Gül Varol.*<br>
@@ -1244,7 +1244,7 @@ ICCV 2017. \[[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICC7.pd
 
 **4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations.**<br>
 *[Wenbo Wang](https://wenbwa.github.io), [Hsuan-I Ho](https://ait.ethz.ch/people/hohs), [Chen Guo](https://ait.ethz.ch/people/cheguo), [Boxiang Rong](https://ribosome-rbx.github.io), [Artur Grigorev](https://ait.ethz.ch/people/agrigorev), [Jie Song](https://ait.ethz.ch/people/song), [Juan Jose Zarate](https://ait.ethz.ch/people/jzarate), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
-CVPR 2024 (Highlight). \[[PDF](https://arxiv.org/abs/2404.18630)] \[[Project](https://eth-ait.github.io/4d-dress)] \[[Data](https://4d-dress.ait.ethz.ch)] \[[Code](https://github.com/eth-ait/4d-dress) ⭐ 136 | 🐛 3 | 🌐 Python | 📅 2025-11-27]
+CVPR 2024 (Highlight). \[[PDF](https://arxiv.org/abs/2404.18630)] \[[Project](https://eth-ait.github.io/4d-dress)] \[[Data](https://4d-dress.ait.ethz.ch)] \[[Code](https://github.com/eth-ait/4d-dress) ⭐ 137 | 🐛 3 | 🌐 Python | 📅 2025-11-27]
 
 **A Generative Multi-Resolution Pyramid and Normal-Conditioning 3D Cloth Draping.**<br>
 *Hunor Laczkó, Meysam Madadi, Sergio Escalera, Jordi Gonzalez.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,148 | 🐛 6 | 📅 2026-07-27]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,151 | 🐛 6 | 📅 2026-07-27]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,678 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,677 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 431 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
