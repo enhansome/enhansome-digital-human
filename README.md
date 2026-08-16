@@ -422,7 +422,7 @@ SIGGRAPH 2023 (Journal Track). \[[PDF](https://arxiv.org/abs/2303.14613)] \[[Pro
 
 **MDM: Human Motion Diffusion Model.**<br>
 *Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano.*<br>
-ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,087 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
+ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,089 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
 
 **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis.**<br>
 *[Rishabh Dabral](https://www.cse.iitb.ac.in/~rdabral), [Muhammad Hamza Mughal](https://m-hamza-mughal.github.io), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt).*<br>
@@ -1636,7 +1636,7 @@ CVPR 2022 (Oral). \[[PDF](https://arxiv.org/abs/2112.01524)] \[[Project](https:/
 
 **Shapy: Accurate 3D Body Shape Regression Using Metric and Semantic Attributes.**<br>
 *Vasileios Choutas, Lea Muller, Chun-Hao P. Huang, Siyu Tang, Dimitrios Tzionas, Michael J. Black.*<br>
-CVPR 2022. \[[PDF](http://arxiv.org/abs/2206.07036)] \[[Project](https://shapy.is.tue.mpg.de)] \[[Code](https://github.com/muelea/shapy) ⭐ 384 | 🐛 41 | 🌐 Python | 📅 2024-02-17]
+CVPR 2022. \[[PDF](http://arxiv.org/abs/2206.07036)] \[[Project](https://shapy.is.tue.mpg.de)] \[[Code](https://github.com/muelea/shapy) ⭐ 385 | 🐛 41 | 🌐 Python | 📅 2024-02-17]
 
 **PoseScript: 3D Human Poses from Natural Language.**<br>
 *Ginger Delmas, Philippe Weinzaepfel, Thomas Lucas, Francesc Moreno-Noguer, Grégory Rogez.*<br>
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-16._
