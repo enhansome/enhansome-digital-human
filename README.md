@@ -454,7 +454,7 @@ ICCV 2025. \[[PDF](https://arxiv.org/abs/2508.09137)] \[[Project](https://vcai.m
 
 **LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds.**<br>
 *Lingteng Qiu, Xiaodong Gu, Peihao Li, Qi Zuo, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan, Guanying Chen, Zilong Dong, Liefeng Bo.*<br>
-ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10625)] \[[Project](https://lingtengqiu.github.io/LHM)] \[[Github](https://github.com/aigc3d/LHM) ⭐ 2,661 | 🐛 53 | 🌐 Python | 📅 2026-03-17]
+ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10625)] \[[Project](https://lingtengqiu.github.io/LHM)] \[[Github](https://github.com/aigc3d/LHM) ⭐ 2,663 | 🐛 53 | 🌐 Python | 📅 2026-03-17]
 
 **ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness.**<br>
 *Boqian Li, Haiwen Feng, Zeyu Cai, Michael J. Black, Yuliang Xiu.*<br>
@@ -502,7 +502,7 @@ CVPR 2024. \[[PDF](http://arxiv.org/abs/2312.05210)] \[[Project](https://neuralb
 
 **GaussianAvatar: Towards Realistic Human Avatar Modeling from A Single Video Via Animatable 3D Gaussians.**<br>
 *Liangxiao Hu, Hongwen Zhang, Yuxiang Zhang, Boyao Zhou, Boning Liu, Shengping Zhang, Liqiang Nie.*<br>
-CVPR 2024. \[[PDF](http://arxiv.org/abs/2312.02134)] \[[Project](https://huliangxiao.github.io/GaussianAvatar)] \[[Github](https://github.com/aipixel/GaussianAvatar) ⭐ 602 | 🐛 55 | 🌐 Python | 📅 2024-03-26]
+CVPR 2024. \[[PDF](http://arxiv.org/abs/2312.02134)] \[[Project](https://huliangxiao.github.io/GaussianAvatar)] \[[Github](https://github.com/aipixel/GaussianAvatar) ⭐ 603 | 🐛 55 | 🌐 Python | 📅 2024-03-26]
 
 **SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion.**<br>
 *[Hsuan-I Ho](https://azuxmioy.github.io), [Jie Song](https://ait.ethz.ch/people/song), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,152 | 🐛 6 | 📅 2026-07-27]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,153 | 🐛 6 | 📅 2026-07-27]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1667,7 +1667,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 ### Datasets
 
 * Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,809 | 🐛 34 | 🌐 Python | 📅 2022-06-13
-* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,619 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
+* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,620 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
 * Fashionpedia. [\[Website\]](https://fashionpedia.github.io/home/index.html)
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,680 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,681 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 431 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._

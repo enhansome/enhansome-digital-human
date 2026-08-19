@@ -88,7 +88,7 @@
             "last_commit": "2025-01-28T04:30:15Z",
             "owner": "switchablenorms",
             "repo": "DeepFashion2",
-            "stars": 2619
+            "stars": 2620
           }
         },
         {
@@ -132,7 +132,7 @@
             "last_commit": "2024-08-12T05:09:47Z",
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2680
+            "stars": 2681
           }
         },
         {
@@ -164,7 +164,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T05:57:13.724Z",
+    "last_updated": "2026-08-19T05:58:42.758Z",
     "original_repository": "weihaox/awesome-digital-human",
     "original_repository_sha": "5583c02aa1be39e592bc8168bdf3a3e86efc649f",
     "enhanced_repository": "enhansome/enhansome-digital-human",
