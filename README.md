@@ -328,7 +328,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2305.07514)] \[[Project](https://blendf
 
 **OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering.**<br>
 *Zhiyuan Ma, Xiangyu Zhu, Guojun Qi, Zhen Lei, Lei Zhang.*<br>
-CVPR 2023. \[[PDF](https://arxiv.org/pdf/2303.14662)] \[[Code](https://github.com/theEricMa/OTAvatar) ⭐ 324 | 🐛 9 | 🌐 Python | 📅 2024-03-05] \[[Demo](https://youtu.be/qpIoMYFr7Aw)]
+CVPR 2023. \[[PDF](https://arxiv.org/pdf/2303.14662)] \[[Code](https://github.com/theEricMa/OTAvatar) ⭐ 323 | 🐛 9 | 🌐 Python | 📅 2024-03-05] \[[Demo](https://youtu.be/qpIoMYFr7Aw)]
 
 **PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360∘.**<br>
 *Sizhe An, Hongyi Xu, Yichun Shi, Guoxian Song, Umit Ogras, Linjie Luo.*<br>
@@ -790,7 +790,7 @@ CVPR 2022. \[[PDF](http://cic.tju.edu.cn/faculty/likun/projects/HF-Avatar/assets
 
 **ICON: Implicit Clothed humans Obtained from Normals.**<br>
 *[Yuliang Xiu](https://ps.is.tuebingen.mpg.de/person/yxiu), [Jinlong Yang](https://ps.is.tuebingen.mpg.de/person/jyang), [Dimitrios Tzionas](https://ps.is.mpg.de/~dtzionas), [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.09127)] \[[Code](https://github.com/YuliangXiu/ICON) ⭐ 1,673 | 🐛 52 | 🌐 Python | 📅 2023-11-23]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.09127)] \[[Code](https://github.com/YuliangXiu/ICON) ⭐ 1,674 | 🐛 52 | 🌐 Python | 📅 2023-11-23]
 
 **DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering.**<br>
 *Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,155 | 🐛 6 | 📅 2026-07-27]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,156 | 🐛 6 | 📅 2026-07-27]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1666,7 +1666,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,809 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,808 | 🐛 34 | 🌐 Python | 📅 2022-06-13
 * DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,620 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
