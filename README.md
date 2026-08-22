@@ -790,7 +790,7 @@ CVPR 2022. \[[PDF](http://cic.tju.edu.cn/faculty/likun/projects/HF-Avatar/assets
 
 **ICON: Implicit Clothed humans Obtained from Normals.**<br>
 *[Yuliang Xiu](https://ps.is.tuebingen.mpg.de/person/yxiu), [Jinlong Yang](https://ps.is.tuebingen.mpg.de/person/jyang), [Dimitrios Tzionas](https://ps.is.mpg.de/~dtzionas), [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.09127)] \[[Code](https://github.com/YuliangXiu/ICON) ⭐ 1,674 | 🐛 52 | 🌐 Python | 📅 2023-11-23]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.09127)] \[[Code](https://github.com/YuliangXiu/ICON) ⭐ 1,675 | 🐛 52 | 🌐 Python | 📅 2023-11-23]
 
 **DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering.**<br>
 *Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
@@ -1182,7 +1182,7 @@ TPAMI 2019. \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=87
 
 **PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization.**<br>
 *Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li.*<br>
-ICCV 2019. \[[PDF](https://arxiv.org/pdf/1905.05172.pdf)] \[[Project](shunsukesaito.github.io/PIFu)] \[[Code](https://github.com/shunsukesaito/PIFu) ⭐ 1,818 | 🐛 60 | 🌐 Python | 📅 2023-11-24]
+ICCV 2019. \[[PDF](https://arxiv.org/pdf/1905.05172.pdf)] \[[Project](shunsukesaito.github.io/PIFu)] \[[Code](https://github.com/shunsukesaito/PIFu) ⭐ 1,817 | 🐛 60 | 🌐 Python | 📅 2023-11-24]
 
 **Multi-Garment Net\_Learning to Dress 3D people from Images.**<br>
 *Bharat Lal Bhatnagar, Garvita Tiwari, Christian Theobalt, Gerard Pons-Moll.*<br>
@@ -1244,7 +1244,7 @@ ICCV 2017. \[[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICC7.pd
 
 **4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations.**<br>
 *[Wenbo Wang](https://wenbwa.github.io), [Hsuan-I Ho](https://ait.ethz.ch/people/hohs), [Chen Guo](https://ait.ethz.ch/people/cheguo), [Boxiang Rong](https://ribosome-rbx.github.io), [Artur Grigorev](https://ait.ethz.ch/people/agrigorev), [Jie Song](https://ait.ethz.ch/people/song), [Juan Jose Zarate](https://ait.ethz.ch/people/jzarate), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
-CVPR 2024 (Highlight). \[[PDF](https://arxiv.org/abs/2404.18630)] \[[Project](https://eth-ait.github.io/4d-dress)] \[[Data](https://4d-dress.ait.ethz.ch)] \[[Code](https://github.com/eth-ait/4d-dress) ⭐ 138 | 🐛 3 | 🌐 Python | 📅 2025-11-27]
+CVPR 2024 (Highlight). \[[PDF](https://arxiv.org/abs/2404.18630)] \[[Project](https://eth-ait.github.io/4d-dress)] \[[Data](https://4d-dress.ait.ethz.ch)] \[[Code](https://github.com/eth-ait/4d-dress) ⭐ 139 | 🐛 3 | 🌐 Python | 📅 2025-11-27]
 
 **A Generative Multi-Resolution Pyramid and Normal-Conditioning 3D Cloth Draping.**<br>
 *Hunor Laczkó, Meysam Madadi, Sergio Escalera, Jordi Gonzalez.*<br>
@@ -1640,7 +1640,7 @@ CVPR 2022. \[[PDF](http://arxiv.org/abs/2206.07036)] \[[Project](https://shapy.i
 
 **PoseScript: 3D Human Poses from Natural Language.**<br>
 *Ginger Delmas, Philippe Weinzaepfel, Thomas Lucas, Francesc Moreno-Noguer, Grégory Rogez.*<br>
-ECCV 2022. \[[PDF](http://arxiv.org/abs/2210.11795)] \[[Code](https://github.com/naver/posescript) ⭐ 205 | 🐛 0 | 🌐 Python | 📅 2025-02-13]
+ECCV 2022. \[[PDF](http://arxiv.org/abs/2210.11795)] \[[Code](https://github.com/naver/posescript) ⭐ 206 | 🐛 0 | 🌐 Python | 📅 2025-02-13]
 
 ### Human-Centric Perception
 
@@ -1666,8 +1666,8 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,807 | 🐛 34 | 🌐 Python | 📅 2022-06-13
-* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,620 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,808 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,623 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
 * Fashionpedia. [\[Website\]](https://fashionpedia.github.io/home/index.html)
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-22._
