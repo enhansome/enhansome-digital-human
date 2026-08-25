@@ -60,7 +60,7 @@
             "last_commit": "2025-06-18T05:42:41Z",
             "owner": "1231234zhan",
             "repo": "mmlphuman",
-            "stars": 76
+            "stars": 77
           }
         },
         {
@@ -1881,7 +1881,7 @@
             "last_commit": "2026-07-27T12:45:49Z",
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3157
+            "stars": 3156
           }
         },
         {
@@ -2180,7 +2180,7 @@
                 "last_commit": "2022-06-13T20:36:21Z",
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12807
+                "stars": 12808
               }
             },
             {
@@ -2195,7 +2195,7 @@
                 "last_commit": "2025-01-28T04:30:15Z",
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2624
+                "stars": 2625
               }
             },
             {
@@ -2272,7 +2272,7 @@
             "last_commit": "2024-08-12T05:09:47Z",
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2683
+            "stars": 2684
           }
         },
         {
@@ -2295,7 +2295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:11:10.534Z",
+    "last_updated": "2026-08-25T06:03:36.172Z",
     "original_repository": "weihaox/awesome-digital-human",
     "original_repository_id": 366965099,
     "original_repository_sha": "5583c02aa1be39e592bc8168bdf3a3e86efc649f",
