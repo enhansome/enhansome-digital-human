@@ -180,7 +180,7 @@
             "last_commit": "2024-07-04T00:15:42Z",
             "owner": "skhu101",
             "repo": "GauHuman",
-            "stars": 425
+            "stars": 426
           }
         },
         {
@@ -552,7 +552,7 @@
             "last_commit": "2023-12-11T00:34:37Z",
             "owner": "Mathux",
             "repo": "TMR",
-            "stars": 307
+            "stars": 308
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-03-17T05:17:23Z",
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2663
+            "stars": 2664
           }
         },
         {
@@ -1881,7 +1881,7 @@
             "last_commit": "2026-07-27T12:45:49Z",
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3156
+            "stars": 3157
           }
         },
         {
@@ -2272,7 +2272,7 @@
             "last_commit": "2024-08-12T05:09:47Z",
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2684
+            "stars": 2685
           }
         },
         {
@@ -2295,7 +2295,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:03:36.172Z",
+    "last_updated": "2026-08-26T06:02:06.330Z",
     "original_repository": "weihaox/awesome-digital-human",
     "original_repository_id": 366965099,
     "original_repository_sha": "5583c02aa1be39e592bc8168bdf3a3e86efc649f",
