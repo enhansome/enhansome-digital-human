@@ -15,7 +15,7 @@
             "last_commit": "2024-12-11T06:26:10Z",
             "owner": "pengHTYX",
             "repo": "PSHuman",
-            "stars": 459
+            "stars": 460
           }
         },
         {
@@ -120,7 +120,7 @@
             "last_commit": "2025-01-15T11:51:07Z",
             "owner": "RodinHD",
             "repo": "RodinHD",
-            "stars": 211
+            "stars": 212
           }
         },
         {
@@ -441,7 +441,7 @@
             "last_commit": "2024-10-13T03:55:36Z",
             "owner": "MrTornado24",
             "repo": "Next3D",
-            "stars": 500
+            "stars": 501
           }
         },
         {
@@ -612,7 +612,7 @@
             "last_commit": "2023-12-18T15:17:15Z",
             "owner": "GuyTevet",
             "repo": "MotionCLIP",
-            "stars": 500
+            "stars": 501
           }
         },
         {
@@ -708,7 +708,7 @@
             "last_commit": "2025-09-19T09:35:42Z",
             "owner": "KimDonghwan06",
             "repo": "PARTE_RELEASE",
-            "stars": 17
+            "stars": 18
           }
         },
         {
@@ -1881,7 +1881,7 @@
             "last_commit": "2026-07-27T12:45:49Z",
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3157
+            "stars": 3159
           }
         },
         {
@@ -2180,7 +2180,7 @@
                 "last_commit": "2022-06-13T20:36:21Z",
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12808
+                "stars": 12810
               }
             },
             {
@@ -2295,9 +2295,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T06:02:06.330Z",
-    "original_repository": "weihaox/awesome-digital-human",
-    "original_repository_id": 366965099,
+    "last_updated": "2026-08-27T11:36:14.987Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 366965099,
+      "language": null,
+      "last_commit": "2026-04-18T02:42:41Z",
+      "owner": "weihaox",
+      "repo": "awesome-digital-human",
+      "stars": 1977
+    },
     "original_repository_sha": "5583c02aa1be39e592bc8168bdf3a3e86efc649f",
     "enhanced_repository": "enhansome/enhansome-digital-human",
     "enhanced_repository_description": null,
