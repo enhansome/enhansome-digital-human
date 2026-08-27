@@ -114,7 +114,7 @@ CVPR 2024. \[[PDF](http://arxiv.org/abs/2311.16096)] \[[Project](https://animata
 
 **HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation.**<br>
 *Xin Huang, Ruizhi Shao, Qi Zhang, Hongwen Zhang, Ying Feng, Yebin Liu, Qing Wang..*<br>
-CVPR 2024. \[[PDF](https://arxiv.org/abs/2310.01406)] \[[Project](https://humannorm.github.io)] \[[Code](https://github.com/xhuangcv/humannorm) ⭐ 209 | 🐛 14 | 🌐 Python | 📅 2024-03-02]
+CVPR 2024. \[[PDF](https://arxiv.org/abs/2310.01406)] \[[Project](https://humannorm.github.io)] \[[Code](https://github.com/xhuangcv/humannorm) ⭐ 210 | 🐛 14 | 🌐 Python | 📅 2024-03-02]
 
 **RAM-Avatar: Real-time Photo-Realistic Avatar from Monocular Videos with Full-body Control.**<br>
 *Xiang Deng, Zerong Zheng, Yuxiang Zhang, Jingxiang Sun, Chao Xu, XiaoDong Yang, Lizhen Wang, Yebin Liu.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,159 | 🐛 6 | 📅 2026-07-27]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,160 | 🐛 6 | 📅 2026-07-27]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
