@@ -16,7 +16,8 @@
             "owner": "pengHTYX",
             "repo": "PSHuman",
             "stars": 460
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "facebookresearch",
             "repo": "pippo",
             "stars": 650
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "AlvinYH",
             "repo": "FreeCloth",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "1231234zhan",
             "repo": "mmlphuman",
             "stars": 77
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -73,10 +77,11 @@
             "id": 951828028,
             "language": "Python",
             "last_commit": "2025-06-14T11:35:53Z",
-            "owner": "ant-research",
+            "owner": "robbyant-research",
             "repo": "AvatarArtist",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "silence-tang",
             "repo": "GaussianIP",
             "stars": 27
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "jefftan969",
             "repo": "dressrecon",
             "stars": 143
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "RodinHD",
             "repo": "RodinHD",
             "stars": 212
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "lizhe00",
             "repo": "AnimatableGaussians",
             "stars": 1093
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "xhuangcv",
             "repo": "humannorm",
             "stars": 210
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -166,7 +176,8 @@
             "owner": "Xiang-Deng00",
             "repo": "RAM-Avatar",
             "stars": 68
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -181,7 +192,8 @@
             "owner": "skhu101",
             "repo": "GauHuman",
             "stars": 426
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -196,7 +208,8 @@
             "owner": "snuvclab",
             "repo": "pegasus",
             "stars": 61
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -211,7 +224,8 @@
             "owner": "TingtingLiao",
             "repo": "TADA",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -226,7 +240,8 @@
             "owner": "FrozenBurning",
             "repo": "PrimDiffusion",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -241,7 +256,8 @@
             "owner": "magic-research",
             "repo": "xagen",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -256,7 +272,8 @@
             "owner": "songrise",
             "repo": "AvatarCraft",
             "stars": 189
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -271,7 +288,8 @@
             "owner": "icoz69",
             "repo": "StyleAvatar3D",
             "stars": 505
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -286,7 +304,8 @@
             "owner": "X-zhangyang",
             "repo": "Get3DHuman",
             "stars": 0
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -301,7 +320,8 @@
             "owner": "zj-dong",
             "repo": "AG3D",
             "stars": 273
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -316,7 +336,8 @@
             "owner": "custom-humans",
             "repo": "editable-humans",
             "stars": 188
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -331,7 +352,8 @@
             "owner": "eladrich",
             "repo": "latent-nerf",
             "stars": 713
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -346,7 +368,8 @@
             "owner": "hongfz16",
             "repo": "EVA3D",
             "stars": 600
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -361,7 +384,8 @@
             "owner": "kaist-ami",
             "repo": "CLIP-Actor",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -376,7 +400,8 @@
             "owner": "hongfz16",
             "repo": "AvatarCLIP",
             "stars": 1100
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         }
       ],
       "title": "3D/4D Human Avatar Generation and Animation"
@@ -397,7 +422,8 @@
             "owner": "zyj-2000",
             "repo": "Talker",
             "stars": 5
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "shivangi-aneja",
             "repo": "ClipFace",
             "stars": 197
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "YuelangX",
             "repo": "LatentAvatar",
             "stars": 107
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "MrTornado24",
             "repo": "Next3D",
             "stars": 501
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "theEricMa",
             "repo": "OTAvatar",
             "stars": 323
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "zhengyuf",
             "repo": "PointAvatar",
             "stars": 343
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "USTC3DV",
             "repo": "NeRFBlendShape-code",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "lattas",
             "repo": "AvatarMe",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "lattas",
             "repo": "AvatarMe",
             "stars": 175
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         }
       ],
       "title": "3D Head Animatable Avatar (from 2D Image Collections)"
@@ -538,7 +572,8 @@
             "owner": "MotrixLab",
             "repo": "MotionDiffuse",
             "stars": 980
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -553,7 +588,8 @@
             "owner": "Mathux",
             "repo": "TMR",
             "stars": 308
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -568,7 +604,8 @@
             "owner": "atnikos",
             "repo": "sinc",
             "stars": 101
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -583,7 +620,8 @@
             "owner": "synthesiaresearch",
             "repo": "humanrf",
             "stars": 496
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
             "stars": 4092
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "GuyTevet",
             "repo": "MotionCLIP",
             "stars": 501
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -628,7 +668,8 @@
             "owner": "Mathux",
             "repo": "TEMOS",
             "stars": 454
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -643,7 +684,8 @@
             "owner": "atnikos",
             "repo": "teach",
             "stars": 399
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         }
       ],
       "title": "(Clothed) Human Motion Generation"
@@ -664,7 +706,8 @@
             "owner": "TMT22",
             "repo": "HumanOLAT",
             "stars": 42
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -679,7 +722,8 @@
             "owner": "aigc3d",
             "repo": "LHM",
             "stars": 2664
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -694,7 +738,8 @@
             "owner": "boqian-li",
             "repo": "ETCH",
             "stars": 146
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -709,7 +754,8 @@
             "owner": "KimDonghwan06",
             "repo": "PARTE_RELEASE",
             "stars": 18
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -724,7 +770,8 @@
             "owner": "YifYang993",
             "repo": "HiLo",
             "stars": 47
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -739,7 +786,8 @@
             "owner": "aipixel",
             "repo": "GaussianAvatar",
             "stars": 603
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -754,7 +802,8 @@
             "owner": "tinatiansjz",
             "repo": "hmr-survey",
             "stars": 360
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -769,7 +818,8 @@
             "owner": "skhu101",
             "repo": "SHERF",
             "stars": 321
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -784,7 +834,8 @@
             "owner": "synthesiaresearch",
             "repo": "humanrf",
             "stars": 496
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -799,7 +850,8 @@
             "owner": "TingtingLiao",
             "repo": "CAR",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -814,7 +866,8 @@
             "owner": "gengshan-y",
             "repo": "rac",
             "stars": 75
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -829,7 +882,8 @@
             "owner": "zju3dv",
             "repo": "mlp_maps",
             "stars": 237
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -844,7 +898,8 @@
             "owner": "zju3dv",
             "repo": "instant-nvr",
             "stars": 162
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -859,7 +914,8 @@
             "owner": "SangHunHan92",
             "repo": "2K2K",
             "stars": 263
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -874,7 +930,8 @@
             "owner": "YuliangXiu",
             "repo": "ECON",
             "stars": 1206
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -889,7 +946,8 @@
             "owner": "Skype-line",
             "repo": "X-Avatar",
             "stars": 416
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -904,7 +962,8 @@
             "owner": "tijiang13",
             "repo": "InstantAvatar",
             "stars": 429
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -919,7 +978,8 @@
             "owner": "fengq1a0",
             "repo": "FOF",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -934,7 +994,8 @@
             "owner": "zyhbili",
             "repo": "Dual-Space-NeRF",
             "stars": 78
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -949,7 +1010,8 @@
             "owner": "Xiaoming-Zhao",
             "repo": "oplanes",
             "stars": 16
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -964,7 +1026,8 @@
             "owner": "nogu-atsu",
             "repo": "ENARF-GAN",
             "stars": 71
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -979,7 +1042,8 @@
             "owner": "apple",
             "repo": "ml-neuman",
             "stars": 1286
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -994,7 +1058,8 @@
             "owner": "taconite",
             "repo": "arah-release",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1009,7 +1074,8 @@
             "owner": "DSaurus",
             "repo": "DiffuStereo",
             "stars": 206
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1024,7 +1090,8 @@
             "owner": "hygenie1228",
             "repo": "ClothWild_RELEASE",
             "stars": 203
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1039,7 +1106,8 @@
             "owner": "taconite",
             "repo": "arah-release",
             "stars": 190
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1054,7 +1122,8 @@
             "owner": "jsnln",
             "repo": "fite",
             "stars": 100
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1069,7 +1138,8 @@
             "owner": "LemonATsu",
             "repo": "DANBO-pytorch",
             "stars": 45
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1084,7 +1154,8 @@
             "owner": "hzhao1997",
             "repo": "HF-Avatar",
             "stars": 124
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1099,7 +1170,8 @@
             "owner": "YuliangXiu",
             "repo": "ICON",
             "stars": 1675
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1114,7 +1186,8 @@
             "owner": "xuchen-ethz",
             "repo": "gdna",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1129,7 +1202,8 @@
             "owner": "xuxy09",
             "repo": "RSC-Net",
             "stars": 53
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1144,7 +1218,8 @@
             "owner": "taconite",
             "repo": "MetaAvatar-release",
             "stars": 119
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1159,7 +1234,8 @@
             "owner": "hongfz16",
             "repo": "Garment4D",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1174,7 +1250,8 @@
             "owner": "zhaofang0627",
             "repo": "AnchorUDF",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1189,7 +1266,8 @@
             "owner": "andreiburov",
             "repo": "DSFN",
             "stars": 37
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1204,7 +1282,8 @@
             "owner": "xuchen-ethz",
             "repo": "snarf",
             "stars": 297
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1219,7 +1298,8 @@
             "owner": "qianlim",
             "repo": "POP",
             "stars": 193
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1234,7 +1314,8 @@
             "owner": "zju3dv",
             "repo": "animatable_nerf",
             "stars": 524
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1249,7 +1330,8 @@
             "owner": "onlinereconstruction",
             "repo": "deep_surfels",
             "stars": 69
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1264,7 +1346,8 @@
             "owner": "CrisHY1995",
             "repo": "StereoPIFu_Code",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1279,7 +1362,8 @@
             "owner": "sergeyprokudin",
             "repo": "smplpix",
             "stars": 456
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1294,7 +1378,8 @@
             "owner": "bharat-b7",
             "repo": "LoopReg",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1309,7 +1394,8 @@
             "owner": "zhaofang0627",
             "repo": "HPBTT",
             "stars": 35
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1324,7 +1410,8 @@
             "owner": "Project-Splinter",
             "repo": "MonoPort",
             "stars": 577
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1339,7 +1426,8 @@
             "owner": "mks0601",
             "repo": "I2L-MeshNet_RELEASE",
             "stars": 738
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1354,7 +1442,8 @@
             "owner": "luyangzhu",
             "repo": "NBA-Players",
             "stars": 102
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1369,7 +1458,8 @@
             "owner": "bharat-b7",
             "repo": "IPNet",
             "stars": 235
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1384,7 +1474,8 @@
             "owner": "garvita-tiwari",
             "repo": "sizer",
             "stars": 93
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1399,7 +1490,8 @@
             "owner": "chaitanya100100",
             "repo": "TailorNet",
             "stars": 435
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1414,7 +1506,8 @@
             "owner": "simpleig",
             "repo": "Geo-PIFu",
             "stars": 113
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1429,7 +1522,8 @@
             "owner": "miraymen",
             "repo": "pix2surf",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1444,7 +1538,8 @@
             "owner": "facebookresearch",
             "repo": "pifuhd",
             "stars": 9737
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1459,7 +1554,8 @@
             "owner": "AljazBozic",
             "repo": "DeepDeform",
             "stars": 187
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1474,7 +1570,8 @@
             "owner": "diegothomas",
             "repo": "TetraTSDF",
             "stars": 21
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1489,7 +1586,8 @@
             "owner": "akcalakcal",
             "repo": "Multi_View_Consistent_Single_Image_3D_Human_Reconstruction",
             "stars": 11
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1504,7 +1602,8 @@
             "owner": "shunsukesaito",
             "repo": "PIFu",
             "stars": 1817
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1519,7 +1618,8 @@
             "owner": "bharat-b7",
             "repo": "MultiGarmentNetwork",
             "stars": 303
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1534,7 +1634,8 @@
             "owner": "thmoa",
             "repo": "octopus",
             "stars": 247
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1549,7 +1650,8 @@
             "owner": "geopavlakos",
             "repo": "TexturePose",
             "stars": 137
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1564,7 +1666,8 @@
             "owner": "thmoa",
             "repo": "tex2shape",
             "stars": 272
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1579,7 +1682,8 @@
             "owner": "thmoa",
             "repo": "semantic_human_texture_stitching",
             "stars": 160
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         }
       ],
       "title": "Clothed Human Digitalization"
@@ -1600,7 +1704,8 @@
             "owner": "eth-ait",
             "repo": "4d-dress",
             "stars": 139
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1615,7 +1720,8 @@
             "owner": "GAP-LAB-CUHK-SZ",
             "repo": "REC-MV",
             "stars": 280
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1630,7 +1736,8 @@
             "owner": "Dolorousrtur",
             "repo": "HOOD",
             "stars": 204
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1645,7 +1752,8 @@
             "owner": "non-void",
             "repo": "VirtualBones",
             "stars": 129
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1660,7 +1768,8 @@
             "owner": "omegaiota",
             "repo": "DiffCloth",
             "stars": 430
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1675,7 +1784,8 @@
             "owner": "isantesteban",
             "repo": "snug",
             "stars": 202
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1690,7 +1800,8 @@
             "owner": "MengZephyr",
             "repo": "DynamicNeuralGarments",
             "stars": 57
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1705,7 +1816,8 @@
             "owner": "hbertiche",
             "repo": "PBNS",
             "stars": 116
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1720,7 +1832,8 @@
             "owner": "williamljb",
             "repo": "HumanMultiView",
             "stars": 44
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1735,7 +1848,8 @@
             "owner": "miraymen",
             "repo": "pix2surf",
             "stars": 361
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         }
       ],
       "title": "Cloth Modelling, Draping, Simulation, and Dressing"
@@ -1756,7 +1870,8 @@
             "owner": "UnitedHuman",
             "repo": "UnitedHuman",
             "stars": 86
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1771,7 +1886,8 @@
             "owner": "yumingj",
             "repo": "Text2Performer",
             "stars": 325
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1786,7 +1902,8 @@
             "owner": "yumingj",
             "repo": "Text2Human",
             "stars": 847
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1801,7 +1918,8 @@
             "owner": "RenYurui",
             "repo": "Neural-Texture-Extraction-Distribution",
             "stars": 218
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1816,7 +1934,8 @@
             "owner": "Zhangjinso",
             "repo": "PISE",
             "stars": 127
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1831,7 +1950,8 @@
             "owner": "Ha0Tang",
             "repo": "XingGAN",
             "stars": 224
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1846,7 +1966,8 @@
             "owner": "tengteng95",
             "repo": "Pose-Transfer",
             "stars": 741
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1861,7 +1982,8 @@
             "owner": "siyuhuang",
             "repo": "PoseStylizer",
             "stars": 81
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         }
       ],
       "title": "Human Image and Video Generation"
@@ -1882,7 +2004,8 @@
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
             "stars": 3160
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1897,7 +2020,8 @@
             "owner": "sangyun884",
             "repo": "HR-VITON",
             "stars": 917
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1912,7 +2036,8 @@
             "owner": "Amazingren",
             "repo": "CIT",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1927,7 +2052,8 @@
             "owner": "xiezhy6",
             "repo": "PASTA-GAN",
             "stars": 80
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1942,7 +2068,8 @@
             "owner": "Charmve",
             "repo": "VOGUE-Try-On",
             "stars": 96
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1957,7 +2084,8 @@
             "owner": "cuiaiyu",
             "repo": "dressing-in-order",
             "stars": 551
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1972,7 +2100,8 @@
             "owner": "ChongjianGE",
             "repo": "DCTON",
             "stars": 103
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -1987,7 +2116,8 @@
             "owner": "geyuying",
             "repo": "PF-AFN",
             "stars": 558
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -2002,7 +2132,8 @@
             "owner": "JDAI-CV",
             "repo": "Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving",
             "stars": 216
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -2017,7 +2148,8 @@
             "owner": "switchablenorms",
             "repo": "DeepFashion_Try_On",
             "stars": 884
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -2032,7 +2164,8 @@
             "owner": "levindabhi",
             "repo": "SieveNet",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -2047,7 +2180,8 @@
             "owner": "gli-27",
             "repo": "TailorGAN",
             "stars": 28
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         }
       ],
       "title": "Image-Based Virtual Try-On"
@@ -2068,7 +2202,8 @@
             "owner": "JianqiangRen",
             "repo": "FlowBasedBodyReshaping",
             "stars": 183
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "children": [
@@ -2085,7 +2220,8 @@
                 "owner": "yz-cnsdqz",
                 "repo": "PSI-release",
                 "stars": 149
-              }
+              },
+              "first_seen": "2026-08-28T17:40:09.746Z"
             }
           ],
           "description": "Putting People in Their Place: Affordance-Aware Human Insertion Into Scenes. Sumith Kulal, Tim Brooks, Alex Aiken, Jiajun Wu, Jimei Yang, Jingwan Lu, Alexei A. Efros, Krishna Kumar Singh. CVPR 2023. [PDF] [Project]",
@@ -2107,7 +2243,8 @@
                 "owner": "NVlabs",
                 "repo": "GLAMR",
                 "stars": 389
-              }
+              },
+              "first_seen": "2026-08-28T17:40:09.746Z"
             },
             {
               "node_type": "item",
@@ -2122,7 +2259,8 @@
                 "owner": "muelea",
                 "repo": "shapy",
                 "stars": 385
-              }
+              },
+              "first_seen": "2026-08-28T17:40:09.746Z"
             },
             {
               "node_type": "item",
@@ -2137,7 +2275,8 @@
                 "owner": "naver",
                 "repo": "posescript",
                 "stars": 206
-              }
+              },
+              "first_seen": "2026-08-28T17:40:09.746Z"
             }
           ],
           "description": null,
@@ -2159,7 +2298,8 @@
                 "owner": "hongfz16",
                 "repo": "HCMoCo",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T17:40:09.746Z"
             }
           ],
           "description": null,
@@ -2181,7 +2321,8 @@
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
                 "stars": 12810
-              }
+              },
+              "first_seen": "2026-08-28T17:40:09.746Z"
             },
             {
               "node_type": "item",
@@ -2195,8 +2336,9 @@
                 "last_commit": "2025-01-28T04:30:15Z",
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2625
-              }
+                "stars": 2626
+              },
+              "first_seen": "2026-08-28T17:40:09.746Z"
             },
             {
               "node_type": "item",
@@ -2211,7 +2353,8 @@
                 "owner": "hongfz16",
                 "repo": "HCMoCo",
                 "stars": 125
-              }
+              },
+              "first_seen": "2026-08-28T17:40:09.746Z"
             }
           ],
           "description": null,
@@ -2237,7 +2380,8 @@
             "owner": "IHe-KaiI",
             "repo": "DressCode",
             "stars": 294
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -2252,7 +2396,8 @@
             "owner": "boqian-li",
             "repo": "GarmentDreamer",
             "stars": 65
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         }
       ],
       "title": "Garment Design"
@@ -2272,8 +2417,9 @@
             "last_commit": "2024-08-12T05:09:47Z",
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2685
-          }
+            "stars": 2686
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         },
         {
           "node_type": "item",
@@ -2288,14 +2434,15 @@
             "owner": "ZhengZerong",
             "repo": "DeepHuman",
             "stars": 431
-          }
+          },
+          "first_seen": "2026-08-28T17:40:09.746Z"
         }
       ],
       "title": "Dataset"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T16:40:32.165Z",
+    "last_updated": "2026-08-28T17:40:09.746Z",
     "original_repository_info": {
       "archived": false,
       "id": 366965099,
