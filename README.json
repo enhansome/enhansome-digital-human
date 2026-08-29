@@ -10,12 +10,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 858083005,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-12-11T06:26:10Z",
+            "open_issues": 22,
             "owner": "pengHTYX",
             "repo": "PSHuman",
-            "stars": 460
+            "stars": 460,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -26,12 +31,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pippo: High-Resolution Multi-View Humans from a Single Image",
+            "homepage": null,
             "id": 921338981,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-02T11:17:08Z",
+            "open_issues": 14,
             "owner": "facebookresearch",
             "repo": "pippo",
-            "stars": 650
+            "stars": 650,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -42,12 +52,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025 Highlight] Official PyTorch implementation of \"FreeCloth: Free-form Generation Enhances Challenging Clothed Human Modeling\"",
+            "homepage": null,
             "id": 896863127,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-23T07:30:41Z",
+            "open_issues": 2,
             "owner": "AlvinYH",
             "repo": "FreeCloth",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -58,12 +73,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025 Highlight] Real-time High-fidelity Gaussian Human Avatars with Position-based Interpolation of Spatially Distributed MLPs",
+            "homepage": "https://gapszju.github.io/mmlphuman/",
             "id": 968462114,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-06-18T05:42:41Z",
+            "open_issues": 11,
             "owner": "1231234zhan",
             "repo": "mmlphuman",
-            "stars": 77
+            "stars": 77,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -74,12 +94,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'25] Official PyTorch implementation of AvatarArtist: Open-Domain 4D Avatarization.",
+            "homepage": "https://kumapowerliu.github.io/AvatarArtist/",
             "id": 951828028,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2025-06-14T11:35:53Z",
+            "open_issues": 2,
             "owner": "robbyant-research",
             "repo": "AvatarArtist",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "4d",
+              "avatar",
+              "cvpr2025",
+              "open-domain"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -90,12 +120,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2025] Official Implementation of GaussianIP: Identity-Preserving Realistic 3D Human Generation via Human-Centric Diffusion Prior",
+            "homepage": null,
             "id": 949705745,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-08-05T14:27:38Z",
+            "open_issues": 4,
             "owner": "silence-tang",
             "repo": "GaussianIP",
-            "stars": 27
+            "stars": 27,
+            "topics": [
+              "3d",
+              "3d-human",
+              "3dgs",
+              "computer-vision",
+              "cvpr2025",
+              "diffusion-models",
+              "generation",
+              "human",
+              "human-generation",
+              "text-to-3d"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -106,12 +152,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DressRecon: Freeform 4D Human Reconstruction from Monocular Video (3DV'25 Oral)",
+            "homepage": "https://jefftan969.github.io/dressrecon",
             "id": 865104344,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-02-13T03:54:53Z",
+            "open_issues": 5,
             "owner": "jefftan969",
             "repo": "dressrecon",
-            "stars": 143
+            "stars": 143,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -122,12 +173,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2024] RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models",
+            "homepage": "https://rodinhd.github.io/",
             "id": 825756014,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-01-15T11:51:07Z",
+            "open_issues": 0,
             "owner": "RodinHD",
             "repo": "RodinHD",
-            "stars": 212
+            "stars": 212,
+            "topics": [
+              "3d-generation",
+              "ai",
+              "avatar",
+              "diffusion-models"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -138,12 +199,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code of [CVPR 2024] \"Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling\"",
+            "homepage": "https://animatable-gaussians.github.io/",
             "id": 723232388,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-16T13:23:25Z",
+            "open_issues": 36,
             "owner": "lizhe00",
             "repo": "AnimatableGaussians",
-            "stars": 1093
+            "stars": 1093,
+            "topics": [
+              "3d-gaussian-splatting",
+              "3d-human",
+              "3d-reconstruction",
+              "animatable-avatar"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -154,12 +225,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CVPR 2024: The official implementation of HumanNorm",
+            "homepage": null,
             "id": 735034934,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-02T02:05:37Z",
+            "open_issues": 14,
             "owner": "xhuangcv",
             "repo": "humannorm",
-            "stars": 210
+            "stars": 210,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -170,12 +246,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 771486699,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-08-11T03:46:04Z",
+            "open_issues": 2,
             "owner": "Xiang-Deng00",
             "repo": "RAM-Avatar",
-            "stars": 68
+            "stars": 68,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -186,12 +267,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our CVPR'2024 paper \"GauHuman: Articulated Gaussian Splatting from Monocular Human Videos\"",
+            "homepage": null,
             "id": 724974372,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-04T00:15:42Z",
+            "open_issues": 2,
             "owner": "skhu101",
             "repo": "GauHuman",
-            "stars": 426
+            "stars": 426,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -202,12 +288,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] PEGASUS: Personalized Generative 3D Avatars with Composable Attributes",
+            "homepage": null,
             "id": 765091443,
             "language": "Jupyter Notebook",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-30T11:29:38Z",
+            "open_issues": 0,
             "owner": "snuvclab",
             "repo": "pegasus",
-            "stars": 61
+            "stars": 61,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -218,12 +309,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[3DV 2024] Official Repository for \"TADA! Text to Animatable Digital Avatars\". ",
+            "homepage": "https://tada.is.tue.mpg.de",
             "id": 681009413,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-04-12T14:17:37Z",
+            "open_issues": 6,
             "owner": "TingtingLiao",
             "repo": "TADA",
-            "stars": 311
+            "stars": 311,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -234,12 +330,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2023] PrimDiffusion: Volumetric Primitives Diffusion for 3D Human Generation",
+            "homepage": "https://frozenburning.github.io/projects/primdiffusion/",
             "id": 728040010,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-08T02:21:08Z",
+            "open_issues": 1,
             "owner": "FrozenBurning",
             "repo": "PrimDiffusion",
-            "stars": 119
+            "stars": 119,
+            "topics": [
+              "3d-generation",
+              "3d-graphics",
+              "3d-human",
+              "diffusion-model",
+              "diffusion-models",
+              "generative-ai",
+              "generative-model",
+              "human-synthesis"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -250,12 +360,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "[NeurIPS 2023] XAGen: 3D Expressive Human Avatars Generation",
+            "homepage": "https://showlab.github.io/xagen/",
             "id": 722147918,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-04-05T02:18:08Z",
+            "open_issues": 3,
             "owner": "magic-research",
             "repo": "xagen",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -266,12 +381,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV23] AvatarCraft: Transforming Text into Neural Human Avatars with Parameterized Shape and Pose Control",
+            "homepage": null,
             "id": 615225473,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-08-11T14:35:56Z",
+            "open_issues": 3,
             "owner": "songrise",
             "repo": "AvatarCraft",
-            "stars": 189
+            "stars": 189,
+            "topics": [
+              "diffusion",
+              "nerf",
+              "text-to-3d"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -282,12 +406,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repo for StyleAvatar3D",
+            "homepage": null,
             "id": 646818001,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-11T06:04:18Z",
+            "open_issues": 3,
             "owner": "icoz69",
             "repo": "StyleAvatar3D",
-            "stars": 505
+            "stars": 505,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -298,12 +427,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 831056244,
             "language": null,
+            "license": null,
             "last_commit": "2023-12-12T05:07:01Z",
+            "open_issues": 0,
             "owner": "X-zhangyang",
             "repo": "Get3DHuman",
-            "stars": 0
+            "stars": 0,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -314,12 +448,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code release for ICCV2023 paper AG3D: Learning to Generate 3D Avatars from 2D Image Collections",
+            "homepage": "https://zj-dong.github.io/AG3D/",
             "id": 626835245,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-09-25T12:58:28Z",
+            "open_issues": 13,
             "owner": "zj-dong",
             "repo": "AG3D",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "3d-generation",
+              "avatar-generator"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -330,12 +472,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] Learning Locally Editable Virtual Humans",
+            "homepage": "https://custom-humans.github.io/",
             "id": 646884269,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-05-16T00:01:46Z",
+            "open_issues": 2,
             "owner": "custom-humans",
             "repo": "editable-humans",
-            "stars": 188
+            "stars": 188,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -346,12 +493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Implementation for \"Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures\"",
+            "homepage": null,
             "id": 565934354,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-01-26T18:11:40Z",
+            "open_issues": 19,
             "owner": "eladrich",
             "repo": "latent-nerf",
-            "stars": 713
+            "stars": 713,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -362,12 +514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICLR 2023 Spotlight] EVA3D: Compositional 3D Human Generation from 2D Image Collections",
+            "homepage": null,
             "id": 548862477,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-22T01:34:56Z",
+            "open_issues": 13,
             "owner": "hongfz16",
             "repo": "EVA3D",
-            "stars": 600
+            "stars": 600,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -378,12 +535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV'22] Official PyTorch Implementation of \"CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes\"",
+            "homepage": "https://clip-actor.github.io",
             "id": 511469468,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-08-23T08:06:38Z",
+            "open_issues": 0,
             "owner": "kaist-ami",
             "repo": "CLIP-Actor",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -394,12 +556,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[SIGGRAPH 2022 Journal Track] AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars",
+            "homepage": "https://hongfz16.github.io/projects/AvatarCLIP.html",
             "id": 488129853,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-15T12:46:00Z",
+            "open_issues": 19,
             "owner": "hongfz16",
             "repo": "AvatarCLIP",
-            "stars": 1100
+            "stars": 1100,
+            "topics": [
+              "3d-generation",
+              "motion-generation",
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         }
@@ -416,12 +587,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 1017245439,
             "language": null,
+            "license": null,
             "last_commit": "2025-08-04T01:55:06Z",
+            "open_issues": 2,
             "owner": "zyj-2000",
             "repo": "Talker",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -432,12 +608,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[SIGGRAPH 2023] ClipFace: Text-guided Editing of Textured 3D Morphable Models",
+            "homepage": "https://shivangi-aneja.github.io/projects/clipface/",
             "id": 571195633,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-03T10:07:25Z",
+            "open_issues": 3,
             "owner": "shivangi-aneja",
             "repo": "ClipFace",
-            "stars": 197
+            "stars": 197,
+            "topics": [
+              "3d-facial-animation",
+              "3d-texturing",
+              "3dmm",
+              "text-guided-manipulation",
+              "uv-mapping"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -448,12 +635,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A PyTorch implementation of \"LatentAvatar: Learning Latent Expression Code for Expressive Neural Head Avatar\"",
+            "homepage": null,
             "id": 635601958,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-04-02T06:10:43Z",
+            "open_issues": 8,
             "owner": "YuelangX",
             "repo": "LatentAvatar",
-            "stars": 107
+            "stars": 107,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -464,12 +656,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023 Highlight] Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars",
+            "homepage": "https://mrtornado24.github.io/Next3D/",
             "id": 568927674,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-10-13T03:55:36Z",
+            "open_issues": 25,
             "owner": "MrTornado24",
             "repo": "Next3D",
-            "stars": 501
+            "stars": 501,
+            "topics": [
+              "3d-aware-image-synthesis",
+              "gan",
+              "nerf"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -480,12 +681,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2023] OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering.",
+            "homepage": null,
             "id": 611590475,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-03-05T06:04:21Z",
+            "open_issues": 9,
             "owner": "theEricMa",
             "repo": "OTAvatar",
-            "stars": 323
+            "stars": 323,
+            "topics": [
+              "cvpr2023",
+              "deep-learning",
+              "deepfake",
+              "face-animation",
+              "face-reenactment",
+              "image-animation",
+              "motion-transfer",
+              "pose-transfer",
+              "pytorch",
+              "talking-head"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -496,12 +713,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Repository for CVPR 2023 paper PointAvatar: Deformable Point-based Head Avatars from Videos.",
+            "homepage": null,
             "id": 578739298,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-05T13:56:24Z",
+            "open_issues": 4,
             "owner": "zhengyuf",
             "repo": "PointAvatar",
-            "stars": 343
+            "stars": 343,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -512,12 +734,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 533778254,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-08-12T14:30:37Z",
+            "open_issues": 5,
             "owner": "USTC3DV",
             "repo": "NeRFBlendShape-code",
-            "stars": 224
+            "stars": 224,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -528,12 +755,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for the CVPR 2020 paper AvatarMe and the TPAMI 2021 AvatarMe++",
+            "homepage": "https://arxiv.org/abs/2112.05957",
             "id": 478688517,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-06T17:14:21Z",
+            "open_issues": 1,
             "owner": "lattas",
             "repo": "AvatarMe",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "3d-face-reconstruction",
+              "cvpr2020",
+              "gan",
+              "reflectance",
+              "rendering",
+              "tpami2021"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -544,12 +783,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Public repository for the CVPR 2020 paper AvatarMe and the TPAMI 2021 AvatarMe++",
+            "homepage": "https://arxiv.org/abs/2112.05957",
             "id": 478688517,
             "language": null,
+            "license": null,
             "last_commit": "2023-10-06T17:14:21Z",
+            "open_issues": 1,
             "owner": "lattas",
             "repo": "AvatarMe",
-            "stars": 175
+            "stars": 175,
+            "topics": [
+              "3d-face-reconstruction",
+              "cvpr2020",
+              "gan",
+              "reflectance",
+              "rendering",
+              "tpami2021"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         }
@@ -566,12 +817,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model",
+            "homepage": "https://mingyuan-zhang.github.io/projects/MotionDiffuse.html",
             "id": 532145731,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-19T21:25:48Z",
+            "open_issues": 26,
             "owner": "MotrixLab",
             "repo": "MotionDiffuse",
-            "stars": 980
+            "stars": 980,
+            "topics": [
+              "3d-generation",
+              "diffusion-model",
+              "motion-generation",
+              "text-driven"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -582,12 +843,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch implementation of the paper \"TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis\" ICCV 2023",
+            "homepage": "https://mathis.petrovich.fr/tmr",
             "id": 633313118,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-11T00:34:37Z",
+            "open_issues": 3,
             "owner": "Mathux",
             "repo": "TMR",
-            "stars": 308
+            "stars": 308,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -598,12 +864,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch implementation of the paper \"SINC: Spatial Composition of 3D Human Motions for Simultaneous Action Generation\" [ICCV 2023]",
+            "homepage": "https://sinc.is.tue.mpg.de",
             "id": 623479781,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-05T14:35:05Z",
+            "open_issues": 3,
             "owner": "atnikos",
             "repo": "sinc",
-            "stars": 101
+            "stars": 101,
+            "topics": [
+              "motion-control",
+              "motion-generation"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -614,12 +888,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for \"HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion\"",
+            "homepage": "http://actors-hq.com",
             "id": 633752971,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-17T10:45:58Z",
+            "open_issues": 17,
             "owner": "synthesiaresearch",
             "repo": "humanrf",
-            "stars": 496
+            "stars": 496,
+            "topics": [
+              "3d-reconstruction",
+              "computer-graphics",
+              "computer-vision",
+              "machine-learning",
+              "nerf",
+              "siggraph2023"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -630,12 +916,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official PyTorch implementation of the paper \"Human Motion Diffusion Model\"",
+            "homepage": null,
             "id": 543082997,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-10-01T00:29:26Z",
+            "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4092
+            "stars": 4092,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -646,12 +937,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Pytorch implementation of the paper \"MotionCLIP: Exposing Human Motion Generation to CLIP Space\"",
+            "homepage": null,
             "id": 469639200,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-18T15:17:15Z",
+            "open_issues": 23,
             "owner": "GuyTevet",
             "repo": "MotionCLIP",
-            "stars": 501
+            "stars": 501,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -662,12 +958,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch implementation of the paper \"TEMOS: Generating diverse human motions from textual descriptions\", ECCV 2022 (Oral)",
+            "homepage": "https://mathis.petrovich.fr/temos/",
             "id": 487791649,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-12-13T18:39:05Z",
+            "open_issues": 4,
             "owner": "Mathux",
             "repo": "TEMOS",
-            "stars": 454
+            "stars": 454,
+            "topics": [
+              "human-motion",
+              "motion-generation",
+              "text-analysis"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -678,12 +983,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch implementation of the paper \"TEACH: Temporal Action Compositions for 3D Humans\" [3DV 2022]",
+            "homepage": "https://teach.is.tue.mpg.de",
             "id": 522083433,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-11-05T14:34:25Z",
+            "open_issues": 2,
             "owner": "atnikos",
             "repo": "teach",
-            "stars": 399
+            "stars": 399,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         }
@@ -700,12 +1010,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for code and information related to the HumanOLAT dataset (ICCV 2025).",
+            "homepage": null,
             "id": 1029684445,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-17T10:25:09Z",
+            "open_issues": 3,
             "owner": "TMT22",
             "repo": "HumanOLAT",
-            "stars": 42
+            "stars": 42,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -716,12 +1031,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV2025] LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds",
+            "homepage": "https://aigc3d.github.io/projects/LHM/",
             "id": 948101416,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2026-03-17T05:17:23Z",
+            "open_issues": 54,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2664
+            "stars": 2664,
+            "topics": [
+              "aicg",
+              "aigc",
+              "digitalhuman"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -732,12 +1056,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025 Highlight] ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness",
+            "homepage": "https://boqian-li.github.io/ETCH/",
             "id": 945809868,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-09-26T04:50:41Z",
+            "open_issues": 1,
             "owner": "boqian-li",
             "repo": "ETCH",
-            "stars": 146
+            "stars": 146,
+            "topics": [
+              "3d-garment",
+              "3d-human-shape-and-pose-estimation",
+              "equivariance",
+              "equivariant-networks",
+              "human-pose-estimation",
+              "human-registration",
+              "smpl",
+              "smplx"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -748,12 +1086,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ICCV 2025] This repo is an official PyTorch implementation of PARTE: Part-Guided Texturing for 3D Human Reconstruction from a Single Image.",
+            "homepage": "https://hygenie1228.github.io/PARTE/",
             "id": 1052453898,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-09-19T09:35:42Z",
+            "open_issues": 0,
             "owner": "KimDonghwan06",
             "repo": "PARTE_RELEASE",
-            "stars": 18
+            "stars": 18,
+            "topics": [
+              "3d-human-reconstruction",
+              "3d-segmentation",
+              "3d-texturing",
+              "iccv2025",
+              "part-aware"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -764,12 +1113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for CVPR2024 paper \"HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models\"",
+            "homepage": null,
             "id": 775491766,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-05-13T02:18:05Z",
+            "open_issues": 4,
             "owner": "YifYang993",
             "repo": "HiLo",
-            "stars": 47
+            "stars": 47,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -780,12 +1134,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2024] The official repo for \"GaussianAvatar: Towards Realistic Human Avatar Modeling from a Single Video via Animatable 3D Gaussians\"",
+            "homepage": "https://huliangxiao.github.io/GaussianAvatar",
             "id": 726480557,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-03-26T12:20:47Z",
+            "open_issues": 55,
             "owner": "aipixel",
             "repo": "GaussianAvatar",
-            "stars": 603
+            "stars": 603,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -796,12 +1155,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[TPAMI 2023] Recovering 3D Human Mesh from Monocular Images: A Survey",
+            "homepage": "https://arxiv.org/pdf/2203.01923.pdf",
             "id": 465519124,
             "language": null,
+            "license": null,
             "last_commit": "2023-08-28T15:19:25Z",
+            "open_issues": 3,
             "owner": "tinatiansjz",
             "repo": "hmr-survey",
-            "stars": 360
+            "stars": 360,
+            "topics": [
+              "human-mesh-recovery",
+              "monocular-motion-capture",
+              "survey"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -812,12 +1180,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our ICCV'2023 paper \"SHERF: Generalizable Human NeRF from a Single Image\"",
+            "homepage": null,
             "id": 616947529,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-04-21T00:46:51Z",
+            "open_issues": 1,
             "owner": "skhu101",
             "repo": "SHERF",
-            "stars": 321
+            "stars": 321,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -828,12 +1201,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for \"HumanRF: High-Fidelity Neural Radiance Fields for Humans in Motion\"",
+            "homepage": "http://actors-hq.com",
             "id": 633752971,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-17T10:45:58Z",
+            "open_issues": 17,
             "owner": "synthesiaresearch",
             "repo": "humanrf",
-            "stars": 496
+            "stars": 496,
+            "topics": [
+              "3d-reconstruction",
+              "computer-graphics",
+              "computer-vision",
+              "machine-learning",
+              "nerf",
+              "siggraph2023"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -844,12 +1229,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-Fidelity Clothed Avatar Reconstruction from a Single Image (CVPR2023)",
+            "homepage": "https://tingtingliao.github.io/CAR/",
             "id": 608932426,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-06-06T11:21:34Z",
+            "open_issues": 8,
             "owner": "TingtingLiao",
             "repo": "CAR",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -860,12 +1250,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RAC: Reconstructing Animatable Categories from Videos. CVPR 2023",
+            "homepage": "https://gengshan-y.github.io/rac-www/",
             "id": 585416505,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2023-08-24T14:27:21Z",
+            "open_issues": 2,
             "owner": "gengshan-y",
             "repo": "rac",
-            "stars": 75
+            "stars": 75,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -876,12 +1271,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Representing Volumetric Videos as Dynamic MLP Maps\" CVPR 2023",
+            "homepage": null,
             "id": 614872379,
             "language": "Cuda",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-06T08:00:17Z",
+            "open_issues": 0,
             "owner": "zju3dv",
             "repo": "mlp_maps",
-            "stars": 237
+            "stars": 237,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -892,12 +1292,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2023] Code for \"Learning Neural Volumetric Representations of Dynamic Humans in Minutes\"",
+            "homepage": "https://zju3dv.github.io/instant_nvr",
             "id": 652694165,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-22T04:46:20Z",
+            "open_issues": 0,
             "owner": "zju3dv",
             "repo": "instant-nvr",
-            "stars": 162
+            "stars": 162,
+            "topics": [
+              "computer-vision",
+              "cvpr2023",
+              "digital-human",
+              "nerf",
+              "neural-rendering",
+              "view-synthesis"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -908,12 +1320,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official Code and Dataset for \"High-fidelity 3D Human Digitization from Single 2K Resolution Images\" (CVPR 2023 Highlight)",
+            "homepage": "https://sanghunhan92.github.io/conference/2K2K/",
             "id": 610134638,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-13T07:47:38Z",
+            "open_issues": 11,
             "owner": "SangHunHan92",
             "repo": "2K2K",
-            "stars": 263
+            "stars": 263,
+            "topics": [
+              "3d-reconstruction",
+              "cvpr2023",
+              "human-data"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -924,12 +1345,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'23, Highlight] ECON: Explicit Clothed humans Optimized via Normal integration",
+            "homepage": "https://xiuyuliang.cn/econ",
             "id": 544399418,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-09-17T21:59:40Z",
+            "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1206
+            "stars": 1207,
+            "topics": [
+              "3d-reconstruction",
+              "avatar-generator",
+              "computer-graphics",
+              "computer-vision",
+              "digital-twins",
+              "metaverse",
+              "normal-maps",
+              "pifu",
+              "pifuhd",
+              "smpl-body",
+              "smplx",
+              "virtual-humans"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -940,12 +1379,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "X-Avatar: Expressive Human Avatars (CVPR2023)",
+            "homepage": "https://skype-line.github.io/projects/X-Avatar/",
             "id": 610718618,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-05-27T13:50:52Z",
+            "open_issues": 7,
             "owner": "Skype-line",
             "repo": "X-Avatar",
-            "stars": 416
+            "stars": 416,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -956,12 +1400,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds (CVPR 2023)",
+            "homepage": null,
             "id": 579066853,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-08-02T00:06:20Z",
+            "open_issues": 13,
             "owner": "tijiang13",
             "repo": "InstantAvatar",
-            "stars": 429
+            "stars": 429,
+            "topics": [
+              "3d-human-reconstruction"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -972,12 +1423,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 552577960,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-27T18:12:56Z",
+            "open_issues": 1,
             "owner": "fengq1a0",
             "repo": "FOF",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -988,12 +1444,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[3DV-2022] The official repo for the  paper \"Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces\".",
+            "homepage": null,
             "id": 522406596,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-03-23T09:10:29Z",
+            "open_issues": 0,
             "owner": "zyhbili",
             "repo": "Dual-Space-NeRF",
-            "stars": 78
+            "stars": 78,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1004,12 +1465,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[AAAI 2023] Official implementation of \"Occupancy Planes for Single-view RGB-D Human Reconstruction\"",
+            "homepage": null,
             "id": 568505582,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-23T06:33:10Z",
+            "open_issues": 0,
             "owner": "Xiaoming-Zhao",
             "repo": "oplanes",
-            "stars": 16
+            "stars": 16,
+            "topics": [
+              "3d",
+              "human",
+              "human-reconstruction",
+              "reconstruction",
+              "rgbd",
+              "single-view-reconstruction"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1020,12 +1493,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 482679471,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-09-27T07:15:34Z",
+            "open_issues": 3,
             "owner": "nogu-atsu",
             "repo": "ENARF-GAN",
-            "stars": 71
+            "stars": 71,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1036,12 +1514,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository of NeuMan: Neural Human Radiance Field from a Single Video (ECCV 2022)",
+            "homepage": null,
             "id": 516054113,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-05-23T14:27:10Z",
+            "open_issues": 55,
             "owner": "apple",
             "repo": "ml-neuman",
-            "stars": 1286
+            "stars": 1286,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1052,12 +1535,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022] ARAH: Animatable Volume Rendering of Articulated Human SDFs",
+            "homepage": "https://neuralbodies.github.io/arah/",
             "id": 513576905,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-27T21:09:46Z",
+            "open_issues": 12,
             "owner": "taconite",
             "repo": "arah-release",
-            "stars": 190
+            "stars": 190,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1068,12 +1556,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is the official implementation of DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras.",
+            "homepage": null,
             "id": 515183014,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-08-05T16:00:02Z",
+            "open_issues": 13,
             "owner": "DSaurus",
             "repo": "DiffuStereo",
-            "stars": 206
+            "stars": 206,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1084,12 +1577,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022] This repo is official PyTorch implementation of 3D Clothed Human Reconstruction in the Wild.",
+            "homepage": null,
             "id": 512954274,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-04-08T12:38:00Z",
+            "open_issues": 4,
             "owner": "hygenie1228",
             "repo": "ClothWild_RELEASE",
-            "stars": 203
+            "stars": 203,
+            "topics": [
+              "3d-clothed-human-reconstruction",
+              "cloth-reconstruction"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1100,12 +1601,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2022] ARAH: Animatable Volume Rendering of Articulated Human SDFs",
+            "homepage": "https://neuralbodies.github.io/arah/",
             "id": 513576905,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-02-27T21:09:46Z",
+            "open_issues": 12,
             "owner": "taconite",
             "repo": "arah-release",
-            "stars": 190
+            "stars": 190,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1116,12 +1622,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "eccv 2022",
+            "homepage": null,
             "id": 512364552,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-03-28T03:04:03Z",
+            "open_issues": 1,
             "owner": "jsnln",
             "repo": "fite",
-            "stars": 100
+            "stars": 100,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1132,12 +1643,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Pytorch implementation for DANBO: Disentangled Articulated Neural Body Representations via Graph Neural Networks",
+            "homepage": null,
             "id": 514951730,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-06T17:26:02Z",
+            "open_issues": 1,
             "owner": "LemonATsu",
             "repo": "DANBO-pytorch",
-            "stars": 45
+            "stars": 45,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1148,12 +1664,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 467319995,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-01-10T08:01:34Z",
+            "open_issues": 17,
             "owner": "hzhao1997",
             "repo": "HF-Avatar",
-            "stars": 124
+            "stars": 124,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1164,12 +1685,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'22] ICON: Implicit Clothed humans Obtained from Normals",
+            "homepage": "https://icon.is.tue.mpg.de",
             "id": 433191004,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-23T16:44:57Z",
+            "open_issues": 52,
             "owner": "YuliangXiu",
             "repo": "ICON",
-            "stars": 1675
+            "stars": 1675,
+            "topics": [
+              "3d-reconstruction",
+              "animation",
+              "avatar-generator",
+              "cloth-simulation",
+              "computer-graphics",
+              "computer-vision",
+              "human-pose-estimation",
+              "implicit-functions",
+              "mesh-deformation",
+              "metaverse",
+              "normal-maps",
+              "pifu",
+              "pifuhd",
+              "pose-estimation",
+              "pytorch",
+              "smpl",
+              "smpl-body",
+              "smpl-model",
+              "smplx",
+              "virtual-humans"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1180,12 +1727,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code release for CVPR 2022 paper gDNA: Towards Generative Detailed Neural Avatars",
+            "homepage": null,
             "id": 445260723,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-11-04T10:40:07Z",
+            "open_issues": 9,
             "owner": "xuchen-ethz",
             "repo": "gdna",
-            "stars": 182
+            "stars": 182,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1196,12 +1748,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Implementation for \"3D human pose, shape and texture from low-resolution images and videos\", TPAMI 2021",
+            "homepage": null,
             "id": 356902686,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-06-19T07:30:51Z",
+            "open_issues": 4,
             "owner": "xuxy09",
             "repo": "RSC-Net",
-            "stars": 53
+            "stars": 53,
+            "topics": [
+              "3d",
+              "3d-human-mesh",
+              "3d-human-shape-and-pose-estimation",
+              "computer-vision",
+              "contrastive-learning",
+              "deep-learning",
+              "weakly-supervised-learning"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1212,12 +1777,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "MetaAvatar: Learning Animatable Clothed Human Models from Few Depth Images",
+            "homepage": "https://neuralbodies.github.io/metavatar/",
             "id": 435296391,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-06T02:02:43Z",
+            "open_issues": 1,
             "owner": "taconite",
             "repo": "MetaAvatar-release",
-            "stars": 119
+            "stars": 119,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1228,12 +1798,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[NeurIPS 2021] Garment4D: Garment Reconstruction from Point Cloud Sequences",
+            "homepage": "https://hongfz16.github.io/projects/Garment4D.html",
             "id": 421492623,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-12-11T08:12:22Z",
+            "open_issues": 4,
             "owner": "hongfz16",
             "repo": "Garment4D",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1244,12 +1819,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 396347443,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2022-01-11T02:04:35Z",
+            "open_issues": 12,
             "owner": "zhaofang0627",
             "repo": "AnchorUDF",
-            "stars": 65
+            "stars": 65,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1260,12 +1840,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Dynamic Surface Function Networks for Clothed Human Bodies",
+            "homepage": null,
             "id": 355551759,
             "language": null,
+            "license": null,
             "last_commit": "2021-04-12T07:20:57Z",
+            "open_issues": 1,
             "owner": "andreiburov",
             "repo": "DSFN",
-            "stars": 37
+            "stars": 37,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1276,12 +1861,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code release for ICCV 2021 paper SNARF: Differentiable Forward Skinning for Animating Non-rigid Neural Implicit Shapes.",
+            "homepage": "https://xuchen-ethz.github.io/snarf/",
             "id": 397179395,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-05-20T12:40:36Z",
+            "open_issues": 3,
             "owner": "xuchen-ethz",
             "repo": "snarf",
-            "stars": 297
+            "stars": 297,
+            "topics": [
+              "3d",
+              "3d-vision",
+              "animation",
+              "computer-graphics",
+              "computer-vision",
+              "iccv",
+              "iccv2021",
+              "implicit-functions",
+              "neural-network",
+              "skinning"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1292,12 +1893,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official implementation of the ICCV 2021 paper: \"The Power of Points for Modeling Humans in Clothing\". ",
+            "homepage": "https://qianlim.github.io/POP",
             "id": 402436022,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-12-06T15:46:27Z",
+            "open_issues": 12,
             "owner": "qianlim",
             "repo": "POP",
-            "stars": 193
+            "stars": 193,
+            "topics": [
+              "iccv2021",
+              "virtualhumans"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1308,12 +1917,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for \"Animatable Implicit Neural Representations for Creating Realistic Avatars from Videos\" TPAMI 2024, ICCV 2021",
+            "homepage": null,
             "id": 364952759,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-21T08:23:39Z",
+            "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
-            "stars": 524
+            "stars": 524,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1324,12 +1938,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'21] DeepSurfels: Learning Online Appearance Fusion https://onlinereconstruction.github.io/DeepSurfels",
+            "homepage": "https://onlinereconstruction.github.io/DeepSurfels",
             "id": 358663609,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-11T11:41:30Z",
+            "open_issues": 1,
             "owner": "onlinereconstruction",
             "repo": "deep_surfels",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1340,12 +1959,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains a pytorch implementation of \"StereoPIFu: Depth Aware Clothed Human Digitization via Stereo Vision\".",
+            "homepage": null,
             "id": 361094658,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2021-04-25T07:01:33Z",
+            "open_issues": 7,
             "owner": "CrisHY1995",
             "repo": "StereoPIFu_Code",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1356,12 +1980,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SMPLpix: Neural Avatars from 3D Human Models",
+            "homepage": null,
             "id": 336277941,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-07-29T09:18:41Z",
+            "open_issues": 1,
             "owner": "sergeyprokudin",
             "repo": "smplpix",
-            "stars": 456
+            "stars": 456,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1372,12 +2001,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 305506042,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-12T15:39:55Z",
+            "open_issues": 11,
             "owner": "bharat-b7",
             "repo": "LoopReg",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1388,12 +2022,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "HPBTT-Pytorch",
+            "homepage": null,
             "id": 306215046,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-01-10T13:40:32Z",
+            "open_issues": 5,
             "owner": "zhaofang0627",
             "repo": "HPBTT",
-            "stars": 35
+            "stars": 35,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1404,12 +2043,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Volumetric Human Teleportation (SIGGRAPH 2020 Real-Time Live) Monocular Real-Time Volumetric Performance Capture(ECCV 2020)",
+            "homepage": "https://project-splinter.github.io/",
             "id": 285776765,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-28T04:42:37Z",
+            "open_issues": 13,
             "owner": "Project-Splinter",
             "repo": "MonoPort",
-            "stars": 577
+            "stars": 577,
+            "topics": [
+              "3d-reconstruction",
+              "3d-vision",
+              "clothed-humans",
+              "deep-learning",
+              "eccv2020",
+              "machine-learning",
+              "monocular",
+              "performance-capture",
+              "pifu",
+              "pifuhd",
+              "pytorch",
+              "real-time",
+              "reconstruction",
+              "sdf",
+              "siggraph",
+              "teleportation",
+              "teleportvr",
+              "virtual-conference",
+              "virtual-reality",
+              "volumetric"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1420,12 +2085,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch implementation of \"I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image\", ECCV 2020",
+            "homepage": null,
             "id": 279795687,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2024-07-10T03:28:20Z",
+            "open_issues": 51,
             "owner": "mks0601",
             "repo": "I2L-MeshNet_RELEASE",
-            "stars": 738
+            "stars": 738,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1436,12 +2106,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ECCV2020 - Official code repository for the paper : Reconstructing NBA Players",
+            "homepage": null,
             "id": 290082945,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-02-23T20:37:25Z",
+            "open_issues": 4,
             "owner": "luyangzhu",
             "repo": "NBA-Players",
-            "stars": 102
+            "stars": 102,
+            "topics": [
+              "3d-human-mesh",
+              "3d-human-pose",
+              "3d-human-reconstruction",
+              "eccv-2020",
+              "eccv2020"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1452,12 +2133,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo for \"Combining Implicit Function Learning and Parametric Models for 3D Human Reconstruction, ECCV'20(Oral)\"\"",
+            "homepage": null,
             "id": 289299610,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-12T15:39:16Z",
+            "open_issues": 17,
             "owner": "bharat-b7",
             "repo": "IPNet",
-            "stars": 235
+            "stars": 235,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1468,12 +2154,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 290333931,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-10-07T12:28:53Z",
+            "open_issues": 4,
             "owner": "garvita-tiwari",
             "repo": "sizer",
-            "stars": 93
+            "stars": 93,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1484,12 +2175,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our CVPR 2020 (ORAL) paper - TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.",
+            "homepage": "https://virtualhumans.mpi-inf.mpg.de/tailornet/",
             "id": 272443615,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-03-04T08:02:16Z",
+            "open_issues": 1,
             "owner": "chaitanya100100",
             "repo": "TailorNet",
-            "stars": 435
+            "stars": 435,
+            "topics": [
+              "3d-computer-graphics",
+              "3d-computer-vision",
+              "3d-models",
+              "3d-reconstruction",
+              "3d-vision",
+              "clothing",
+              "garment",
+              "predict-garments"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1500,12 +2205,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository is the official implementation of Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction.",
+            "homepage": null,
             "id": 272286155,
             "language": "Jupyter Notebook",
+            "license": null,
             "last_commit": "2022-12-08T07:36:44Z",
+            "open_issues": 16,
             "owner": "simpleig",
             "repo": "Geo-PIFu",
-            "stars": 113
+            "stars": 113,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1516,12 +2226,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning to Transfer Texture from Clothing Images to 3D Humans, CVPR 2020",
+            "homepage": null,
             "id": 266662630,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-14T09:54:05Z",
+            "open_issues": 38,
             "owner": "miraymen",
             "repo": "pix2surf",
-            "stars": 361
+            "stars": 361,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1532,12 +2247,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "High-Resolution 3D Human Digitization from A Single Image.",
+            "homepage": null,
             "id": 206397095,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-19T14:38:14Z",
+            "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9737
+            "stars": 9737,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1548,12 +2268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR'2020] DeepDeform: Learning Non-rigid RGB-D Reconstruction with Semi-supervised Data",
+            "homepage": null,
             "id": 248071269,
             "language": "C++",
+            "license": null,
             "last_commit": "2020-10-15T12:24:18Z",
+            "open_issues": 2,
             "owner": "AljazBozic",
             "repo": "DeepDeform",
-            "stars": 187
+            "stars": 187,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1564,12 +2289,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the code that corresponds to our CVPR 2020 paper.",
+            "homepage": null,
             "id": 249314179,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-10-19T04:06:49Z",
+            "open_issues": 3,
             "owner": "diegothomas",
             "repo": "TetraTSDF",
-            "stars": 21
+            "stars": 21,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1580,12 +2310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 299360538,
             "language": null,
+            "license": null,
             "last_commit": "2020-09-28T16:02:20Z",
+            "open_issues": 3,
             "owner": "akcalakcal",
             "repo": "Multi_View_Consistent_Single_Image_3D_Human_Reconstruction",
-            "stars": 11
+            "stars": 11,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1596,12 +2331,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains the code for the paper \"PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization\"",
+            "homepage": "https://shunsukesaito.github.io/PIFu/",
             "id": 186289660,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-11-24T17:55:31Z",
+            "open_issues": 60,
             "owner": "shunsukesaito",
             "repo": "PIFu",
-            "stars": 1817
+            "stars": 1817,
+            "topics": [
+              "3d-printing",
+              "3d-reconstruction",
+              "arvr",
+              "computer-graphics",
+              "fashion",
+              "geometry-processing",
+              "human",
+              "iccv2019",
+              "pifu",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1612,12 +2363,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repo for \"Multi-Garment Net: Learning to Dress 3D People from Images, ICCV'19\"",
+            "homepage": null,
             "id": 216020139,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-12T15:38:50Z",
+            "open_issues": 23,
             "owner": "bharat-b7",
             "repo": "MultiGarmentNetwork",
-            "stars": 303
+            "stars": 303,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1628,12 +2384,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains code corresponding to the paper Learning to Reconstruct People in Clothing from a Single RGB Camera.",
+            "homepage": null,
             "id": 179462921,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-01-22T06:08:32Z",
+            "open_issues": 2,
             "owner": "thmoa",
             "repo": "octopus",
-            "stars": 247
+            "stars": 247,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1644,12 +2405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Repository for the paper \"TexturePose: Supervising Human Mesh Estimation with Texture Consistency\"",
+            "homepage": null,
             "id": 217418820,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-11-21T21:22:09Z",
+            "open_issues": 5,
             "owner": "geopavlakos",
             "repo": "TexturePose",
-            "stars": 137
+            "stars": 137,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1660,12 +2426,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains code corresponding to the paper \"Tex2Shape: Detailed Full Human Body Geometry from a Single Image\"",
+            "homepage": null,
             "id": 198264968,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-06-09T17:44:31Z",
+            "open_issues": 1,
             "owner": "thmoa",
             "repo": "tex2shape",
-            "stars": 272
+            "stars": 272,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1676,12 +2447,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This repository contains texture stitching code corresponding to the paper Detailed Human Avatars from Monocular Video.",
+            "homepage": null,
             "id": 181466035,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-11-22T22:16:55Z",
+            "open_issues": 2,
             "owner": "thmoa",
             "repo": "semantic_human_texture_stitching",
-            "stars": 160
+            "stars": 160,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         }
@@ -1698,12 +2474,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for CVPR 2024 highlight paper 4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations.",
+            "homepage": "https://eth-ait.github.io/4d-dress/",
             "id": 774418626,
             "language": "Python",
+            "license": null,
             "last_commit": "2025-11-27T17:29:37Z",
+            "open_issues": 3,
             "owner": "eth-ait",
             "repo": "4d-dress",
-            "stars": 139
+            "stars": 139,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1714,12 +2495,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR2023] REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos ",
+            "homepage": "https://lingtengqiu.github.io/2023/REC-MV/",
             "id": 607496146,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-08-13T16:24:09Z",
+            "open_issues": 11,
             "owner": "GAP-LAB-CUHK-SZ",
             "repo": "REC-MV",
-            "stars": 280
+            "stars": 280,
+            "topics": [
+              "3d-models",
+              "3d-reconstruction",
+              "deep-learning",
+              "nerf-in-the-wild",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1730,12 +2522,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for CVPR2023 paper \"HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics\"",
+            "homepage": null,
             "id": 651620170,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2025-05-20T13:00:41Z",
+            "open_issues": 16,
             "owner": "Dolorousrtur",
             "repo": "HOOD",
-            "stars": 204
+            "stars": 204,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1746,12 +2543,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 483264647,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-05-10T13:44:17Z",
+            "open_issues": 3,
             "owner": "non-void",
             "repo": "VirtualBones",
-            "stars": 129
+            "stars": 129,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1762,12 +2564,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code repository for our paper  DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact",
+            "homepage": "https://people.csail.mit.edu/liyifei/publication/diffcloth/",
             "id": 483351655,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-05-10T03:59:35Z",
+            "open_issues": 8,
             "owner": "omegaiota",
             "repo": "DiffCloth",
-            "stars": 430
+            "stars": 430,
+            "topics": [
+              "cloth-simulation",
+              "differentiable",
+              "differentiable-physics-engine",
+              "differentiable-programming",
+              "differentiable-simulations",
+              "inverse-dynamics",
+              "inverse-problems",
+              "optimization",
+              "physics-simulation",
+              "robotics",
+              "simulation",
+              "simulator"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1778,12 +2598,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 430210576,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-06-08T10:47:31Z",
+            "open_issues": 4,
             "owner": "isantesteban",
             "repo": "snug",
-            "stars": 202
+            "stars": 202,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1794,12 +2619,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 424300397,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-08T06:33:46Z",
+            "open_issues": 3,
             "owner": "MengZephyr",
             "repo": "DynamicNeuralGarments",
-            "stars": 57
+            "stars": 57,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1810,12 +2640,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 314309968,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-02-16T16:57:05Z",
+            "open_issues": 1,
             "owner": "hbertiche",
             "repo": "PBNS",
-            "stars": 116
+            "stars": 116,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1826,12 +2661,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 204392386,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-12-07T21:03:28Z",
+            "open_issues": 7,
             "owner": "williamljb",
             "repo": "HumanMultiView",
-            "stars": 44
+            "stars": 44,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1842,12 +2682,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Learning to Transfer Texture from Clothing Images to 3D Humans, CVPR 2020",
+            "homepage": null,
             "id": 266662630,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-03-14T09:54:05Z",
+            "open_issues": 38,
             "owner": "miraymen",
             "repo": "pix2surf",
-            "stars": 361
+            "stars": 361,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         }
@@ -1864,12 +2709,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 695814312,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-01-02T04:42:24Z",
+            "open_issues": 2,
             "owner": "UnitedHuman",
             "repo": "UnitedHuman",
-            "stars": 86
+            "stars": 86,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1880,12 +2730,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Text2Performer. Paper: Text2Performer: Text-Driven Human Video Generation",
+            "homepage": "https://yumingj.github.io/projects/Text2Performer.html",
             "id": 628911955,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-09-29T03:43:20Z",
+            "open_issues": 1,
             "owner": "yumingj",
             "repo": "Text2Performer",
-            "stars": 325
+            "stars": 325,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1896,12 +2751,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for Text2Human (SIGGRAPH 2022). Paper: Text2Human: Text-Driven Controllable Human Image Generation",
+            "homepage": "https://yumingj.github.io/projects/Text2Human.html",
             "id": 487817316,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-24T12:15:31Z",
+            "open_issues": 9,
             "owner": "yumingj",
             "repo": "Text2Human",
-            "stars": 847
+            "stars": 847,
+            "topics": [
+              "siggraph2022"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1912,12 +2774,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The PyTorch implementation for paper \"Neural Texture Extraction and Distribution for Controllable Person Image Synthesis\" (CVPR2022 Oral)",
+            "homepage": null,
             "id": 474273699,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2022-07-14T03:09:39Z",
+            "open_issues": 12,
             "owner": "RenYurui",
             "repo": "Neural-Texture-Extraction-Distribution",
-            "stars": 218
+            "stars": 218,
+            "topics": [
+              "deep-learning",
+              "person-image-generation",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1928,12 +2799,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 320973765,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-08-26T11:38:54Z",
+            "open_issues": 1,
             "owner": "Zhangjinso",
             "repo": "PISE",
-            "stars": 127
+            "stars": 127,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1944,12 +2820,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[ECCV 2020] XingGAN for Person Image Generation",
+            "homepage": "http://disi.unitn.it/~hao.tang/project/XingGAN.htm",
             "id": 262177346,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2023-02-17T23:57:40Z",
+            "open_issues": 3,
             "owner": "Ha0Tang",
             "repo": "XingGAN",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "appearance-features",
+              "crossing",
+              "deepfashion",
+              "eccv-2020",
+              "eccv2020",
+              "feature-fusion",
+              "generation",
+              "image-generation",
+              "non-local",
+              "pytorch",
+              "selectiongan",
+              "shape-features"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1960,12 +2854,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for the paper Progressive Pose Attention for Person Image Generation in CVPR19 (Oral).",
+            "homepage": null,
             "id": 173587324,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2023-02-11T19:15:30Z",
+            "open_issues": 40,
             "owner": "tengteng95",
             "repo": "Pose-Transfer",
-            "stars": 741
+            "stars": 741,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -1976,12 +2875,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PyTorch implementation of Generating Person Images with Appearance-aware Pose Stylizer (IJCAI 2020)",
+            "homepage": null,
             "id": 275725739,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2020-07-30T04:45:36Z",
+            "open_issues": 1,
             "owner": "siyuhuang",
             "repo": "PoseStylizer",
-            "stars": 81
+            "stars": 81,
+            "topics": [
+              "person-image-generation",
+              "pytorch"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         }
@@ -1998,12 +2905,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome research papers, projects, code, dataset, workshops etc. related to virtual try-on.",
+            "homepage": null,
             "id": 273734636,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-27T12:45:49Z",
+            "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3160
+            "stars": 3160,
+            "topics": [
+              "2d-virtual-try-on",
+              "3d-virtual-try-on",
+              "awesome-list",
+              "awesome-lists",
+              "cloth",
+              "collection",
+              "curated",
+              "curated-list",
+              "fashion",
+              "fashion-tech",
+              "garment",
+              "image",
+              "image-based",
+              "multi-pose",
+              "multi-pose-guided",
+              "try-on",
+              "video",
+              "video-virtual-try-on",
+              "virtual-try-on",
+              "vton"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2014,12 +2947,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official PyTorch implementation for the paper High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions (ECCV 2022).",
+            "homepage": null,
             "id": 507220350,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-12-31T02:19:18Z",
+            "open_issues": 64,
             "owner": "sangyun884",
             "repo": "HR-VITON",
-            "stars": 917
+            "stars": 917,
+            "topics": [
+              "image-generation",
+              "image-synthesis",
+              "virtual-try-on",
+              "virtual-tryon",
+              "virtual-tryon-ecommerce"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2030,12 +2974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "(ACM ToMM2023) The repository offers the official implementation of our paper in PyTorch.",
+            "homepage": null,
             "id": 357142429,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-06-05T16:39:47Z",
+            "open_issues": 5,
             "owner": "Amazingren",
             "repo": "CIT",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2046,12 +2995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for NeurIPS 2021 paper \"Towards Scalable Unpaired Virtual Try-On via Patch-Routed Spatially-Adaptive GAN\"",
+            "homepage": null,
             "id": 417697383,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-12-23T09:57:53Z",
+            "open_issues": 13,
             "owner": "xiezhy6",
             "repo": "PASTA-GAN",
-            "stars": 80
+            "stars": 81,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2062,12 +3016,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Personal repository for \"VOGUE: Try-On by StyleGAN Interpolation Optimization\" (CVPR 2021). SOTA results for  garments to deform according to the given body shape, while preserving pattern and material details.",
+            "homepage": "https://charmve.github.io/VOGUE-Try-On/web_home/demo_rewrite.html",
             "id": 346957748,
             "language": "HTML",
+            "license": "Apache-2.0",
             "last_commit": "2024-05-27T02:44:25Z",
+            "open_issues": 3,
             "owner": "Charmve",
             "repo": "VOGUE-Try-On",
-            "stars": 96
+            "stars": 96,
+            "topics": [
+              "charmve",
+              "csail",
+              "stylegan",
+              "stylegan2",
+              "try-on",
+              "tryton",
+              "vogue"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2078,12 +3045,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "(ICCV'21) Official code of \"Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing.\" (No longer actively maintained)",
+            "homepage": "https://cuiaiyu.github.io/dressing-in-order",
             "id": 357386419,
             "language": "Jupyter Notebook",
+            "license": "NOASSERTION",
             "last_commit": "2024-12-30T00:52:10Z",
+            "open_issues": 14,
             "owner": "cuiaiyu",
             "repo": "dressing-in-order",
-            "stars": 551
+            "stars": 551,
+            "topics": [
+              "iccv2021",
+              "pose-transfer"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2094,12 +3069,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[CVPR 2021] Disentangled Cycle Consistency for Highly-realistic Virtual Try-On",
+            "homepage": null,
             "id": 345945334,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-06-08T14:49:17Z",
+            "open_issues": 9,
             "owner": "ChongjianGE",
             "repo": "DCTON",
-            "stars": 103
+            "stars": 103,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2110,12 +3090,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for \"Parser-Free Virtual Try-on via Distilling Appearance Flows\", CVPR 2021. ",
+            "homepage": null,
             "id": 345255396,
             "language": "Python",
+            "license": null,
             "last_commit": "2021-10-09T13:35:40Z",
+            "open_issues": 63,
             "owner": "geyuying",
             "repo": "PF-AFN",
-            "stars": 558
+            "stars": 559,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2126,12 +3111,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Virtural try-on under arbitrary poses",
+            "homepage": null,
             "id": 225595450,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-05-17T11:10:42Z",
+            "open_issues": 21,
             "owner": "JDAI-CV",
             "repo": "Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving",
-            "stars": 216
+            "stars": 216,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2142,12 +3132,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official code for \"Towards Photo-Realistic Virtual Try-On by Adaptively Generating↔Preserving Image Content\"，CVPR‘20 https://arxiv.org/abs/2003.05863",
+            "homepage": null,
             "id": 228776814,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-10-04T09:24:03Z",
+            "open_issues": 9,
             "owner": "switchablenorms",
             "repo": "DeepFashion_Try_On",
-            "stars": 884
+            "stars": 884,
+            "topics": [
+              "acgpn",
+              "deepfashion",
+              "generative-adversarial-network",
+              "visual-try-on"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2158,12 +3158,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the unofficial implementation of SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On",
+            "homepage": null,
             "id": 296726227,
             "language": "Python",
+            "license": "MIT",
             "last_commit": "2021-06-15T15:42:42Z",
+            "open_issues": 4,
             "owner": "levindabhi",
             "repo": "SieveNet",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "2d-virtual-try-on",
+              "image-based-tryon",
+              "pytorch",
+              "pytorch-implementation",
+              "sievenet",
+              "vitual-tryon",
+              "vton"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2174,12 +3187,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TailorGAN: Making User-Defined Fashion Designs",
+            "homepage": "https://arxiv.org/abs/2001.06427v2",
             "id": 200159913,
             "language": "Python",
+            "license": null,
             "last_commit": "2020-03-27T16:48:32Z",
+            "open_issues": 2,
             "owner": "gli-27",
             "repo": "TailorGAN",
-            "stars": 28
+            "stars": 28,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         }
@@ -2196,12 +3214,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository for Structure-Aware Flow Generation for Human Body Reshaping (CVPR 2022)",
+            "homepage": null,
             "id": 468577594,
             "language": "Python",
+            "license": null,
             "last_commit": "2023-04-01T04:56:25Z",
+            "open_issues": 6,
             "owner": "JianqiangRen",
             "repo": "FlowBasedBodyReshaping",
-            "stars": 183
+            "stars": 183,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2214,12 +3237,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "official implementation of CVPR'20 oral paper: Generating 3D People in Scenes without People.: https://ps.is.tuebingen.mpg.de/publications/smpl-x-conditional-vae-prox-scene-constraints",
+                "homepage": null,
                 "id": 256805270,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2022-12-08T04:21:11Z",
+                "open_issues": 19,
                 "owner": "yz-cnsdqz",
                 "repo": "PSI-release",
-                "stars": 149
+                "stars": 149,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
             }
@@ -2237,12 +3265,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022 Oral] Official PyTorch Implementation of \"GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras”.",
+                "homepage": "https://nvlabs.github.io/GLAMR",
                 "id": 473342441,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2026-02-18T05:44:06Z",
+                "open_issues": 38,
                 "owner": "NVlabs",
                 "repo": "GLAMR",
-                "stars": 389
+                "stars": 389,
+                "topics": [
+                  "3d-reconstruction",
+                  "cvpr2022",
+                  "digital-human",
+                  "human-mesh-recovery",
+                  "human-pose-estimation",
+                  "pose-tracking"
+                ]
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
             },
@@ -2253,12 +3293,24 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "CVPR 2022 - Official code repository for the paper: Accurate 3D Body Shape Regression using Metric and Semantic Attributes.",
+                "homepage": "https://shapy.is.tue.mpg.de/",
                 "id": 475909592,
                 "language": "Python",
+                "license": null,
                 "last_commit": "2024-02-17T00:37:38Z",
+                "open_issues": 41,
                 "owner": "muelea",
                 "repo": "shapy",
-                "stars": 385
+                "stars": 385,
+                "topics": [
+                  "3d-human",
+                  "human-pose-estimation",
+                  "human-shape-estimation",
+                  "smpl",
+                  "smpl-model",
+                  "smpl-x"
+                ]
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
             },
@@ -2269,12 +3321,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "Code for the PoseScript (ECCV 22) and PoseFix (ICCV 23) papers.",
+                "homepage": null,
                 "id": 552923973,
                 "language": "Python",
+                "license": "NOASSERTION",
                 "last_commit": "2025-02-13T12:19:03Z",
+                "open_issues": 0,
                 "owner": "naver",
                 "repo": "posescript",
-                "stars": 206
+                "stars": 206,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
             }
@@ -2292,12 +3349,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022 Oral] Versatile Multi-Modal Pre-Training for Human-Centric Perception",
+                "homepage": null,
                 "id": 471930241,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-23T03:50:28Z",
+                "open_issues": 3,
                 "owner": "hongfz16",
                 "repo": "HCMoCo",
-                "stars": 125
+                "stars": 125,
+                "topics": [
+                  "human-centric",
+                  "pre-training"
+                ]
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
             }
@@ -2315,12 +3380,29 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "A MNIST-like fashion product database. Benchmark :point_down: ",
+                "homepage": "http://fashion-mnist.s3-website.eu-central-1.amazonaws.com/",
                 "id": 101399935,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-13T20:36:21Z",
+                "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12810
+                "stars": 12810,
+                "topics": [
+                  "benchmark",
+                  "computer-vision",
+                  "convolutional-neural-networks",
+                  "dataset",
+                  "deep-learning",
+                  "fashion",
+                  "fashion-mnist",
+                  "gan",
+                  "machine-learning",
+                  "mnist",
+                  "zalando"
+                ]
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
             },
@@ -2331,12 +3413,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "DeepFashion2 Dataset https://arxiv.org/pdf/1901.07973.pdf",
+                "homepage": null,
                 "id": 165797167,
                 "language": "Jupyter Notebook",
+                "license": null,
                 "last_commit": "2025-01-28T04:30:15Z",
+                "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2626
+                "stars": 2626,
+                "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
             },
@@ -2347,12 +3434,20 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "[CVPR 2022 Oral] Versatile Multi-Modal Pre-Training for Human-Centric Perception",
+                "homepage": null,
                 "id": 471930241,
                 "language": "Python",
+                "license": "MIT",
                 "last_commit": "2022-06-23T03:50:28Z",
+                "open_issues": 3,
                 "owner": "hongfz16",
                 "repo": "HCMoCo",
-                "stars": 125
+                "stars": 125,
+                "topics": [
+                  "human-centric",
+                  "pre-training"
+                ]
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
             }
@@ -2374,12 +3469,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "DressCode: Autoregressively Sewing and Generating Garments from Text Guidance.",
+            "homepage": null,
             "id": 791658021,
             "language": "Python",
+            "license": null,
             "last_commit": "2024-10-07T16:48:47Z",
+            "open_issues": 16,
             "owner": "IHe-KaiI",
             "repo": "DressCode",
-            "stars": 294
+            "stars": 295,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2390,12 +3490,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "[3DV 2025] GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details",
+            "homepage": "https://xuan-li.github.io/GarmentDreamerDemo/",
             "id": 886529163,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2025-10-02T07:19:29Z",
+            "open_issues": 2,
             "owner": "boqian-li",
             "repo": "GarmentDreamer",
-            "stars": 65
+            "stars": 65,
+            "topics": [
+              "3dv2025",
+              "aigc",
+              "computer-graphics",
+              "computer-vision",
+              "diffusion-models",
+              "garment-generation",
+              "gaussian-splatting",
+              "text-to-3d",
+              "texture-synthesis"
+            ]
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         }
@@ -2412,12 +3527,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "SMPL-X",
+            "homepage": "https://smpl-x.is.tue.mpg.de/",
             "id": 185815703,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-08-12T05:09:47Z",
+            "open_issues": 134,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2686
+            "stars": 2687,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         },
@@ -2428,12 +3548,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Code for our ICCV paper \"DeepHuman: 3D Human Reconstruction from a Single Image\"",
+            "homepage": "http://www.liuyebin.com/deephuman/deephuman.html",
             "id": 223683156,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2021-06-21T13:29:05Z",
+            "open_issues": 9,
             "owner": "ZhengZerong",
             "repo": "DeepHuman",
-            "stars": 431
+            "stars": 431,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
         }
@@ -2442,15 +3567,25 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:40:09.746Z",
+    "last_updated": "2026-08-29T04:29:09.581Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
+      "homepage": "https://github.com/weihaox/awesome-digital-human",
       "id": 366965099,
       "language": null,
+      "license": "MIT",
       "last_commit": "2026-04-18T02:42:41Z",
+      "open_issues": 0,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
-      "stars": 1977
+      "stars": 1977,
+      "topics": [
+        "avatar",
+        "clothed-people-digitalization",
+        "digital-human",
+        "virtual-try-on"
+      ]
     },
     "original_repository_sha": "5583c02aa1be39e592bc8168bdf3a3e86efc649f",
     "enhanced_repository": "enhansome/enhansome-digital-human",

@@ -42,7 +42,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 **SpatialReal — Real-time Lip-Synced Avatar Rendering for Voice AI Agents.**<br>
 *SpatialReal Team.*<br>
-2025\. \[[Website](https://spatialreal.ai/)] \[[Docs](https://docs.spatialreal.ai/overview/introduction)] \[[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-07]
+2025\. \[[Website](https://spatialreal.ai/)] \[[Docs](https://docs.spatialreal.ai/overview/introduction)] \[[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-08-28]
 
 Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with LiveKit voice agents via `pip install livekit-plugins-spatialreal`. Sub-1.5s latency, 10-20 KB/s bandwidth (vs 1-2 MB/s for cloud rendering), free avatar library, MIT licensed.
 
@@ -618,7 +618,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2212.06135)] \[[Project](https://3d-ava
 
 **ECON: Explicit Clothed humans Obtained from Normals.**<br>
 *Yuliang Xiu, Jinlong Yang, Xu Cao, Dimitrios Tzionas, Michael J. Black.*<br>
-CVPR 2023. \[[PDF](https://arxiv.org/abs)] \[[Project](https://xiuyuliang.cn/econ)] \[[Code](https://github.com/YuliangXiu/ECON) ⭐ 1,206 | 🐛 41 | 🌐 Python | 📅 2024-09-17]
+CVPR 2023. \[[PDF](https://arxiv.org/abs)] \[[Project](https://xiuyuliang.cn/econ)] \[[Code](https://github.com/YuliangXiu/ECON) ⭐ 1,207 | 🐛 41 | 🌐 Python | 📅 2024-09-17]
 
 **X-Avatar: Expressive Human Avatars.**<br>
 *[Kaiyue Shen](https://skype-line.github.io), Chen Guo, Manuel Kaufmann, Juan Jose Zarate, Julien Valentin, Jie Song, Otmar Hilliges.*<br>
@@ -1498,7 +1498,7 @@ ACM MM 2021. \[[PDF](https://arxiv.org/abs/2108.00386)]
 
 **Towards Scalable Unpaired Virtual Try-On via Patch-Routed Spatially-Adaptive GAN.**<br>
 *Zhenyu Xie, Zaiyu Huang, Fuwei Zhao, Haoye Dong, Michael Kampffmeyer, Xiaodan Liang.*<br>
-NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2111.10544)] \[[Code](https://github.com/xiezhy6/PASTA-GAN) ⭐ 80 | 🐛 13 | 🌐 Python | 📅 2021-12-23]
+NeurIPS 2021. \[[PDF](https://arxiv.org/abs/2111.10544)] \[[Code](https://github.com/xiezhy6/PASTA-GAN) ⭐ 81 | 🐛 13 | 🌐 Python | 📅 2021-12-23]
 
 **ZFlow: Gated Appearance Flow-based Virtual Try-on with 3D Priors.**<br>
 *Ayush Chopra, Rishabh Jain, Mayur Hemani, Balaji Krishnamurthy.*<br>
@@ -1550,7 +1550,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2103.09479)] \[[Code](https://github.co
 
 **PF-AFN: Parser-Free Virtual Try-on via Distilling Appearance Flows.**<br>
 *Yuying Ge, Yibing Song, Ruimao Zhang, Chongjian Ge, Wei Liu, Ping Luo.*<br>
-CVPR 2021. \[[PDF](https://arxiv.org/abs/2103.04559)] \[[Code](https://github.com/geyuying/PF-AFN) ⭐ 558 | 🐛 63 | 🌐 Python | 📅 2021-10-09]
+CVPR 2021. \[[PDF](https://arxiv.org/abs/2103.04559)] \[[Code](https://github.com/geyuying/PF-AFN) ⭐ 559 | 🐛 63 | 🌐 Python | 📅 2021-10-09]
 
 **Template-Free Try-on Image Synthesis via Semantic-guided Optimization.**<br>
 *Chien-Lung Chou, Chieh-Yun Chen, Chia-Wei Hsieh, Hong-Han Shuai, Jiaying Liu, Wen-Huang Cheng.*<br>
@@ -1685,7 +1685,7 @@ arxiv 2025. \[[PDF](https://arxiv.org/abs/2503.12052)] \[[Project](https://human
 
 **DressCode: Autoregressively Sewing and Generating Garments from Text Guidance.**<br>
 *Kai He, Kaixin Yao, Qixuan Zhang, Jingyi Yu, Lingjie Liu, Lan Xu.*<br>
-SIGGRAPH 2024 (TOG). \[[PDF](https://arxiv.org/abs/2401.16465)] \[[Project](https://ihe-kaii.github.io/DressCode)] \[[Github](https://github.com/IHe-KaiI/DressCode) ⭐ 294 | 🐛 16 | 🌐 Python | 📅 2024-10-07]
+SIGGRAPH 2024 (TOG). \[[PDF](https://arxiv.org/abs/2401.16465)] \[[Project](https://ihe-kaii.github.io/DressCode)] \[[Github](https://github.com/IHe-KaiI/DressCode) ⭐ 295 | 🐛 16 | 🌐 Python | 📅 2024-10-07]
 
 **GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details.**<br>
 *Boqian Li, Xuan Li, Ying Jiang, Tianyi Xie, Feng Gao, Huamin Wang, Yin Yang, Chenfanfu Jiang.*<br>
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,686 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,687 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 431 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-28._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
