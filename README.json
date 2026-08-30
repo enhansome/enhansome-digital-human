@@ -208,7 +208,7 @@
             "open_issues": 36,
             "owner": "lizhe00",
             "repo": "AnimatableGaussians",
-            "stars": 1093,
+            "stars": 1094,
             "topics": [
               "3d-gaussian-splatting",
               "3d-human",
@@ -826,7 +826,7 @@
             "open_issues": 26,
             "owner": "MotrixLab",
             "repo": "MotionDiffuse",
-            "stars": 980,
+            "stars": 981,
             "topics": [
               "3d-generation",
               "diffusion-model",
@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4092,
+            "stars": 4093,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1409,7 +1409,7 @@
             "open_issues": 13,
             "owner": "tijiang13",
             "repo": "InstantAvatar",
-            "stars": 429,
+            "stars": 430,
             "topics": [
               "3d-human-reconstruction"
             ]
@@ -1523,7 +1523,7 @@
             "open_issues": 55,
             "owner": "apple",
             "repo": "ml-neuman",
-            "stars": 1286,
+            "stars": 1287,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2910,7 +2910,7 @@
             "id": 273734636,
             "language": null,
             "license": null,
-            "last_commit": "2026-07-27T12:45:49Z",
+            "last_commit": "2026-08-29T20:54:09Z",
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
@@ -3536,7 +3536,7 @@
             "open_issues": 134,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2687,
+            "stars": 2688,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T11:46:13.931Z",
+    "last_updated": "2026-08-30T10:37:57.626Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3579,7 +3579,7 @@
       "open_issues": 0,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
-      "stars": 1977,
+      "stars": 1976,
       "topics": [
         "avatar",
         "clothed-people-digitalization",
