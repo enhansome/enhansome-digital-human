@@ -454,7 +454,7 @@ ICCV 2025. \[[PDF](https://arxiv.org/abs/2508.09137)] \[[Project](https://vcai.m
 
 **LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds.**<br>
 *Lingteng Qiu, Xiaodong Gu, Peihao Li, Qi Zuo, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan, Guanying Chen, Zilong Dong, Liefeng Bo.*<br>
-ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10625)] \[[Project](https://lingtengqiu.github.io/LHM)] \[[Github](https://github.com/aigc3d/LHM) ⭐ 2,664 | 🐛 54 | 🌐 Python | 📅 2026-03-17]
+ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10625)] \[[Project](https://lingtengqiu.github.io/LHM)] \[[Github](https://github.com/aigc3d/LHM) ⭐ 2,664 | 🐛 53 | 🌐 Python | 📅 2026-03-17]
 
 **ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness.**<br>
 *Boqian Li, Haiwen Feng, Zeyu Cai, Michael J. Black, Yuliang Xiu.*<br>
@@ -1244,7 +1244,7 @@ ICCV 2017. \[[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICC7.pd
 
 **4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations.**<br>
 *[Wenbo Wang](https://wenbwa.github.io), [Hsuan-I Ho](https://ait.ethz.ch/people/hohs), [Chen Guo](https://ait.ethz.ch/people/cheguo), [Boxiang Rong](https://ribosome-rbx.github.io), [Artur Grigorev](https://ait.ethz.ch/people/agrigorev), [Jie Song](https://ait.ethz.ch/people/song), [Juan Jose Zarate](https://ait.ethz.ch/people/jzarate), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
-CVPR 2024 (Highlight). \[[PDF](https://arxiv.org/abs/2404.18630)] \[[Project](https://eth-ait.github.io/4d-dress)] \[[Data](https://4d-dress.ait.ethz.ch)] \[[Code](https://github.com/eth-ait/4d-dress) ⭐ 139 | 🐛 3 | 🌐 Python | 📅 2025-11-27]
+CVPR 2024 (Highlight). \[[PDF](https://arxiv.org/abs/2404.18630)] \[[Project](https://eth-ait.github.io/4d-dress)] \[[Data](https://4d-dress.ait.ethz.ch)] \[[Code](https://github.com/eth-ait/4d-dress) ⭐ 140 | 🐛 3 | 🌐 Python | 📅 2025-11-27]
 
 **A Generative Multi-Resolution Pyramid and Normal-Conditioning 3D Cloth Draping.**<br>
 *Hunor Laczkó, Meysam Madadi, Sergio Escalera, Jordi Gonzalez.*<br>
@@ -1406,7 +1406,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2204.11823)] \[[Code](https://youtu.be/
 
 **Text2Human: Text-Driven Controllable Human Image Generation.**<br>
 *Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu.*<br>
-SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2205.15996)] \[[Code](https://github.com/yumingj/Text2Human) ⭐ 847 | 🐛 9 | 🌐 Python | 📅 2024-07-24] \[[Project](https://yumingj.github.io/projects/Text2Human.html)]
+SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2205.15996)] \[[Code](https://github.com/yumingj/Text2Human) ⭐ 846 | 🐛 9 | 🌐 Python | 📅 2024-07-24] \[[Project](https://yumingj.github.io/projects/Text2Human.html)]
 
 **Self-Supervised Correlation Mining Network for Person Image Generation.**<br>
 *Zijian Wang, Xingqun Qi, Kun Yuan, Muyi Sun.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,160 | 🐛 6 | 📅 2026-08-29]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,163 | 🐛 6 | 📅 2026-08-29]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1666,7 +1666,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,810 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,808 | 🐛 34 | 🌐 Python | 📅 2022-06-13
 * DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,626 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,688 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,691 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 431 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
