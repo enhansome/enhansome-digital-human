@@ -402,7 +402,7 @@ ICLR 2024. \[[PDF](http://arxiv.org/abs/2310.08580)] \[[Project](https://neu-vi.
 
 **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model.**<br>
 *[Mingyuan Zhang](https://mingyuan-zhang.github.io), [Zhongang Cai](https://caizhongang.github.io), [Liang Pan](https://github.com/paul007pl), [Fangzhou Hong](https://hongfz16.github.io), [Xinying Guo](https://gxyes.github.io), [Lei Yang](https://yanglei.me), [Ziwei Liu](https://liuziwei7.github.io).*<br>
-TPAMI 2024. \[[PDF](https://arxiv.org/abs/2208.15001)] \[[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] \[[Code](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 981 | 🐛 26 | 🌐 Python | 📅 2024-07-19]
+TPAMI 2024. \[[PDF](https://arxiv.org/abs/2208.15001)] \[[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] \[[Code](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 982 | 🐛 26 | 🌐 Python | 📅 2024-07-19]
 
 **TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis.**<br>
 *Mathis Petrovich, Michael J. Black and Gül Varol.*<br>
@@ -422,7 +422,7 @@ SIGGRAPH 2023 (Journal Track). \[[PDF](https://arxiv.org/abs/2303.14613)] \[[Pro
 
 **MDM: Human Motion Diffusion Model.**<br>
 *Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano.*<br>
-ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,093 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
+ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,092 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
 
 **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis.**<br>
 *[Rishabh Dabral](https://www.cse.iitb.ac.in/~rdabral), [Muhammad Hamza Mughal](https://m-hamza-mughal.github.io), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt).*<br>
@@ -434,7 +434,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2203.08063)] \[[Project](https://guytev
 
 **TEMOS: Generating diverse human motions from textual descriptions.**<br>
 *[Mathis Petrovich](https://mathis.petrovich.fr), Michael J. Black, Gül Varol.*<br>
-ECCV 2022. \[[PDF](https://arxiv.org/abs/2204.14109)] \[[Project](https://mathis.petrovich.fr/temos)] \[[Code](https://github.com/Mathux/TEMOS) ⭐ 454 | 🐛 4 | 🌐 Python | 📅 2023-12-13]
+ECCV 2022. \[[PDF](https://arxiv.org/abs/2204.14109)] \[[Project](https://mathis.petrovich.fr/temos)] \[[Code](https://github.com/Mathux/TEMOS) ⭐ 453 | 🐛 4 | 🌐 Python | 📅 2023-12-13]
 
 **TEACH: Temporal Action Composition for 3D Human.**<br>
 *Nikos Athanasiou, Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
@@ -1666,7 +1666,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,808 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,807 | 🐛 34 | 🌐 Python | 📅 2022-06-13
 * DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,626 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,691 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,693 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 431 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-01._
