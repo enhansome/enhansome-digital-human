@@ -502,7 +502,7 @@
             "open_issues": 19,
             "owner": "eladrich",
             "repo": "latent-nerf",
-            "stars": 713,
+            "stars": 712,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -665,7 +665,7 @@
             "open_issues": 25,
             "owner": "MrTornado24",
             "repo": "Next3D",
-            "stars": 501,
+            "stars": 502,
             "topics": [
               "3d-aware-image-synthesis",
               "gan",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12807,
+                "stars": 12809,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3478,7 +3478,7 @@
             "open_issues": 16,
             "owner": "IHe-KaiI",
             "repo": "DressCode",
-            "stars": 295,
+            "stars": 296,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3536,7 +3536,7 @@
             "open_issues": 134,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2693,
+            "stars": 2694,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T10:22:20.176Z",
+    "last_updated": "2026-09-02T09:51:01.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
