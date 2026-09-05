@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "pengHTYX",
             "repo": "PSHuman",
-            "stars": 460,
+            "stars": 461,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -208,7 +208,7 @@
             "open_issues": 36,
             "owner": "lizhe00",
             "repo": "AnimatableGaussians",
-            "stars": 1094,
+            "stars": 1095,
             "topics": [
               "3d-gaussian-splatting",
               "3d-human",
@@ -1143,7 +1143,7 @@
             "open_issues": 55,
             "owner": "aipixel",
             "repo": "GaussianAvatar",
-            "stars": 603,
+            "stars": 604,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2184,7 +2184,7 @@
             "open_issues": 1,
             "owner": "chaitanya100100",
             "repo": "TailorNet",
-            "stars": 435,
+            "stars": 434,
             "topics": [
               "3d-computer-graphics",
               "3d-computer-vision",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12809,
+                "stars": 12811,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T09:53:17.225Z",
+    "last_updated": "2026-09-05T09:15:42.375Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
