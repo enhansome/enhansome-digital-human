@@ -11,7 +11,7 @@
 
 ## Contributing
 
-Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-digital-human/pulls) ⭐ 1,976 | 🐛 0 | 📅 2026-04-18. You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-05-19 to produce them in the markdown format provided below.
+Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-digital-human/pulls) ⭐ 1,977 | 🐛 0 | 📅 2026-04-18. You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-05-19 to produce them in the markdown format provided below.
 
 ```Markdown
 **Here is the Paper Name.**<br>
@@ -434,7 +434,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2203.08063)] \[[Project](https://guytev
 
 **TEMOS: Generating diverse human motions from textual descriptions.**<br>
 *[Mathis Petrovich](https://mathis.petrovich.fr), Michael J. Black, Gül Varol.*<br>
-ECCV 2022. \[[PDF](https://arxiv.org/abs/2204.14109)] \[[Project](https://mathis.petrovich.fr/temos)] \[[Code](https://github.com/Mathux/TEMOS) ⭐ 453 | 🐛 4 | 🌐 Python | 📅 2023-12-13]
+ECCV 2022. \[[PDF](https://arxiv.org/abs/2204.14109)] \[[Project](https://mathis.petrovich.fr/temos)] \[[Code](https://github.com/Mathux/TEMOS) ⭐ 454 | 🐛 4 | 🌐 Python | 📅 2023-12-13]
 
 **TEACH: Temporal Action Composition for 3D Human.**<br>
 *Nikos Athanasiou, Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
@@ -502,7 +502,7 @@ CVPR 2024. \[[PDF](http://arxiv.org/abs/2312.05210)] \[[Project](https://neuralb
 
 **GaussianAvatar: Towards Realistic Human Avatar Modeling from A Single Video Via Animatable 3D Gaussians.**<br>
 *Liangxiao Hu, Hongwen Zhang, Yuxiang Zhang, Boyao Zhou, Boning Liu, Shengping Zhang, Liqiang Nie.*<br>
-CVPR 2024. \[[PDF](http://arxiv.org/abs/2312.02134)] \[[Project](https://huliangxiao.github.io/GaussianAvatar)] \[[Github](https://github.com/aipixel/GaussianAvatar) ⭐ 604 | 🐛 55 | 🌐 Python | 📅 2024-03-26]
+CVPR 2024. \[[PDF](http://arxiv.org/abs/2312.02134)] \[[Project](https://huliangxiao.github.io/GaussianAvatar)] \[[Github](https://github.com/aipixel/GaussianAvatar) ⭐ 605 | 🐛 55 | 🌐 Python | 📅 2024-03-26]
 
 **SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion.**<br>
 *[Hsuan-I Ho](https://azuxmioy.github.io), [Jie Song](https://ait.ethz.ch/people/song), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
@@ -1666,7 +1666,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,811 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,813 | 🐛 34 | 🌐 Python | 📅 2022-06-13
 * DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,629 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._

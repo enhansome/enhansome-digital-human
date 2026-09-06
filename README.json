@@ -967,7 +967,7 @@
             "open_issues": 4,
             "owner": "Mathux",
             "repo": "TEMOS",
-            "stars": 453,
+            "stars": 454,
             "topics": [
               "human-motion",
               "motion-generation",
@@ -1143,7 +1143,7 @@
             "open_issues": 55,
             "owner": "aipixel",
             "repo": "GaussianAvatar",
-            "stars": 604,
+            "stars": 605,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12811,
+                "stars": 12813,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T09:15:42.375Z",
+    "last_updated": "2026-09-06T09:37:19.330Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3579,7 +3579,7 @@
       "open_issues": 0,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
-      "stars": 1976,
+      "stars": 1977,
       "topics": [
         "avatar",
         "clothed-people-digitalization",
