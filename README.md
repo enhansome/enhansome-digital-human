@@ -11,7 +11,7 @@
 
 ## Contributing
 
-Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-digital-human/pulls) ⭐ 1,977 | 🐛 0 | 📅 2026-04-18. You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-05-19 to produce them in the markdown format provided below.
+Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-digital-human/pulls) ⭐ 1,978 | 🐛 0 | 📅 2026-04-18. You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-05-19 to produce them in the markdown format provided below.
 
 ```Markdown
 **Here is the Paper Name.**<br>
@@ -42,7 +42,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 **SpatialReal — Real-time Lip-Synced Avatar Rendering for Voice AI Agents.**<br>
 *SpatialReal Team.*<br>
-2025\. \[[Website](https://spatialreal.ai/)] \[[Docs](https://docs.spatialreal.ai/overview/introduction)] \[[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-01]
+2025\. \[[Website](https://spatialreal.ai/)] \[[Docs](https://docs.spatialreal.ai/overview/introduction)] \[[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-09-06]
 
 Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with LiveKit voice agents via `pip install livekit-plugins-spatialreal`. Sub-1.5s latency, 10-20 KB/s bandwidth (vs 1-2 MB/s for cloud rendering), free avatar library, MIT licensed.
 
@@ -422,7 +422,7 @@ SIGGRAPH 2023 (Journal Track). \[[PDF](https://arxiv.org/abs/2303.14613)] \[[Pro
 
 **MDM: Human Motion Diffusion Model.**<br>
 *Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano.*<br>
-ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,092 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
+ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,093 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
 
 **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis.**<br>
 *[Rishabh Dabral](https://www.cse.iitb.ac.in/~rdabral), [Muhammad Hamza Mughal](https://m-hamza-mughal.github.io), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt).*<br>
@@ -626,7 +626,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2303.04805)] \[[Project](https://skype-
 
 **InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds.**<br>
 *Tianjian Jiang, Xu Chen, Jie Song, Otmar Hilliges.*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2212.10550)] \[[Project](https://tijiang13.github.io/InstantAvatar)] \[[Code](https://github.com/tijiang13/InstantAvatar) ⭐ 430 | 🐛 13 | 🌐 Python | 📅 2024-08-02]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2212.10550)] \[[Project](https://tijiang13.github.io/InstantAvatar)] \[[Code](https://github.com/tijiang13/InstantAvatar) ⭐ 431 | 🐛 13 | 🌐 Python | 📅 2024-08-02]
 
 **Learning Visibility Field for Detailed 3D Human Reconstruction and Relighting.**<br>
 *Ruichen Zheng, Peng Li, Haoqian Wang, Tao Yu.*<br>
@@ -1022,7 +1022,7 @@ CVPR 2021. \[[PDF](https://arxiv.org/abs/2012.12890)] \[[Project](https://anr-av
 
 **SMPLpix: Neural Avatars from 3D Human Models.**<br>
 *Sergey Prokudin, Michael J. Black, Javier Romero.*<br>
-WACV 2021. \[[PDF](https://arxiv.org/abs/2008.06872)] \[[Code](https://github.com/sergeyprokudin/smplpix) ⭐ 456 | 🐛 1 | 🌐 Python | 📅 2024-07-29]
+WACV 2021. \[[PDF](https://arxiv.org/abs/2008.06872)] \[[Code](https://github.com/sergeyprokudin/smplpix) ⭐ 455 | 🐛 1 | 🌐 Python | 📅 2024-07-29]
 
 **Synthetic Training for Monocular Human Mesh Recovery.**<br>
 *Yu Sun, Qian Bao, Wu Liu, Wenpeng Gao, Yili Fu, Chuang Gan, Tao Mei.*<br>
@@ -1666,8 +1666,8 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,813 | 🐛 34 | 🌐 Python | 📅 2022-06-13
-* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,629 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,815 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,628 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
 * Fashionpedia. [\[Website\]](https://fashionpedia.github.io/home/index.html)
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,697 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,699 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 431 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-06._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._

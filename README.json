@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4092,
+            "stars": 4093,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1409,7 +1409,7 @@
             "open_issues": 13,
             "owner": "tijiang13",
             "repo": "InstantAvatar",
-            "stars": 430,
+            "stars": 431,
             "topics": [
               "3d-human-reconstruction"
             ]
@@ -1989,7 +1989,7 @@
             "open_issues": 1,
             "owner": "sergeyprokudin",
             "repo": "smplpix",
-            "stars": 456,
+            "stars": 455,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12813,
+                "stars": 12815,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3422,7 +3422,7 @@
                 "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2629,
+                "stars": 2628,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3536,7 +3536,7 @@
             "open_issues": 134,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2697,
+            "stars": 2699,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T09:37:19.330Z",
+    "last_updated": "2026-09-07T10:39:54.680Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3579,7 +3579,7 @@
       "open_issues": 0,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
-      "stars": 1977,
+      "stars": 1978,
       "topics": [
         "avatar",
         "clothed-people-digitalization",
