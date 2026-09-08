@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "pengHTYX",
             "repo": "PSHuman",
-            "stars": 461,
+            "stars": 460,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -852,7 +852,7 @@
             "open_issues": 3,
             "owner": "Mathux",
             "repo": "TMR",
-            "stars": 309,
+            "stars": 310,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4093,
+            "stars": 4095,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9736,
+            "stars": 9735,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 8,
             "owner": "omegaiota",
             "repo": "DiffCloth",
-            "stars": 430,
+            "stars": 431,
             "topics": [
               "cloth-simulation",
               "differentiable",
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3165,
+            "stars": 3166,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3302,7 +3302,7 @@
                 "open_issues": 41,
                 "owner": "muelea",
                 "repo": "shapy",
-                "stars": 385,
+                "stars": 386,
                 "topics": [
                   "3d-human",
                   "human-pose-estimation",
@@ -3536,7 +3536,7 @@
             "open_issues": 134,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2699,
+            "stars": 2700,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3557,7 +3557,7 @@
             "open_issues": 9,
             "owner": "ZhengZerong",
             "repo": "DeepHuman",
-            "stars": 431,
+            "stars": 430,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-07T10:39:54.680Z",
+    "last_updated": "2026-09-08T10:01:42.768Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3579,7 +3579,7 @@
       "open_issues": 0,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
-      "stars": 1978,
+      "stars": 1976,
       "topics": [
         "avatar",
         "clothed-people-digitalization",

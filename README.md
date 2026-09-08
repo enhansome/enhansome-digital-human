@@ -11,7 +11,7 @@
 
 ## Contributing
 
-Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-digital-human/pulls) ⭐ 1,978 | 🐛 0 | 📅 2026-04-18. You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-05-19 to produce them in the markdown format provided below.
+Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-digital-human/pulls) ⭐ 1,976 | 🐛 0 | 📅 2026-04-18. You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-05-19 to produce them in the markdown format provided below.
 
 ```Markdown
 **Here is the Paper Name.**<br>
@@ -42,7 +42,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 **SpatialReal — Real-time Lip-Synced Avatar Rendering for Voice AI Agents.**<br>
 *SpatialReal Team.*<br>
-2025\. \[[Website](https://spatialreal.ai/)] \[[Docs](https://docs.spatialreal.ai/overview/introduction)] \[[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal) ⭐ 1 | 🐛 3 | 🌐 Python | 📅 2026-09-06]
+2025\. \[[Website](https://spatialreal.ai/)] \[[Docs](https://docs.spatialreal.ai/overview/introduction)] \[[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal) ⭐ 1 | 🐛 0 | 🌐 Python | 📅 2026-09-07]
 
 Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with LiveKit voice agents via `pip install livekit-plugins-spatialreal`. Sub-1.5s latency, 10-20 KB/s bandwidth (vs 1-2 MB/s for cloud rendering), free avatar library, MIT licensed.
 
@@ -62,7 +62,7 @@ CVPR 2025. \[[Project page](https://lingtengqiu.github.io/2024/AniGS/)] \[[Paper
 
 **PSHuman: Photorealistic Single-image 3D Human Reconstruction using Cross-Scale Multiview Diffusion**<br>
 *Peng Li, Wangguandong Zheng, Yuan Liu, Tao Yu, Yangguang Li, Siyu Xia, Yan-Pei Cao, Yike Guo.*<br>
-CVPR 2025. \[[Project Page](https://penghtyx.github.io/PSHuman/)]  \[[Paper](https://arxiv.org/pdf/2409.10141)] \[[Code](https://github.com/pengHTYX/PSHuman/) ⭐ 461 | 🐛 22 | 🌐 Python | 📅 2024-12-11] \[[Demo](https://huggingface.co/spaces/RipleysNest/PSHuman)]
+CVPR 2025. \[[Project Page](https://penghtyx.github.io/PSHuman/)]  \[[Paper](https://arxiv.org/pdf/2409.10141)] \[[Code](https://github.com/pengHTYX/PSHuman/) ⭐ 460 | 🐛 22 | 🌐 Python | 📅 2024-12-11] \[[Demo](https://huggingface.co/spaces/RipleysNest/PSHuman)]
 
 **Pippo: High-Resolution Multi-View Humans from a Single Image**<br>
 *Yash Kant, Ethan Weber, Jin Kyu Kim, Rawal Khirodkar, Su Zhaoen, Julieta Martinez, Igor Gilitschenski, Shunsuke Saito, Timur Bagautdinov*<br>
@@ -406,7 +406,7 @@ TPAMI 2024. \[[PDF](https://arxiv.org/abs/2208.15001)] \[[Project](https://mingy
 
 **TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis.**<br>
 *Mathis Petrovich, Michael J. Black and Gül Varol.*<br>
-ICCV 2023. \[[PDF](https://arxiv.org/abs/2305.00976)] \[[Project](https://mathis.petrovich.fr/tmr/index.html)] \[[Code](https://github.com/Mathux/TMR) ⭐ 309 | 🐛 3 | 🌐 Python | 📅 2023-12-11]
+ICCV 2023. \[[PDF](https://arxiv.org/abs/2305.00976)] \[[Project](https://mathis.petrovich.fr/tmr/index.html)] \[[Code](https://github.com/Mathux/TMR) ⭐ 310 | 🐛 3 | 🌐 Python | 📅 2023-12-11]
 
 **SINC: Spatial Composition of 3D Human Motions for Simultaneous Action Generation.**<br>
 *Nikos Athanasiou, Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
@@ -422,7 +422,7 @@ SIGGRAPH 2023 (Journal Track). \[[PDF](https://arxiv.org/abs/2303.14613)] \[[Pro
 
 **MDM: Human Motion Diffusion Model.**<br>
 *Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano.*<br>
-ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,093 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
+ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,095 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
 
 **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis.**<br>
 *[Rishabh Dabral](https://www.cse.iitb.ac.in/~rdabral), [Muhammad Hamza Mughal](https://m-hamza-mughal.github.io), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt).*<br>
@@ -1276,7 +1276,7 @@ SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2205.01355)] \[[Code](https://githu
 
 **DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact.**<br>
 *[Yifei Li](https://people.csail.mit.edu/liyifei), [Tao Du](https://people.csail.mit.edu/taodu), [Kui Wu](https://people.csail.mit.edu/kuiwu), [Jie Xu](http://people.csail.mit.edu/jiex), [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech).*<br>
-TOG 2022. \[[PDF](https://arxiv.org/abs/2106.05306)] \[[Project](https://people.csail.mit.edu/liyifei/publication/diffcloth-differentiable-cloth-simulator)] \[[Code](https://github.com/omegaiota/DiffCloth) ⭐ 430 | 🐛 8 | 🌐 C++ | 📅 2024-05-10]
+TOG 2022. \[[PDF](https://arxiv.org/abs/2106.05306)] \[[Project](https://people.csail.mit.edu/liyifei/publication/diffcloth-differentiable-cloth-simulator)] \[[Code](https://github.com/omegaiota/DiffCloth) ⭐ 431 | 🐛 8 | 🌐 C++ | 📅 2024-05-10]
 
 **DIG: Draping Implicit Garment over the Human Body.**<br>
 *Ren Li, Benoît Guillard, Edoardo Remelli, Pascal Fua.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,165 | 🐛 6 | 📅 2026-08-29]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,166 | 🐛 6 | 📅 2026-08-29]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1636,7 +1636,7 @@ CVPR 2022 (Oral). \[[PDF](https://arxiv.org/abs/2112.01524)] \[[Project](https:/
 
 **Shapy: Accurate 3D Body Shape Regression Using Metric and Semantic Attributes.**<br>
 *Vasileios Choutas, Lea Muller, Chun-Hao P. Huang, Siyu Tang, Dimitrios Tzionas, Michael J. Black.*<br>
-CVPR 2022. \[[PDF](http://arxiv.org/abs/2206.07036)] \[[Project](https://shapy.is.tue.mpg.de)] \[[Code](https://github.com/muelea/shapy) ⭐ 385 | 🐛 41 | 🌐 Python | 📅 2024-02-17]
+CVPR 2022. \[[PDF](http://arxiv.org/abs/2206.07036)] \[[Project](https://shapy.is.tue.mpg.de)] \[[Code](https://github.com/muelea/shapy) ⭐ 386 | 🐛 41 | 🌐 Python | 📅 2024-02-17]
 
 **PoseScript: 3D Human Poses from Natural Language.**<br>
 *Ginger Delmas, Philippe Weinzaepfel, Thomas Lucas, Francesc Moreno-Noguer, Grégory Rogez.*<br>
@@ -1719,9 +1719,9 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,699 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,700 | 🐛 134 | 🌐 Python | 📅 2024-08-12]
 
-* `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 431 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
+* `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 430 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
 * `AGORA`. AGORA, proposed at CVPR 2021 [paper](https://openaccess.thecvf.com/content/CVPR2021/papers/Patel_AGORA_Avatars_in_Geography_Optimized_for_Regression_Analysis_CVPR_2021_paper.pdf), consists of 4240 scans spanning more than 350 unique subjects, all paired with SMPL-X fits.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-08._
