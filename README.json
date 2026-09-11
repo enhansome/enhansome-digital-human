@@ -208,7 +208,7 @@
             "open_issues": 36,
             "owner": "lizhe00",
             "repo": "AnimatableGaussians",
-            "stars": 1096,
+            "stars": 1097,
             "topics": [
               "3d-gaussian-splatting",
               "3d-human",
@@ -897,7 +897,7 @@
             "open_issues": 17,
             "owner": "synthesiaresearch",
             "repo": "humanrf",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "3d-reconstruction",
               "computer-graphics",
@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4096,
+            "stars": 4097,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1040,7 +1040,7 @@
             "open_issues": 53,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2667,
+            "stars": 2668,
             "topics": [
               "aicg",
               "aigc",
@@ -1210,7 +1210,7 @@
             "open_issues": 17,
             "owner": "synthesiaresearch",
             "repo": "humanrf",
-            "stars": 496,
+            "stars": 497,
             "topics": [
               "3d-reconstruction",
               "computer-graphics",
@@ -1329,7 +1329,7 @@
             "open_issues": 11,
             "owner": "SangHunHan92",
             "repo": "2K2K",
-            "stars": 263,
+            "stars": 264,
             "topics": [
               "3d-reconstruction",
               "cvpr2023",
@@ -2573,7 +2573,7 @@
             "open_issues": 8,
             "owner": "omegaiota",
             "repo": "DiffCloth",
-            "stars": 431,
+            "stars": 432,
             "topics": [
               "cloth-simulation",
               "differentiable",
@@ -3141,7 +3141,7 @@
             "open_issues": 9,
             "owner": "switchablenorms",
             "repo": "DeepFashion_Try_On",
-            "stars": 884,
+            "stars": 883,
             "topics": [
               "acgpn",
               "deepfashion",
@@ -3274,7 +3274,7 @@
                 "open_issues": 38,
                 "owner": "NVlabs",
                 "repo": "GLAMR",
-                "stars": 389,
+                "stars": 390,
                 "topics": [
                   "3d-reconstruction",
                   "cvpr2022",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12817,
+                "stars": 12818,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3422,7 +3422,7 @@
                 "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2628,
+                "stars": 2627,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3533,7 +3533,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-08-12T05:09:47Z",
-            "open_issues": 134,
+            "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
             "stars": 2705,
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T09:59:37.469Z",
+    "last_updated": "2026-09-11T09:57:41.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
