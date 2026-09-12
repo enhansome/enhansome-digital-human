@@ -1040,7 +1040,7 @@
             "open_issues": 53,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2668,
+            "stars": 2671,
             "topics": [
               "aicg",
               "aigc",
@@ -1519,9 +1519,9 @@
             "id": 516054113,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2023-05-23T14:27:10Z",
+            "last_commit": "2026-09-11T16:03:24Z",
             "open_issues": 55,
-            "owner": "apple",
+            "owner": "apple-aiml-research",
             "repo": "ml-neuman",
             "stars": 1287,
             "topics": []
@@ -2910,7 +2910,7 @@
             "id": 273734636,
             "language": null,
             "license": null,
-            "last_commit": "2026-08-29T20:54:09Z",
+            "last_commit": "2026-09-11T23:21:52Z",
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
@@ -3536,7 +3536,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2705,
+            "stars": 2706,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T09:57:41.033Z",
+    "last_updated": "2026-09-12T09:32:16.898Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
