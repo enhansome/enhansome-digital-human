@@ -992,7 +992,7 @@
             "open_issues": 2,
             "owner": "atnikos",
             "repo": "teach",
-            "stars": 399,
+            "stars": 398,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1065,7 +1065,7 @@
             "open_issues": 1,
             "owner": "boqian-li",
             "repo": "ETCH",
-            "stars": 146,
+            "stars": 147,
             "topics": [
               "3d-garment",
               "3d-human-shape-and-pose-estimation",
@@ -2531,7 +2531,7 @@
             "open_issues": 16,
             "owner": "Dolorousrtur",
             "repo": "HOOD",
-            "stars": 204,
+            "stars": 205,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 8,
             "owner": "omegaiota",
             "repo": "DiffCloth",
-            "stars": 432,
+            "stars": 433,
             "topics": [
               "cloth-simulation",
               "differentiable",
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T09:32:16.898Z",
+    "last_updated": "2026-09-13T10:32:59.291Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3576,10 +3576,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-04-18T02:42:41Z",
-      "open_issues": 0,
+      "open_issues": 2,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
-      "stars": 1976,
+      "stars": 1977,
       "topics": [
         "avatar",
         "clothed-people-digitalization",
