@@ -665,7 +665,7 @@
             "open_issues": 25,
             "owner": "MrTornado24",
             "repo": "Next3D",
-            "stars": 502,
+            "stars": 503,
             "topics": [
               "3d-aware-image-synthesis",
               "gan",
@@ -967,7 +967,7 @@
             "open_issues": 4,
             "owner": "Mathux",
             "repo": "TEMOS",
-            "stars": 454,
+            "stars": 455,
             "topics": [
               "human-motion",
               "motion-generation",
@@ -3478,7 +3478,7 @@
             "open_issues": 16,
             "owner": "IHe-KaiI",
             "repo": "DressCode",
-            "stars": 296,
+            "stars": 297,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T10:32:59.291Z",
+    "last_updated": "2026-09-14T10:55:37.920Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
