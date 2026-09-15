@@ -297,7 +297,7 @@
             "open_issues": 0,
             "owner": "snuvclab",
             "repo": "pegasus",
-            "stars": 61,
+            "stars": 60,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -823,7 +823,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-07-19T21:25:48Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "MotrixLab",
             "repo": "MotionDiffuse",
             "stars": 982,
@@ -1040,7 +1040,7 @@
             "open_issues": 53,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2671,
+            "stars": 2672,
             "topics": [
               "aicg",
               "aigc",
@@ -1276,7 +1276,7 @@
             "id": 614872379,
             "language": "Cuda",
             "license": "NOASSERTION",
-            "last_commit": "2023-12-06T08:00:17Z",
+            "last_commit": "2026-09-15T07:34:21Z",
             "open_issues": 0,
             "owner": "zju3dv",
             "repo": "mlp_maps",
@@ -1297,7 +1297,7 @@
             "id": 652694165,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2024-05-22T04:46:20Z",
+            "last_commit": "2026-09-15T07:34:08Z",
             "open_issues": 0,
             "owner": "zju3dv",
             "repo": "instant-nvr",
@@ -1523,7 +1523,7 @@
             "open_issues": 55,
             "owner": "apple-aiml-research",
             "repo": "ml-neuman",
-            "stars": 1287,
+            "stars": 1288,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1922,7 +1922,7 @@
             "id": 364952759,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2024-01-21T08:23:39Z",
+            "last_commit": "2026-09-15T07:34:08Z",
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9734,
+            "stars": 9732,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3168,
+            "stars": 3169,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3099,7 +3099,7 @@
             "open_issues": 63,
             "owner": "geyuying",
             "repo": "PF-AFN",
-            "stars": 559,
+            "stars": 560,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12818,
+                "stars": 12825,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T10:55:37.920Z",
+    "last_updated": "2026-09-15T10:22:08.482Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
