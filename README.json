@@ -743,7 +743,7 @@
             "open_issues": 5,
             "owner": "USTC3DV",
             "repo": "NeRFBlendShape-code",
-            "stars": 224,
+            "stars": 223,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -852,7 +852,7 @@
             "open_issues": 3,
             "owner": "Mathux",
             "repo": "TMR",
-            "stars": 310,
+            "stars": 311,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1040,7 +1040,7 @@
             "open_issues": 53,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2672,
+            "stars": 2673,
             "topics": [
               "aicg",
               "aigc",
@@ -1565,7 +1565,7 @@
             "open_issues": 13,
             "owner": "DSaurus",
             "repo": "DiffuStereo",
-            "stars": 206,
+            "stars": 207,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1694,7 +1694,7 @@
             "open_issues": 52,
             "owner": "YuliangXiu",
             "repo": "ICON",
-            "stars": 1677,
+            "stars": 1678,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3169,
+            "stars": 3170,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3478,7 +3478,7 @@
             "open_issues": 16,
             "owner": "IHe-KaiI",
             "repo": "DressCode",
-            "stars": 297,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T10:22:08.482Z",
+    "last_updated": "2026-09-16T10:14:56.954Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",

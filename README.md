@@ -42,7 +42,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 **SpatialReal — Real-time Lip-Synced Avatar Rendering for Voice AI Agents.**<br>
 *SpatialReal Team.*<br>
-2025\. \[[Website](https://spatialreal.ai/)] \[[Docs](https://docs.spatialreal.ai/overview/introduction)] \[[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal) ⭐ 1 | 🐛 2 | 🌐 Python | 📅 2026-09-14]
+2025\. \[[Website](https://spatialreal.ai/)] \[[Docs](https://docs.spatialreal.ai/overview/introduction)] \[[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal) ⭐ 1 | 🐛 1 | 🌐 Python | 📅 2026-09-15]
 
 Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with LiveKit voice agents via `pip install livekit-plugins-spatialreal`. Sub-1.5s latency, 10-20 KB/s bandwidth (vs 1-2 MB/s for cloud rendering), free avatar library, MIT licensed.
 
@@ -356,7 +356,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2302.04868)] \[[Project](https://junxua
 
 **Reconstructing Personalized Semantic Facial NeRF Models From Monocular Video.**<br>
 *Xuan Gao, ChengLai Zhong, Jun Xiang, Yang Hong, Yudong Guo, Juyong Zhang.*<br>
-TOG 2022. \[[PDF](https://arxiv.org/abs/2210.06108)] \[[Project](https://ustc3dv.github.io/NeRFBlendShape)] \[[Code](https://github.com/USTC3DV/NeRFBlendShape-code) ⭐ 224 | 🐛 5 | 🌐 Python | 📅 2023-08-12]
+TOG 2022. \[[PDF](https://arxiv.org/abs/2210.06108)] \[[Project](https://ustc3dv.github.io/NeRFBlendShape)] \[[Code](https://github.com/USTC3DV/NeRFBlendShape-code) ⭐ 223 | 🐛 5 | 🌐 Python | 📅 2023-08-12]
 
 **H3D-Net: Few-Shot High-Fidelity 3D Head Reconstruction.**<br>
 *Eduard Ramon, Gil Triginer, Janna Escur, Albert Pumarola, Jaime Garcia, Xavier Giro-i-Nieto, Francesc Moreno-Noguer.*<br>
@@ -406,7 +406,7 @@ TPAMI 2024. \[[PDF](https://arxiv.org/abs/2208.15001)] \[[Project](https://mingy
 
 **TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis.**<br>
 *Mathis Petrovich, Michael J. Black and Gül Varol.*<br>
-ICCV 2023. \[[PDF](https://arxiv.org/abs/2305.00976)] \[[Project](https://mathis.petrovich.fr/tmr/index.html)] \[[Code](https://github.com/Mathux/TMR) ⭐ 310 | 🐛 3 | 🌐 Python | 📅 2023-12-11]
+ICCV 2023. \[[PDF](https://arxiv.org/abs/2305.00976)] \[[Project](https://mathis.petrovich.fr/tmr/index.html)] \[[Code](https://github.com/Mathux/TMR) ⭐ 311 | 🐛 3 | 🌐 Python | 📅 2023-12-11]
 
 **SINC: Spatial Composition of 3D Human Motions for Simultaneous Action Generation.**<br>
 *Nikos Athanasiou, Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
@@ -454,7 +454,7 @@ ICCV 2025. \[[PDF](https://arxiv.org/abs/2508.09137)] \[[Project](https://vcai.m
 
 **LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds.**<br>
 *Lingteng Qiu, Xiaodong Gu, Peihao Li, Qi Zuo, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan, Guanying Chen, Zilong Dong, Liefeng Bo.*<br>
-ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10625)] \[[Project](https://lingtengqiu.github.io/LHM)] \[[Github](https://github.com/aigc3d/LHM) ⭐ 2,672 | 🐛 53 | 🌐 Python | 📅 2026-03-17]
+ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10625)] \[[Project](https://lingtengqiu.github.io/LHM)] \[[Github](https://github.com/aigc3d/LHM) ⭐ 2,673 | 🐛 53 | 🌐 Python | 📅 2026-03-17]
 
 **ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness.**<br>
 *Boqian Li, Haiwen Feng, Zeyu Cai, Michael J. Black, Yuliang Xiu.*<br>
@@ -694,7 +694,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2210.10036)] \[[Project](https://neural
 
 **DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras.**<br>
 *Ruizhi Shao, Zerong Zheng, Hongwen Zhang, Jingxiang Sun, Yebin Liu.*<br>
-ECCV (Oral) 2022. \[[PDF](https://arxiv.org/abs/2207.08000)] \[[Code](https://github.com/DSaurus/DiffuStereo) ⭐ 206 | 🐛 13 | 🌐 Python | 📅 2022-08-05]
+ECCV (Oral) 2022. \[[PDF](https://arxiv.org/abs/2207.08000)] \[[Code](https://github.com/DSaurus/DiffuStereo) ⭐ 207 | 🐛 13 | 🌐 Python | 📅 2022-08-05]
 
 **LoRD: Local 4D Implicit Representation for High-Fidelity Dynamic Human Modeling.**<br>
 *Boyan Jiang, Xinlin Ren, Mingsong Dou, Xiangyang Xue, Yanwei Fu, Yinda Zhang.*<br>
@@ -790,7 +790,7 @@ CVPR 2022. \[[PDF](http://cic.tju.edu.cn/faculty/likun/projects/HF-Avatar/assets
 
 **ICON: Implicit Clothed humans Obtained from Normals.**<br>
 *[Yuliang Xiu](https://ps.is.tuebingen.mpg.de/person/yxiu), [Jinlong Yang](https://ps.is.tuebingen.mpg.de/person/jyang), [Dimitrios Tzionas](https://ps.is.mpg.de/~dtzionas), [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.09127)] \[[Code](https://github.com/YuliangXiu/ICON) ⭐ 1,677 | 🐛 52 | 🌐 Python | 📅 2023-11-23]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.09127)] \[[Code](https://github.com/YuliangXiu/ICON) ⭐ 1,678 | 🐛 52 | 🌐 Python | 📅 2023-11-23]
 
 **DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering.**<br>
 *Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,169 | 🐛 6 | 📅 2026-09-11]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,170 | 🐛 6 | 📅 2026-09-11]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1685,7 +1685,7 @@ arxiv 2025. \[[PDF](https://arxiv.org/abs/2503.12052)] \[[Project](https://human
 
 **DressCode: Autoregressively Sewing and Generating Garments from Text Guidance.**<br>
 *Kai He, Kaixin Yao, Qixuan Zhang, Jingyi Yu, Lingjie Liu, Lan Xu.*<br>
-SIGGRAPH 2024 (TOG). \[[PDF](https://arxiv.org/abs/2401.16465)] \[[Project](https://ihe-kaii.github.io/DressCode)] \[[Github](https://github.com/IHe-KaiI/DressCode) ⭐ 297 | 🐛 16 | 🌐 Python | 📅 2024-10-07]
+SIGGRAPH 2024 (TOG). \[[PDF](https://arxiv.org/abs/2401.16465)] \[[Project](https://ihe-kaii.github.io/DressCode)] \[[Github](https://github.com/IHe-KaiI/DressCode) ⭐ 298 | 🐛 16 | 🌐 Python | 📅 2024-10-07]
 
 **GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details.**<br>
 *Boqian Li, Xuan Li, Ying Jiang, Tianyi Xie, Feng Gao, Huamin Wang, Yin Yang, Chenfanfu Jiang.*<br>
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-16._
