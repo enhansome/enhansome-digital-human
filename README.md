@@ -62,7 +62,7 @@ CVPR 2025. \[[Project page](https://lingtengqiu.github.io/2024/AniGS/)] \[[Paper
 
 **PSHuman: Photorealistic Single-image 3D Human Reconstruction using Cross-Scale Multiview Diffusion**<br>
 *Peng Li, Wangguandong Zheng, Yuan Liu, Tao Yu, Yangguang Li, Siyu Xia, Yan-Pei Cao, Yike Guo.*<br>
-CVPR 2025. \[[Project Page](https://penghtyx.github.io/PSHuman/)]  \[[Paper](https://arxiv.org/pdf/2409.10141)] \[[Code](https://github.com/pengHTYX/PSHuman/) ⭐ 461 | 🐛 22 | 🌐 Python | 📅 2024-12-11] \[[Demo](https://huggingface.co/spaces/RipleysNest/PSHuman)]
+CVPR 2025. \[[Project Page](https://penghtyx.github.io/PSHuman/)]  \[[Paper](https://arxiv.org/pdf/2409.10141)] \[[Code](https://github.com/pengHTYX/PSHuman/) ⭐ 462 | 🐛 22 | 🌐 Python | 📅 2024-12-11] \[[Demo](https://huggingface.co/spaces/RipleysNest/PSHuman)]
 
 **Pippo: High-Resolution Multi-View Humans from a Single Image**<br>
 *Yash Kant, Ethan Weber, Jin Kyu Kim, Rawal Khirodkar, Su Zhaoen, Julieta Martinez, Igor Gilitschenski, Shunsuke Saito, Timur Bagautdinov*<br>
@@ -110,7 +110,7 @@ ECCV 2024. \[[PDF](https://arxiv.org/abs/2407.06938)] \[[Project](https://rodinh
 
 **Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling.**<br>
 *Zhe Li, Zerong Zheng, Lizhen Wang, Yebin Liu..*<br>
-CVPR 2024. \[[PDF](http://arxiv.org/abs/2311.16096)] \[[Project](https://animatable-gaussians.github.io)] \[[Code](https://github.com/lizhe00/AnimatableGaussians) ⭐ 1,097 | 🐛 36 | 🌐 Python | 📅 2024-11-16]
+CVPR 2024. \[[PDF](http://arxiv.org/abs/2311.16096)] \[[Project](https://animatable-gaussians.github.io)] \[[Code](https://github.com/lizhe00/AnimatableGaussians) ⭐ 1,096 | 🐛 36 | 🌐 Python | 📅 2024-11-16]
 
 **HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation.**<br>
 *Xin Huang, Ruizhi Shao, Qi Zhang, Hongwen Zhang, Ying Feng, Yebin Liu, Qing Wang..*<br>
@@ -402,7 +402,7 @@ ICLR 2024. \[[PDF](http://arxiv.org/abs/2310.08580)] \[[Project](https://neu-vi.
 
 **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model.**<br>
 *[Mingyuan Zhang](https://mingyuan-zhang.github.io), [Zhongang Cai](https://caizhongang.github.io), [Liang Pan](https://github.com/paul007pl), [Fangzhou Hong](https://hongfz16.github.io), [Xinying Guo](https://gxyes.github.io), [Lei Yang](https://yanglei.me), [Ziwei Liu](https://liuziwei7.github.io).*<br>
-TPAMI 2024. \[[PDF](https://arxiv.org/abs/2208.15001)] \[[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] \[[Code](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 982 | 🐛 27 | 🌐 Python | 📅 2024-07-19]
+TPAMI 2024. \[[PDF](https://arxiv.org/abs/2208.15001)] \[[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] \[[Code](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 983 | 🐛 27 | 🌐 Python | 📅 2024-07-19]
 
 **TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis.**<br>
 *Mathis Petrovich, Michael J. Black and Gül Varol.*<br>
@@ -422,7 +422,7 @@ SIGGRAPH 2023 (Journal Track). \[[PDF](https://arxiv.org/abs/2303.14613)] \[[Pro
 
 **MDM: Human Motion Diffusion Model.**<br>
 *Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano.*<br>
-ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,099 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
+ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,100 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
 
 **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis.**<br>
 *[Rishabh Dabral](https://www.cse.iitb.ac.in/~rdabral), [Muhammad Hamza Mughal](https://m-hamza-mughal.github.io), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt).*<br>
@@ -502,7 +502,7 @@ CVPR 2024. \[[PDF](http://arxiv.org/abs/2312.05210)] \[[Project](https://neuralb
 
 **GaussianAvatar: Towards Realistic Human Avatar Modeling from A Single Video Via Animatable 3D Gaussians.**<br>
 *Liangxiao Hu, Hongwen Zhang, Yuxiang Zhang, Boyao Zhou, Boning Liu, Shengping Zhang, Liqiang Nie.*<br>
-CVPR 2024. \[[PDF](http://arxiv.org/abs/2312.02134)] \[[Project](https://huliangxiao.github.io/GaussianAvatar)] \[[Github](https://github.com/aipixel/GaussianAvatar) ⭐ 606 | 🐛 55 | 🌐 Python | 📅 2024-03-26]
+CVPR 2024. \[[PDF](http://arxiv.org/abs/2312.02134)] \[[Project](https://huliangxiao.github.io/GaussianAvatar)] \[[Github](https://github.com/aipixel/GaussianAvatar) ⭐ 605 | 🐛 55 | 🌐 Python | 📅 2024-03-26]
 
 **SiTH: Single-view Textured Human Reconstruction with Image-Conditioned Diffusion.**<br>
 *[Hsuan-I Ho](https://azuxmioy.github.io), [Jie Song](https://ait.ethz.ch/people/song), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
@@ -618,7 +618,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2212.06135)] \[[Project](https://3d-ava
 
 **ECON: Explicit Clothed humans Obtained from Normals.**<br>
 *Yuliang Xiu, Jinlong Yang, Xu Cao, Dimitrios Tzionas, Michael J. Black.*<br>
-CVPR 2023. \[[PDF](https://arxiv.org/abs)] \[[Project](https://xiuyuliang.cn/econ)] \[[Code](https://github.com/YuliangXiu/ECON) ⭐ 1,209 | 🐛 41 | 🌐 Python | 📅 2024-09-17]
+CVPR 2023. \[[PDF](https://arxiv.org/abs)] \[[Project](https://xiuyuliang.cn/econ)] \[[Code](https://github.com/YuliangXiu/ECON) ⭐ 1,210 | 🐛 41 | 🌐 Python | 📅 2024-09-17]
 
 **X-Avatar: Expressive Human Avatars.**<br>
 *[Kaiyue Shen](https://skype-line.github.io), Chen Guo, Manuel Kaufmann, Juan Jose Zarate, Julien Valentin, Jie Song, Otmar Hilliges.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,172 | 🐛 6 | 📅 2026-09-11]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,174 | 🐛 6 | 📅 2026-09-11]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1640,7 +1640,7 @@ CVPR 2022. \[[PDF](http://arxiv.org/abs/2206.07036)] \[[Project](https://shapy.i
 
 **PoseScript: 3D Human Poses from Natural Language.**<br>
 *Ginger Delmas, Philippe Weinzaepfel, Thomas Lucas, Francesc Moreno-Noguer, Grégory Rogez.*<br>
-ECCV 2022. \[[PDF](http://arxiv.org/abs/2210.11795)] \[[Code](https://github.com/naver/posescript) ⭐ 207 | 🐛 0 | 🌐 Python | 📅 2025-02-13]
+ECCV 2022. \[[PDF](http://arxiv.org/abs/2210.11795)] \[[Code](https://github.com/naver/posescript) ⭐ 208 | 🐛 0 | 🌐 Python | 📅 2025-02-13]
 
 ### Human-Centric Perception
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
