@@ -11,7 +11,7 @@
 
 ## Contributing
 
-Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-digital-human/pulls) ⭐ 1,979 | 🐛 2 | 📅 2026-04-18. You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-05-19 to produce them in the markdown format provided below.
+Feedback and contributions are welcome! If you think I have missed out on something (or) have any suggestions (papers, implementations and other resources), feel free to [pull a request](https://github.com/weihaox/awesome-digital-human/pulls) ⭐ 1,981 | 🐛 2 | 📅 2026-04-18. You could manually edit items or use the [script](https://github.com/weihaox/arxiv_daily_tools) ⭐ 19 | 🐛 0 | 🌐 Python | 📅 2023-05-19 to produce them in the markdown format provided below.
 
 ```Markdown
 **Here is the Paper Name.**<br>
@@ -106,7 +106,7 @@ CVPR 2025.  \[[PDF](https://arxiv.org/abs/2503.11143)] \[[Project](https://silen
 
 **RodinHD: High-Fidelity 3D Avatar Generation with Diffusion Models.**<br>
 *Bowen Zhang, Yiji Cheng, Chunyu Wang, Ting Zhang, Jiaolong Yang, Yansong Tang, Feng Zhao, Dong Chen, Baining Guo.*<br>
-ECCV 2024. \[[PDF](https://arxiv.org/abs/2407.06938)] \[[Project](https://rodinhd.github.io)] \[[Code](https://github.com/RodinHD/RodinHD) ⭐ 213 | 🐛 0 | 🌐 Python | 📅 2025-01-15]
+ECCV 2024. \[[PDF](https://arxiv.org/abs/2407.06938)] \[[Project](https://rodinhd.github.io)] \[[Code](https://github.com/RodinHD/RodinHD) ⭐ 214 | 🐛 0 | 🌐 Python | 📅 2025-01-15]
 
 **Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling.**<br>
 *Zhe Li, Zerong Zheng, Lizhen Wang, Yebin Liu..*<br>
@@ -118,7 +118,7 @@ CVPR 2024. \[[PDF](https://arxiv.org/abs/2310.01406)] \[[Project](https://humann
 
 **RAM-Avatar: Real-time Photo-Realistic Avatar from Monocular Videos with Full-body Control.**<br>
 *Xiang Deng, Zerong Zheng, Yuxiang Zhang, Jingxiang Sun, Chao Xu, XiaoDong Yang, Lizhen Wang, Yebin Liu.*<br>
-CVPR 2024. \[[PDF](https://cloud.tsinghua.edu.cn/f/6b7a88c3b4ac43b0b506/?dl=1)] \[[Project](https://github.com/Xiang-Deng00/RAM-Avatar) ⭐ 69 | 🐛 2 | 🌐 Python | 📅 2025-08-11] \[[Code](https://github.com/Xiang-Deng00/RAM-Avatar) ⭐ 69 | 🐛 2 | 🌐 Python | 📅 2025-08-11]
+CVPR 2024. \[[PDF](https://cloud.tsinghua.edu.cn/f/6b7a88c3b4ac43b0b506/?dl=1)] \[[Project](https://github.com/Xiang-Deng00/RAM-Avatar) ⭐ 69 | 🐛 3 | 🌐 Python | 📅 2025-08-11] \[[Code](https://github.com/Xiang-Deng00/RAM-Avatar) ⭐ 69 | 🐛 3 | 🌐 Python | 📅 2025-08-11]
 
 **TexVocab: Texture Vocabulary-conditioned Human Avatars.**<br>
 *Yuxiao Liu, Zhe Li, Yebin Liu, Haoqian Wang.*<br>
@@ -146,7 +146,7 @@ CVPR 2024. \[[PDF](http://arxiv.org/abs/2312.04466)]
 
 **GauHuman: Articulated Gaussian Splatting from Monocular Human Videos.**<br>
 *Shoukang Hu, Ziwei Liu.*<br>
-CVPR 2024. \[[PDF](http://arxiv.org/abs/2312.02973v1)] \[[Project](https://skhu101.github.io/GauHuman)] \[[Code](https://github.com/skhu101/GauHuman) ⭐ 426 | 🐛 2 | 🌐 Python | 📅 2024-07-04]
+CVPR 2024. \[[PDF](http://arxiv.org/abs/2312.02973v1)] \[[Project](https://skhu101.github.io/GauHuman)] \[[Code](https://github.com/skhu101/GauHuman) ⭐ 427 | 🐛 2 | 🌐 Python | 📅 2024-07-04]
 
 **FlashAvatar: High-Fidelity Digital Avatar Rendering at 300FPS.**<br>
 *Jun Xiang, Xuan Gao, Yudong Guo, Juyong Zhang.*<br>
@@ -230,7 +230,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2211.07600)]  \[[Code](https://github.c
 
 **EVA3D: Compositional 3D Human Generation from 2D Image Collections.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io), [Zhaoxi Chen](https://frozenburning.github.io), [Yushi Lan](https://github.com/NIRVANALAN), [Liang Pan](https://scholar.google.com/citations?user=lSDISOcAAAAJ\&hl=zh-CN), [Ziwei Liu](https://liuziwei7.github.io).*<br>
-ICLR 2023. \[[PDF](https://arxiv.org/abs/2210.04888)] \[[Project](https://hongfz16.github.io/projects/EVA3D.html)] \[[Code](https://github.com/hongfz16/EVA3D) ⭐ 600 | 🐛 13 | 🌐 Python | 📅 2023-11-22]
+ICLR 2023. \[[PDF](https://arxiv.org/abs/2210.04888)] \[[Project](https://hongfz16.github.io/projects/EVA3D.html)] \[[Code](https://github.com/hongfz16/EVA3D) ⭐ 601 | 🐛 13 | 🌐 Python | 📅 2023-11-22]
 
 **CLIP-Actor: Text-Driven Recommendation and Stylization for Animating Human Meshes.**<br>
 *Kim Youwang, Kim Ji-Yeon, Tae-Hyun Oh.*<br>
@@ -406,7 +406,7 @@ TPAMI 2024. \[[PDF](https://arxiv.org/abs/2208.15001)] \[[Project](https://mingy
 
 **TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis.**<br>
 *Mathis Petrovich, Michael J. Black and Gül Varol.*<br>
-ICCV 2023. \[[PDF](https://arxiv.org/abs/2305.00976)] \[[Project](https://mathis.petrovich.fr/tmr/index.html)] \[[Code](https://github.com/Mathux/TMR) ⭐ 311 | 🐛 3 | 🌐 Python | 📅 2023-12-11]
+ICCV 2023. \[[PDF](https://arxiv.org/abs/2305.00976)] \[[Project](https://mathis.petrovich.fr/tmr/index.html)] \[[Code](https://github.com/Mathux/TMR) ⭐ 312 | 🐛 3 | 🌐 Python | 📅 2023-12-11]
 
 **SINC: Spatial Composition of 3D Human Motions for Simultaneous Action Generation.**<br>
 *Nikos Athanasiou, Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
@@ -422,7 +422,7 @@ SIGGRAPH 2023 (Journal Track). \[[PDF](https://arxiv.org/abs/2303.14613)] \[[Pro
 
 **MDM: Human Motion Diffusion Model.**<br>
 *Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano.*<br>
-ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,101 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
+ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,100 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
 
 **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis.**<br>
 *[Rishabh Dabral](https://www.cse.iitb.ac.in/~rdabral), [Muhammad Hamza Mughal](https://m-hamza-mughal.github.io), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt).*<br>
@@ -618,7 +618,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2212.06135)] \[[Project](https://3d-ava
 
 **ECON: Explicit Clothed humans Obtained from Normals.**<br>
 *Yuliang Xiu, Jinlong Yang, Xu Cao, Dimitrios Tzionas, Michael J. Black.*<br>
-CVPR 2023. \[[PDF](https://arxiv.org/abs)] \[[Project](https://xiuyuliang.cn/econ)] \[[Code](https://github.com/YuliangXiu/ECON) ⭐ 1,210 | 🐛 41 | 🌐 Python | 📅 2024-09-17]
+CVPR 2023. \[[PDF](https://arxiv.org/abs)] \[[Project](https://xiuyuliang.cn/econ)] \[[Code](https://github.com/YuliangXiu/ECON) ⭐ 1,211 | 🐛 41 | 🌐 Python | 📅 2024-09-17]
 
 **X-Avatar: Expressive Human Avatars.**<br>
 *[Kaiyue Shen](https://skype-line.github.io), Chen Guo, Manuel Kaufmann, Juan Jose Zarate, Julien Valentin, Jie Song, Otmar Hilliges.*<br>
@@ -1284,7 +1284,7 @@ ACCV 2022. \[[PDF](https://arxiv.org/abs/2209.10845)]
 
 **SNUG: Self-Supervised Neural Dynamic Garments.**<br>
 *Igor Santesteban, Miguel A. Otaduy, Dan Casas.*<br>
-CVPR 2022 (Oral). \[[PDF](https://arxiv.org/abs/2204.02219)] \[[Project](http://mslab.es/projects/SNUG)] \[[Code](https://github.com/isantesteban/snug) ⭐ 203 | 🐛 4 | 🌐 Python | 📅 2022-06-08]
+CVPR 2022 (Oral). \[[PDF](https://arxiv.org/abs/2204.02219)] \[[Project](http://mslab.es/projects/SNUG)] \[[Code](https://github.com/isantesteban/snug) ⭐ 204 | 🐛 4 | 🌐 Python | 📅 2022-06-08]
 
 **Registering Explicit to Implicit: Towards High-Fidelity Garment mesh Reconstruction from Single Images.**<br>
 *Heming Zhu, Lingteng Qiu, Yuda Qiu, Xiaoguang Han.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,176 | 🐛 6 | 📅 2026-09-11]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,178 | 🐛 6 | 📅 2026-09-11]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1570,7 +1570,7 @@ ACM MM 2020. \[[PDF](https://arxiv.org/abs/2009.04592)] \[[Project](http://mslab
 
 **Towards Photo-Realistic Virtual Try-On by Adaptively Generating Preserving Image Content.**<br>
 *Han Yang, Ruimao Zhang, Xiaobao Guo, Wei Liu, Wangmeng Zuo, Ping Luo.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.05863)] \[[Code](https://github.com/switchablenorms/DeepFashion_Try_On) ⭐ 883 | 🐛 9 | 🌐 Python | 📅 2022-10-04]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.05863)] \[[Code](https://github.com/switchablenorms/DeepFashion_Try_On) ⭐ 884 | 🐛 9 | 🌐 Python | 📅 2022-10-04]
 
 **PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer.**<br>
 *Wentao Jiang, Si Liu, Chen Gao, Jie Cao, Ran He, Jiashi Feng, Shuicheng Yan.*<br>
@@ -1640,7 +1640,7 @@ CVPR 2022. \[[PDF](http://arxiv.org/abs/2206.07036)] \[[Project](https://shapy.i
 
 **PoseScript: 3D Human Poses from Natural Language.**<br>
 *Ginger Delmas, Philippe Weinzaepfel, Thomas Lucas, Francesc Moreno-Noguer, Grégory Rogez.*<br>
-ECCV 2022. \[[PDF](http://arxiv.org/abs/2210.11795)] \[[Code](https://github.com/naver/posescript) ⭐ 208 | 🐛 0 | 🌐 Python | 📅 2025-02-13]
+ECCV 2022. \[[PDF](http://arxiv.org/abs/2210.11795)] \[[Code](https://github.com/naver/posescript) ⭐ 209 | 🐛 0 | 🌐 Python | 📅 2025-02-13]
 
 ### Human-Centric Perception
 
@@ -1666,8 +1666,8 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,829 | 🐛 34 | 🌐 Python | 📅 2022-06-13
-* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,629 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,831 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,627 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
 * Fashionpedia. [\[Website\]](https://fashionpedia.github.io/home/index.html)
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,713 | 🐛 135 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,714 | 🐛 135 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 430 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-21._
