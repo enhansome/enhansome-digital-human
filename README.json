@@ -252,7 +252,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-08-11T03:46:04Z",
-            "open_issues": 3,
+            "open_issues": 2,
             "owner": "Xiang-Deng00",
             "repo": "RAM-Avatar",
             "stars": 68,
@@ -457,7 +457,7 @@
             "open_issues": 13,
             "owner": "zj-dong",
             "repo": "AG3D",
-            "stars": 273,
+            "stars": 272,
             "topics": [
               "3d-generation",
               "avatar-generator"
@@ -852,7 +852,7 @@
             "open_issues": 3,
             "owner": "Mathux",
             "repo": "TMR",
-            "stars": 312,
+            "stars": 313,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4102,
+            "stars": 4104,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -967,7 +967,7 @@
             "open_issues": 4,
             "owner": "Mathux",
             "repo": "TEMOS",
-            "stars": 455,
+            "stars": 456,
             "topics": [
               "human-motion",
               "motion-generation",
@@ -1040,7 +1040,7 @@
             "open_issues": 53,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2675,
+            "stars": 2676,
             "topics": [
               "aicg",
               "aigc",
@@ -2829,7 +2829,7 @@
             "open_issues": 3,
             "owner": "Ha0Tang",
             "repo": "XingGAN",
-            "stars": 224,
+            "stars": 225,
             "topics": [
               "appearance-features",
               "crossing",
@@ -2884,7 +2884,7 @@
             "open_issues": 1,
             "owner": "siyuhuang",
             "repo": "PoseStylizer",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "person-image-generation",
               "pytorch"
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3183,
+            "stars": 3184,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12834,
+                "stars": 12835,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3536,7 +3536,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2714,
+            "stars": 2715,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T10:25:47.839Z",
+    "last_updated": "2026-09-25T10:28:33.053Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
