@@ -1926,7 +1926,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
-            "stars": 524,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2115,7 +2115,7 @@
             "open_issues": 4,
             "owner": "luyangzhu",
             "repo": "NBA-Players",
-            "stars": 102,
+            "stars": 103,
             "topics": [
               "3d-human-mesh",
               "3d-human-pose",
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9730,
+            "stars": 9731,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3184,
+            "stars": 3185,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3302,7 +3302,7 @@
                 "open_issues": 41,
                 "owner": "muelea",
                 "repo": "shapy",
-                "stars": 387,
+                "stars": 388,
                 "topics": [
                   "3d-human",
                   "human-pose-estimation",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12835,
+                "stars": 12836,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3536,7 +3536,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2715,
+            "stars": 2717,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T10:28:33.053Z",
+    "last_updated": "2026-09-26T10:08:34.045Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
