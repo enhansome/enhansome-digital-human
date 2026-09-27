@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4104,
+            "stars": 4106,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -992,7 +992,7 @@
             "open_issues": 2,
             "owner": "atnikos",
             "repo": "teach",
-            "stars": 398,
+            "stars": 399,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1354,7 +1354,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1211,
+            "stars": 1212,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -1523,7 +1523,7 @@
             "open_issues": 55,
             "owner": "apple-aiml-research",
             "repo": "ml-neuman",
-            "stars": 1288,
+            "stars": 1287,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2052,7 +2052,7 @@
             "open_issues": 13,
             "owner": "Project-Splinter",
             "repo": "MonoPort",
-            "stars": 577,
+            "stars": 578,
             "topics": [
               "3d-reconstruction",
               "3d-vision",
@@ -2483,7 +2483,7 @@
             "open_issues": 3,
             "owner": "eth-ait",
             "repo": "4d-dress",
-            "stars": 141,
+            "stars": 142,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2910,11 +2910,11 @@
             "id": 273734636,
             "language": null,
             "license": null,
-            "last_commit": "2026-09-11T23:21:52Z",
+            "last_commit": "2026-09-27T08:17:52Z",
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3185,
+            "stars": 3186,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12836,
+                "stars": 12834,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-26T10:08:34.045Z",
+    "last_updated": "2026-09-27T10:41:25.889Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",

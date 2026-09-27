@@ -422,7 +422,7 @@ SIGGRAPH 2023 (Journal Track). \[[PDF](https://arxiv.org/abs/2303.14613)] \[[Pro
 
 **MDM: Human Motion Diffusion Model.**<br>
 *Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano.*<br>
-ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,104 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
+ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,106 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
 
 **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis.**<br>
 *[Rishabh Dabral](https://www.cse.iitb.ac.in/~rdabral), [Muhammad Hamza Mughal](https://m-hamza-mughal.github.io), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt).*<br>
@@ -438,7 +438,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2204.14109)] \[[Project](https://mathis
 
 **TEACH: Temporal Action Composition for 3D Human.**<br>
 *Nikos Athanasiou, Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
-3DV 2022. \[[PDF](https://arxiv.org/abs/2209.04066)] \[[Project](https://teach.is.tue.mpg.de)] \[[Code](https://github.com/athn-nik/teach) ⭐ 398 | 🐛 2 | 🌐 Python | 📅 2025-11-05]
+3DV 2022. \[[PDF](https://arxiv.org/abs/2209.04066)] \[[Project](https://teach.is.tue.mpg.de)] \[[Code](https://github.com/athn-nik/teach) ⭐ 399 | 🐛 2 | 🌐 Python | 📅 2025-11-05]
 
 ## Clothed Human Digitalization
 
@@ -618,7 +618,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2212.06135)] \[[Project](https://3d-ava
 
 **ECON: Explicit Clothed humans Obtained from Normals.**<br>
 *Yuliang Xiu, Jinlong Yang, Xu Cao, Dimitrios Tzionas, Michael J. Black.*<br>
-CVPR 2023. \[[PDF](https://arxiv.org/abs)] \[[Project](https://xiuyuliang.cn/econ)] \[[Code](https://github.com/YuliangXiu/ECON) ⭐ 1,211 | 🐛 41 | 🌐 Python | 📅 2024-09-17]
+CVPR 2023. \[[PDF](https://arxiv.org/abs)] \[[Project](https://xiuyuliang.cn/econ)] \[[Code](https://github.com/YuliangXiu/ECON) ⭐ 1,212 | 🐛 41 | 🌐 Python | 📅 2024-09-17]
 
 **X-Avatar: Expressive Human Avatars.**<br>
 *[Kaiyue Shen](https://skype-line.github.io), Chen Guo, Manuel Kaufmann, Juan Jose Zarate, Julien Valentin, Jie Song, Otmar Hilliges.*<br>
@@ -686,7 +686,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2204.08839)] \[[Project](https://nogu-a
 
 **NeuMan: Neural Human Radiance Field from a Single Video.**<br>
 *Wei Jiang, Kwang Moo Yi, Golnoosh Samei, Oncel Tuzel, Anurag Ranjan.*<br>
-ECCV 2022. \[[PDF](https://arxiv.org/abs/2203.10157)] \[[Code](https://github.com/apple/ml-neuman) ⭐ 1,288 | 🐛 55 | 🌐 Python | 📅 2026-09-11]
+ECCV 2022. \[[PDF](https://arxiv.org/abs/2203.10157)] \[[Code](https://github.com/apple/ml-neuman) ⭐ 1,287 | 🐛 55 | 🌐 Python | 📅 2026-09-11]
 
 **ARAH: Animatable Volume Rendering of Articulated Human SDFs.**<br>
 *[Shaofei Wang](https://taconite.github.io), [Katja Schwarz](https://katjaschwarz.github.io), [Andreas Geiger](http://www.cvlibs.net), [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html).*<br>
@@ -1058,7 +1058,7 @@ ECCV 2020. \[[PDF](https://arxiv.org/abs/2004.00214)]
 
 **MonoPort: Monocular Real-Time Volumetric Performance Capture.**<br>
 *Ruilong Li, Yuliang Xiu, Shunsuke Saito, Zeng Huang, Kyle Olszewski, Hao Li.*<br>
-ECCV 2020. \[[PDF](https://arxiv.org/abs/2007.13988)] \[[Code](https://github.com/Project-Splinter/MonoPort) ⭐ 577 | 🐛 13 | 🌐 Python | 📅 2022-06-28]
+ECCV 2020. \[[PDF](https://arxiv.org/abs/2007.13988)] \[[Code](https://github.com/Project-Splinter/MonoPort) ⭐ 578 | 🐛 13 | 🌐 Python | 📅 2022-06-28]
 
 **3D Human Shape and Pose from a Single Low-Resolution Image with Self-Supervised Learning.**<br>
 *Xiangyu Xu, Hao Chen, Francesc Moreno-Noguer, Laszlo A. Jeni, Fernando De la Torre.*<br>
@@ -1244,7 +1244,7 @@ ICCV 2017. \[[PDF](http://liuyebin.com/bodyfusion/bodyfusion_files/BdyFu_ICC7.pd
 
 **4D-DRESS: A 4D Dataset of Real-world Human Clothing with Semantic Annotations.**<br>
 *[Wenbo Wang](https://wenbwa.github.io), [Hsuan-I Ho](https://ait.ethz.ch/people/hohs), [Chen Guo](https://ait.ethz.ch/people/cheguo), [Boxiang Rong](https://ribosome-rbx.github.io), [Artur Grigorev](https://ait.ethz.ch/people/agrigorev), [Jie Song](https://ait.ethz.ch/people/song), [Juan Jose Zarate](https://ait.ethz.ch/people/jzarate), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
-CVPR 2024 (Highlight). \[[PDF](https://arxiv.org/abs/2404.18630)] \[[Project](https://eth-ait.github.io/4d-dress)] \[[Data](https://4d-dress.ait.ethz.ch)] \[[Code](https://github.com/eth-ait/4d-dress) ⭐ 141 | 🐛 3 | 🌐 Python | 📅 2025-11-27]
+CVPR 2024 (Highlight). \[[PDF](https://arxiv.org/abs/2404.18630)] \[[Project](https://eth-ait.github.io/4d-dress)] \[[Data](https://4d-dress.ait.ethz.ch)] \[[Code](https://github.com/eth-ait/4d-dress) ⭐ 142 | 🐛 3 | 🌐 Python | 📅 2025-11-27]
 
 **A Generative Multi-Resolution Pyramid and Normal-Conditioning 3D Cloth Draping.**<br>
 *Hunor Laczkó, Meysam Madadi, Sergio Escalera, Jordi Gonzalez.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,185 | 🐛 6 | 📅 2026-09-11]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,186 | 🐛 6 | 📅 2026-09-27]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1666,7 +1666,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,836 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,834 | 🐛 34 | 🌐 Python | 📅 2022-06-13
 * DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,629 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
