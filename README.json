@@ -19,7 +19,7 @@
             "open_issues": 22,
             "owner": "pengHTYX",
             "repo": "PSHuman",
-            "stars": 462,
+            "stars": 463,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -40,7 +40,7 @@
             "open_issues": 14,
             "owner": "facebookresearch",
             "repo": "pippo",
-            "stars": 650,
+            "stars": 651,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -208,7 +208,7 @@
             "open_issues": 36,
             "owner": "lizhe00",
             "repo": "AnimatableGaussians",
-            "stars": 1097,
+            "stars": 1098,
             "topics": [
               "3d-gaussian-splatting",
               "3d-human",
@@ -457,7 +457,7 @@
             "open_issues": 13,
             "owner": "zj-dong",
             "repo": "AG3D",
-            "stars": 272,
+            "stars": 273,
             "topics": [
               "3d-generation",
               "avatar-generator"
@@ -565,7 +565,7 @@
             "open_issues": 19,
             "owner": "hongfz16",
             "repo": "AvatarCLIP",
-            "stars": 1100,
+            "stars": 1101,
             "topics": [
               "3d-generation",
               "motion-generation",
@@ -826,7 +826,7 @@
             "open_issues": 27,
             "owner": "MotrixLab",
             "repo": "MotionDiffuse",
-            "stars": 983,
+            "stars": 984,
             "topics": [
               "3d-generation",
               "diffusion-model",
@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4108,
+            "stars": 4107,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1143,7 +1143,7 @@
             "open_issues": 55,
             "owner": "aipixel",
             "repo": "GaussianAvatar",
-            "stars": 605,
+            "stars": 606,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1354,7 +1354,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1212,
+            "stars": 1211,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -1694,7 +1694,7 @@
             "open_issues": 52,
             "owner": "YuliangXiu",
             "repo": "ICON",
-            "stars": 1680,
+            "stars": 1679,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -2184,7 +2184,7 @@
             "open_issues": 1,
             "owner": "chaitanya100100",
             "repo": "TailorNet",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "3d-computer-graphics",
               "3d-computer-vision",
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9728,
+            "stars": 9729,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2340,7 +2340,7 @@
             "open_issues": 60,
             "owner": "shunsukesaito",
             "repo": "PIFu",
-            "stars": 1817,
+            "stars": 1818,
             "topics": [
               "3d-printing",
               "3d-reconstruction",
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3187,
+            "stars": 3188,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3141,7 +3141,7 @@
             "open_issues": 9,
             "owner": "switchablenorms",
             "repo": "DeepFashion_Try_On",
-            "stars": 884,
+            "stars": 885,
             "topics": [
               "acgpn",
               "deepfashion",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12838,
+                "stars": 12841,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3422,7 +3422,7 @@
                 "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2630,
+                "stars": 2629,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3536,7 +3536,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2719,
+            "stars": 2720,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T11:30:58.287Z",
+    "last_updated": "2026-09-30T11:19:15.885Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3576,7 +3576,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-04-18T02:42:41Z",
-      "open_issues": 2,
+      "open_issues": 3,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
       "stars": 1983,
