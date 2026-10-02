@@ -42,7 +42,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 **SpatialReal — Real-time Lip-Synced Avatar Rendering for Voice AI Agents.**<br>
 *SpatialReal Team.*<br>
-2025\. \[[Website](https://spatialreal.ai/)] \[[Docs](https://docs.spatialreal.ai/overview/introduction)] \[[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-09-30]
+2025\. \[[Website](https://spatialreal.ai/)] \[[Docs](https://docs.spatialreal.ai/overview/introduction)] \[[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-01]
 
 Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with LiveKit voice agents via `pip install livekit-plugins-spatialreal`. Sub-1.5s latency, 10-20 KB/s bandwidth (vs 1-2 MB/s for cloud rendering), free avatar library, MIT licensed.
 
@@ -66,7 +66,7 @@ CVPR 2025. \[[Project Page](https://penghtyx.github.io/PSHuman/)]  \[[Paper](htt
 
 **Pippo: High-Resolution Multi-View Humans from a Single Image**<br>
 *Yash Kant, Ethan Weber, Jin Kyu Kim, Rawal Khirodkar, Su Zhaoen, Julieta Martinez, Igor Gilitschenski, Shunsuke Saito, Timur Bagautdinov*<br>
-CVPR 2025. \[[Project page](https://yashkant.github.io/pippo/)] \[[Paper](https://yashkant.github.io/pippo/pippo.pdf)] \[[Code](https://github.com/facebookresearch/pippo) ⭐ 651 | 🐛 14 | 🌐 Python | 📅 2026-07-02]
+CVPR 2025. \[[Project page](https://yashkant.github.io/pippo/)] \[[Paper](https://yashkant.github.io/pippo/pippo.pdf)] \[[Code](https://github.com/facebookresearch/pippo) ⭐ 652 | 🐛 14 | 🌐 Python | 📅 2026-07-02]
 
 **DeClotH: Decomposable 3D Cloth and Human Body Reconstruction from a Single Image**<br>
 *Hyeongjin Nam, Donghwan Kim, Jeongtaek Oh, Kyoung Mu Lee*</br>
@@ -238,7 +238,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2208.03550)] \[[Project](https://clip-a
 
 **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
-SIGGRAPH (TOG) 2022. \[[PDF](https://arxiv.org/abs/2205.08535)] \[[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] \[[Code](https://github.com/hongfz16/AvatarCLIP) ⭐ 1,101 | 🐛 19 | 🌐 Python | 📅 2023-02-15]
+SIGGRAPH (TOG) 2022. \[[PDF](https://arxiv.org/abs/2205.08535)] \[[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] \[[Code](https://github.com/hongfz16/AvatarCLIP) ⭐ 1,102 | 🐛 19 | 🌐 Python | 📅 2023-02-15]
 
 ## 3D Head Animatable Avatar (from 2D Image Collections)
 
@@ -320,7 +320,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2305.09641)] \[[Project](https://alexla
 
 **Next3D: Generative Neural Texture Rasterization for 3D-Aware Head Avatars.**<br>
 *[Jingxiang Sun](https://mrtornado24.github.io), [Xuan Wang](https://xuanwangvc.github.io), [Lizhen Wang](https://lizhenwangt.github.io), [Xiaoyu Li](https://xiaoyu258.github.io), [Yong Zhang](https://yzhang2016.github.io/yongnorriszhang.github.io), [Hongwen Zhang](https://hongwenzhang.github.io), [Yebin Liu](http://www.liuyebin.com).*<br>
-CVPR 2023 (Highlight). \[[PDF](https://arxiv.org/pdf/2211.11208.pdf)] \[[Project](https://mrtornado24.github.io/Next3D)] \[[Code](https://github.com/MrTornado24/Next3D) ⭐ 503 | 🐛 25 | 🌐 Python | 📅 2024-10-13]
+CVPR 2023 (Highlight). \[[PDF](https://arxiv.org/pdf/2211.11208.pdf)] \[[Project](https://mrtornado24.github.io/Next3D)] \[[Code](https://github.com/MrTornado24/Next3D) ⭐ 504 | 🐛 25 | 🌐 Python | 📅 2024-10-13]
 
 **BlendFields: Few-Shot Example-Driven Facial Modeling.**<br>
 *Kacper Kania, Stephan J. Garbin, Andrea Tagliasacchi, Virginia Estellers, Kwang Moo Yi, Julien Valentin, Tomasz Trzciński, Marek Kowalski.*<br>
@@ -422,7 +422,7 @@ SIGGRAPH 2023 (Journal Track). \[[PDF](https://arxiv.org/abs/2303.14613)] \[[Pro
 
 **MDM: Human Motion Diffusion Model.**<br>
 *Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano.*<br>
-ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,108 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
+ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,109 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
 
 **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis.**<br>
 *[Rishabh Dabral](https://www.cse.iitb.ac.in/~rdabral), [Muhammad Hamza Mughal](https://m-hamza-mughal.github.io), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt).*<br>
@@ -430,7 +430,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2212.04495)] \[[Project](https://vcai.m
 
 **MotionCLIP: Exposing Human Motion Generation to CLIP Space.**<br>
 *Guy Tevet, Brian Gordon, Amir Hertz, Amit H. Bermano, Daniel Cohen-Or.*<br>
-ECCV 2022. \[[PDF](https://arxiv.org/abs/2203.08063)] \[[Project](https://guytevet.github.io/motionclip-page)] \[[Code](https://github.com/GuyTevet/MotionCLIP) ⭐ 502 | 🐛 23 | 🌐 Python | 📅 2023-12-18]
+ECCV 2022. \[[PDF](https://arxiv.org/abs/2203.08063)] \[[Project](https://guytevet.github.io/motionclip-page)] \[[Code](https://github.com/GuyTevet/MotionCLIP) ⭐ 503 | 🐛 23 | 🌐 Python | 📅 2023-12-18]
 
 **TEMOS: Generating diverse human motions from textual descriptions.**<br>
 *[Mathis Petrovich](https://mathis.petrovich.fr), Michael J. Black, Gül Varol.*<br>
@@ -618,7 +618,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2212.06135)] \[[Project](https://3d-ava
 
 **ECON: Explicit Clothed humans Obtained from Normals.**<br>
 *Yuliang Xiu, Jinlong Yang, Xu Cao, Dimitrios Tzionas, Michael J. Black.*<br>
-CVPR 2023. \[[PDF](https://arxiv.org/abs)] \[[Project](https://xiuyuliang.cn/econ)] \[[Code](https://github.com/YuliangXiu/ECON) ⭐ 1,211 | 🐛 41 | 🌐 Python | 📅 2024-09-17]
+CVPR 2023. \[[PDF](https://arxiv.org/abs)] \[[Project](https://xiuyuliang.cn/econ)] \[[Code](https://github.com/YuliangXiu/ECON) ⭐ 1,212 | 🐛 41 | 🌐 Python | 📅 2024-09-17]
 
 **X-Avatar: Expressive Human Avatars.**<br>
 *[Kaiyue Shen](https://skype-line.github.io), Chen Guo, Manuel Kaufmann, Juan Jose Zarate, Julien Valentin, Jie Song, Otmar Hilliges.*<br>
@@ -790,7 +790,7 @@ CVPR 2022. \[[PDF](http://cic.tju.edu.cn/faculty/likun/projects/HF-Avatar/assets
 
 **ICON: Implicit Clothed humans Obtained from Normals.**<br>
 *[Yuliang Xiu](https://ps.is.tuebingen.mpg.de/person/yxiu), [Jinlong Yang](https://ps.is.tuebingen.mpg.de/person/jyang), [Dimitrios Tzionas](https://ps.is.mpg.de/~dtzionas), [Michael J. Black](https://ps.is.tuebingen.mpg.de/person/black).*<br>
-CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.09127)] \[[Code](https://github.com/YuliangXiu/ICON) ⭐ 1,679 | 🐛 52 | 🌐 Python | 📅 2023-11-23]
+CVPR 2022. \[[PDF](https://arxiv.org/abs/2112.09127)] \[[Code](https://github.com/YuliangXiu/ICON) ⭐ 1,680 | 🐛 52 | 🌐 Python | 📅 2023-11-23]
 
 **DoubleField: Bridging the Neural Surface and Radiance Fields for High-fidelity Human Rendering.**<br>
 *Ruizhi Shao, Hongwen Zhang, He Zhang, Yanpei Cao, Tao Yu, Yebin Liu.*<br>
@@ -1182,7 +1182,7 @@ TPAMI 2019. \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=87
 
 **PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization.**<br>
 *Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li.*<br>
-ICCV 2019. \[[PDF](https://arxiv.org/pdf/1905.05172.pdf)] \[[Project](shunsukesaito.github.io/PIFu)] \[[Code](https://github.com/shunsukesaito/PIFu) ⭐ 1,818 | 🐛 60 | 🌐 Python | 📅 2023-11-24]
+ICCV 2019. \[[PDF](https://arxiv.org/pdf/1905.05172.pdf)] \[[Project](shunsukesaito.github.io/PIFu)] \[[Code](https://github.com/shunsukesaito/PIFu) ⭐ 1,819 | 🐛 60 | 🌐 Python | 📅 2023-11-24]
 
 **Multi-Garment Net\_Learning to Dress 3D people from Images.**<br>
 *Bharat Lal Bhatnagar, Garvita Tiwari, Christian Theobalt, Gerard Pons-Moll.*<br>
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._

@@ -40,7 +40,7 @@
             "open_issues": 14,
             "owner": "facebookresearch",
             "repo": "pippo",
-            "stars": 651,
+            "stars": 652,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -565,7 +565,7 @@
             "open_issues": 19,
             "owner": "hongfz16",
             "repo": "AvatarCLIP",
-            "stars": 1101,
+            "stars": 1102,
             "topics": [
               "3d-generation",
               "motion-generation",
@@ -665,7 +665,7 @@
             "open_issues": 25,
             "owner": "MrTornado24",
             "repo": "Next3D",
-            "stars": 503,
+            "stars": 504,
             "topics": [
               "3d-aware-image-synthesis",
               "gan",
@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4108,
+            "stars": 4109,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -946,7 +946,7 @@
             "open_issues": 23,
             "owner": "GuyTevet",
             "repo": "MotionCLIP",
-            "stars": 502,
+            "stars": 503,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1354,7 +1354,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1211,
+            "stars": 1212,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -1694,7 +1694,7 @@
             "open_issues": 52,
             "owner": "YuliangXiu",
             "repo": "ICON",
-            "stars": 1679,
+            "stars": 1680,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -2340,7 +2340,7 @@
             "open_issues": 60,
             "owner": "shunsukesaito",
             "repo": "PIFu",
-            "stars": 1818,
+            "stars": 1819,
             "topics": [
               "3d-printing",
               "3d-reconstruction",
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-01T11:46:48.599Z",
+    "last_updated": "2026-10-02T11:16:33.544Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
