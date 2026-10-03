@@ -423,7 +423,7 @@
         {
           "node_type": "item",
           "title": "Get3DHuman: Lifting StyleGAN-Human into a 3D Generative Model using Pixel-aligned Reconstruction Priors. Zhangyang Xiong, Di Kang, Derong Jin, Weikai Chen, Linchao Bao, Xiaoguang Han. ICCV 2023. [PDF",
-          "description": "] [Code]",
+          "description": "X-zhangyang/Get3DHuman",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -489,7 +489,7 @@
         {
           "node_type": "item",
           "title": "Latent-NeRF for Shape-Guided Generation of 3D Shapes and Textures. Gal Metzer, Elad Richardson, Or Patashnik, Raja Giryes, Daniel Cohen-Or. CVPR 2023. [PDF",
-          "description": "] [Code]",
+          "description": "eladrich/latent-nerf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -565,7 +565,7 @@
             "open_issues": 19,
             "owner": "hongfz16",
             "repo": "AvatarCLIP",
-            "stars": 1102,
+            "stars": 1101,
             "topics": [
               "3d-generation",
               "motion-generation",
@@ -583,7 +583,7 @@
         {
           "node_type": "item",
           "title": "Who is a Better Talker: Subjective and Objective Quality Assessment for AI-Generated Talking Heads. Yingjie Zhou, Jiezhang Cao, Zicheng Zhang, Farong Wen, Yanwei Jiang, Jun Jia, Xiaohong Liu, Xiongkuo Min, Guangtao Zhai. ICCV 2025. [PDF",
-          "description": "] [Project]",
+          "description": "zyj-2000/Talker",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -779,7 +779,7 @@
         {
           "node_type": "item",
           "title": "AvatarMe: Realistically Renderable 3D Facial Reconstruction \"in-the-wild\". Alexandros Lattas, Stylianos Moschoglou, Baris Gecer, Stylianos Ploumpis, Vasileios Triantafyllou, Abhijeet Ghosh, Stefanos Zafeiriou. CVPR 2020. [PDF",
-          "description": "] [Code]",
+          "description": "lattas/AvatarMe",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1040,7 +1040,7 @@
             "open_issues": 53,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2678,
+            "stars": 2679,
             "topics": [
               "aicg",
               "aigc",
@@ -1109,7 +1109,7 @@
         {
           "node_type": "item",
           "title": "HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models. Yifan Yang, Dong Liu, Shuhai Zhang, Zeshuai Deng, Zixiong Huang, Mingkui Tan. CVPR 2024. [PDF",
-          "description": "] [Github]",
+          "description": "YifYang993/HiLo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1143,7 +1143,7 @@
             "open_issues": 55,
             "owner": "aipixel",
             "repo": "GaussianAvatar",
-            "stars": 606,
+            "stars": 607,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1225,7 +1225,7 @@
         {
           "node_type": "item",
           "title": "High-Fidelity Clothed Avatar Reconstruction from a Single Image. Tingting Liao, Xiaomei Zhang, Yuliang Xiu, Hongwei Yi, Xudong Liu, Guo-Jun Qi, Yong Zhang, Xuan Wang, Xiangyu Zhu, Zhen Lei. CVPR 2023. [PDF",
-          "description": "] [Code]",
+          "description": "TingtingLiao/CAR",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1316,7 +1316,7 @@
         {
           "node_type": "item",
           "title": "High-fidelity 3D Human Digitization from Single 2K Resolution Images. Sang-Hun Han, Min-Gyu Park, Ju Hong Yoon, Ju-Mi Kang, Young-Jae Park, Hae-Gon Jeon. CVPR 2023 (Highlight). [PDF",
-          "description": "] [Code]",
+          "description": "SangHunHan92/2K2K",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1440,7 +1440,7 @@
         {
           "node_type": "item",
           "title": "Dual-Space NeRF: Learning Animatable Avatars and Scene Lighting in Separate Spaces Yihao Zhi, Shenhan Qian, Xinhao Yan, Shenghua Gao 3DV 2022. [PDF",
-          "description": "] [Code]",
+          "description": "zyhbili/Dual-Space-NeRF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1461,7 +1461,7 @@
         {
           "node_type": "item",
           "title": "Occupancy Planes for Single-view RGB-D Human Reconstruction. Xiaoming Zhao, Yuan-Ting Hu, Zhongzheng Ren, Alexander G. Schwing. AAAI 2023. [PDF",
-          "description": "] [Code]",
+          "description": "Xiaoming-Zhao/oplanes",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1510,7 +1510,7 @@
         {
           "node_type": "item",
           "title": "NeuMan: Neural Human Radiance Field from a Single Video. Wei Jiang, Kwang Moo Yi, Golnoosh Samei, Oncel Tuzel, Anurag Ranjan. ECCV 2022. [PDF",
-          "description": "] [Code]",
+          "description": "apple-aiml-research/ml-neuman",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1552,7 +1552,7 @@
         {
           "node_type": "item",
           "title": "DiffuStereo: High Quality Human Reconstruction via Diffusion-based Stereo Using Sparse Cameras. Ruizhi Shao, Zerong Zheng, Hongwen Zhang, Jingxiang Sun, Yebin Liu. ECCV (Oral) 2022. [PDF",
-          "description": "] [Code]",
+          "description": "DSaurus/DiffuStereo",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1573,7 +1573,7 @@
         {
           "node_type": "item",
           "title": "3D Clothed Human Reconstruction in the Wild. Gyeongsik Moon, Hyeongjin Nam, Takaaki Shiratori, Kyoung Mu Lee. ECCV 2022. [PDF",
-          "description": "] [Project]",
+          "description": "hygenie1228/ClothWild_RELEASE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1815,7 +1815,7 @@
         {
           "node_type": "item",
           "title": "Learning Anchored Unsigned Distance Functions with Gradient Direction Alignment for Single-view Garment Reconstruction. Fang Zhao, Wenhao Wang, Shengcai Liao, Ling Shao. ICCV 2021. [PDF",
-          "description": "] [Code]",
+          "description": "zhaofang0627/AnchorUDF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1976,7 +1976,7 @@
         {
           "node_type": "item",
           "title": "SMPLpix: Neural Avatars from 3D Human Models. Sergey Prokudin, Michael J. Black, Javier Romero. WACV 2021. [PDF",
-          "description": "] [Code]",
+          "description": "sergeyprokudin/smplpix",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1997,7 +1997,7 @@
         {
           "node_type": "item",
           "title": "LoopReg: Self-supervised Learning of Implicit Surface Correspondences, Pose and Shape for 3D Human Mesh Registration. Bharat Lal Bhatnagar, Cristian Sminchisescu, Christian Theobalt, Gerard Pons-Moll. NeurIPS 2020. [PDF",
-          "description": "] [Code]",
+          "description": "bharat-b7/LoopReg",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2018,7 +2018,7 @@
         {
           "node_type": "item",
           "title": "HPBTT: Human Parsing Based Texture Transfer from Single Image to 3D Human via Cross-View Consistency. Fang Zhao, Shengcai Liao, Kaihao Zhang, Ling Shao. NeurIPS 2020. [PDF",
-          "description": "] [Code]",
+          "description": "zhaofang0627/HPBTT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2039,7 +2039,7 @@
         {
           "node_type": "item",
           "title": "MonoPort: Monocular Real-Time Volumetric Performance Capture. Ruilong Li, Yuliang Xiu, Shunsuke Saito, Zeng Huang, Kyle Olszewski, Hao Li. ECCV 2020. [PDF",
-          "description": "] [Code]",
+          "description": "Project-Splinter/MonoPort",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2081,7 +2081,7 @@
         {
           "node_type": "item",
           "title": "I2L-MeshNet: Image-to-Lixel Prediction Network for Accurate 3D Human Pose and Mesh Estimation from a Single RGB Image. Gyeongsik Moon, Kyoung Mu Lee. ECCV 2020. [PDF",
-          "description": "] [Code]",
+          "description": "mks0601/I2L-MeshNet_RELEASE",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2201,7 +2201,7 @@
         {
           "node_type": "item",
           "title": "Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction. Tong He, John Collomosse, Hailin Jin, Stefano Soatto. NeurIPS 2020. [PDF",
-          "description": "] [Code]",
+          "description": "simpleig/Geo-PIFu",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2285,7 +2285,7 @@
         {
           "node_type": "item",
           "title": "TetraTSDF: 3D Human Reconstruction from A Single Image with A Tetrahedral Outer Shell. Hayato Onizuka, Zehra Hayirci, Diego Thomas, Akihiro Sugimoto, Hideaki Uchiyama, Rin-ichiro Taniguchi. CVPR 2020. [PDF",
-          "description": "] [Code]",
+          "description": "diegothomas/TetraTSDF",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2306,7 +2306,7 @@
         {
           "node_type": "item",
           "title": "Multi-View Consistency Loss for Improved Single-Image 3D Reconstruction of Clothed People. Akin Caliskan, Adrian Hilton. ACCV 2020. [PDF",
-          "description": "] [Code]",
+          "description": "akcalakcal/Multi_View_Consistent_Single_Image_3D_Human_Reconstruction",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2380,7 +2380,7 @@
         {
           "node_type": "item",
           "title": "Learning to Reconstruct People in Clothing from a Single RGB Camera. Thiemo Alldieck, Marcus Magnor, Bharat Lal Bhatnagar, Christian Theobalt, Gerard Pons-Moll. ICCV 2019. [PDF",
-          "description": "] [Code]",
+          "description": "thmoa/octopus",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2422,7 +2422,7 @@
         {
           "node_type": "item",
           "title": "Tex2Shape: Detailed Full Human Body Geometry From a Single Image. Thiemo Alldieck, Gerard Pons-Moll, Christian Theobalt, Marcus Magnor. CVPR 2019. [PDF",
-          "description": "] [Code]",
+          "description": "thmoa/tex2shape",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2443,7 +2443,7 @@
         {
           "node_type": "item",
           "title": "Detailed Human Avatars from Monocular Video. Thiemo Alldieck, Marcus Magnor, Weipeng Xu, Christian Theobalt, Gerard Pons-Moll. 3DV 2018. [PDF",
-          "description": "] [Code]",
+          "description": "thmoa/semantic_human_texture_stitching",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2539,7 +2539,7 @@
         {
           "node_type": "item",
           "title": "Predicting Loose-Fitting Garment Deformations Using Bone-Driven Motion Networks. Xiaoyu Pan, Jiaming Mai, Xinwei Jiang, Dongxue Tang, Jingxiang Li, Tianjia Shao, Kun Zhou, Xiaogang Jin, Dinesh Manocha. SIGGRAPH 2022. [PDF",
-          "description": "] [Code]",
+          "description": "non-void/VirtualBones",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2678,7 +2678,7 @@
         {
           "node_type": "item",
           "title": "Learning to Transfer Texture from Clothing Images to 3D Humans. Aymen Mir, Thiemo Alldieck, Gerard Pons-Moll. CVPR 2020. [PDF",
-          "description": "] [Code]",
+          "description": "miraymen/pix2surf",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2770,7 +2770,7 @@
         {
           "node_type": "item",
           "title": "Neural Texture Extraction and Distribution for Controllable Person Image Synthesis. Yurui Ren, Xiaoqing Fan, Ge Li, Shan Liu, Thomas H. Li. CVPR 2022 (oral). [PDF",
-          "description": "] [Code]",
+          "description": "RenYurui/Neural-Texture-Extraction-Distribution",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2850,7 +2850,7 @@
         {
           "node_type": "item",
           "title": "Progressive Pose Attention Transfer for Person Image Generation. Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai. CVPR 2019 (oral). [PDF",
-          "description": "] [Code]",
+          "description": "tengteng95/Pose-Transfer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2871,7 +2871,7 @@
         {
           "node_type": "item",
           "title": "Generating Person Images with Appearance-aware Pose Stylizer. Siyu Huang, Haoyi Xiong, Zhi-Qi Cheng, Qingzhong Wang, Xingran Zhou, Bihan Wen, Jun Huan, Dejing Dou. IJCAI 2020. [PDF",
-          "description": "] [Code]",
+          "description": "siyuhuang/PoseStylizer",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2901,7 +2901,7 @@
         {
           "node_type": "item",
           "title": "[Awesome Virtual Try-on (VTON)",
-          "description": "]",
+          "description": "minar09/awesome-virtual-try-on",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3190,
+            "stars": 3191,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -2991,7 +2991,7 @@
         {
           "node_type": "item",
           "title": "Towards Scalable Unpaired Virtual Try-On via Patch-Routed Spatially-Adaptive GAN. Zhenyu Xie, Zaiyu Huang, Fuwei Zhao, Haoye Dong, Michael Kampffmeyer, Xiaodan Liang. NeurIPS 2021. [PDF",
-          "description": "] [Code]",
+          "description": "xiezhy6/PASTA-GAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3041,7 +3041,7 @@
         {
           "node_type": "item",
           "title": "Dressing in Order: Recurrent Person Image Generation for Pose Transfer, Virtual Try-on and Outfit Editing. Aiyu Cui, Daniel McKee, Svetlana Lazebnik. CVPR 2021. [PDF",
-          "description": "] [Code]",
+          "description": "cuiaiyu/dressing-in-order",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -3065,7 +3065,7 @@
         {
           "node_type": "item",
           "title": "DCTON: Disentangled Cycle Consistency for Highly-realistic Virtual Try-On. Chongjian Ge, Yibing Song, Yuying Ge, Han Yang, Wei Liu, and Ping Luo. CVPR 2021. [PDF",
-          "description": "] [Code]",
+          "description": "ChongjianGE/DCTON",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3086,7 +3086,7 @@
         {
           "node_type": "item",
           "title": "PF-AFN: Parser-Free Virtual Try-on via Distilling Appearance Flows. Yuying Ge, Yibing Song, Ruimao Zhang, Chongjian Ge, Wei Liu, Ping Luo. CVPR 2021. [PDF",
-          "description": "] [Code]",
+          "description": "geyuying/PF-AFN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3128,7 +3128,7 @@
         {
           "node_type": "item",
           "title": "Towards Photo-Realistic Virtual Try-On by Adaptively Generating Preserving Image Content. Han Yang, Ruimao Zhang, Xiaobao Guo, Wei Liu, Wangmeng Zuo, Ping Luo. CVPR 2020. [PDF",
-          "description": "] [Code]",
+          "description": "switchablenorms/DeepFashion_Try_On",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3154,7 +3154,7 @@
         {
           "node_type": "item",
           "title": "SieveNet: A Unified Framework for Robust Image-Based Virtual Try-On. Surgan Jandial, Ayush Chopra, Kumar Ayush, Mayur Hemani, Abhijeet Kumar, Balaji Krishnamurthy. WACV 2020. [PDF",
-          "description": "] [Code]",
+          "description": "levindabhi/SieveNet",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3183,7 +3183,7 @@
         {
           "node_type": "item",
           "title": "TailorGAN: Making User-Defined Fashion Designs. Lele Chen, Justin Tian, Guo Li, Cheng-Haw Wu, Erh-Kan King, Kuan-Ting Chen, Shao-Hang Hsieh. WACV 2020. [PDF",
-          "description": "] [Code]",
+          "description": "gli-27/TailorGAN",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3233,7 +3233,7 @@
             {
               "node_type": "item",
               "title": "Generating 3D People in Scenes Without People. Yan Zhang, Mohamed Hassan, Heiko Neumann, Michael J. Black, Siyu Tang. CVPR 2020. [PDF",
-              "description": "] [Code]",
+              "description": "yz-cnsdqz/PSI-release",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3317,7 +3317,7 @@
             {
               "node_type": "item",
               "title": "PoseScript: 3D Human Poses from Natural Language. Ginger Delmas, Philippe Weinzaepfel, Thomas Lucas, Francesc Moreno-Noguer, Grégory Rogez. ECCV 2022. [PDF",
-              "description": "] [Code]",
+              "description": "naver/posescript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3376,7 +3376,7 @@
             {
               "node_type": "item",
               "title": "Fashion-MNIST. [Fashion-MNIST]",
-              "description": null,
+              "description": "zalandoresearch/fashion-mnist",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12841,
+                "stars": 12842,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3409,7 +3409,7 @@
             {
               "node_type": "item",
               "title": "DeepFashion2 Dataset. [Website]",
-              "description": null,
+              "description": "switchablenorms/DeepFashion2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3430,7 +3430,7 @@
             {
               "node_type": "item",
               "title": "NTURGBD-Parsing-4K Dataset. [Website",
-              "description": "]",
+              "description": "hongfz16/HCMoCo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3536,7 +3536,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2720,
+            "stars": 2721,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T11:16:33.544Z",
+    "last_updated": "2026-10-03T04:42:52.354Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
