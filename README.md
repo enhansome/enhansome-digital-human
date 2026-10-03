@@ -62,7 +62,7 @@ CVPR 2025. \[[Project page](https://lingtengqiu.github.io/2024/AniGS/)] \[[Paper
 
 **PSHuman: Photorealistic Single-image 3D Human Reconstruction using Cross-Scale Multiview Diffusion**<br>
 *Peng Li, Wangguandong Zheng, Yuan Liu, Tao Yu, Yangguang Li, Siyu Xia, Yan-Pei Cao, Yike Guo.*<br>
-CVPR 2025. \[[Project Page](https://penghtyx.github.io/PSHuman/)]  \[[Paper](https://arxiv.org/pdf/2409.10141)] \[[Code](https://github.com/pengHTYX/PSHuman/) ⭐ 463 | 🐛 22 | 🌐 Python | 📅 2024-12-11] \[[Demo](https://huggingface.co/spaces/RipleysNest/PSHuman)]
+CVPR 2025. \[[Project Page](https://penghtyx.github.io/PSHuman/)]  \[[Paper](https://arxiv.org/pdf/2409.10141)] \[[Code](https://github.com/pengHTYX/PSHuman/) ⭐ 464 | 🐛 22 | 🌐 Python | 📅 2024-12-11] \[[Demo](https://huggingface.co/spaces/RipleysNest/PSHuman)]
 
 **Pippo: High-Resolution Multi-View Humans from a Single Image**<br>
 *Yash Kant, Ethan Weber, Jin Kyu Kim, Rawal Khirodkar, Su Zhaoen, Julieta Martinez, Igor Gilitschenski, Shunsuke Saito, Timur Bagautdinov*<br>
