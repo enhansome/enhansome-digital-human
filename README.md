@@ -42,7 +42,7 @@ Conference or Journal Year. [[PDF](link)] [[Project](link)] [[Code](link)] [[Dat
 
 **SpatialReal — Real-time Lip-Synced Avatar Rendering for Voice AI Agents.**<br>
 *SpatialReal Team.*<br>
-2025\. \[[Website](https://spatialreal.ai/)] \[[Docs](https://docs.spatialreal.ai/overview/introduction)] \[[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal) ⭐ 2 | 🐛 0 | 🌐 Python | 📅 2026-10-01]
+2025\. \[[Website](https://spatialreal.ai/)] \[[Docs](https://docs.spatialreal.ai/overview/introduction)] \[[LiveKit Plugin](https://github.com/spatialwalk/livekit-plugins-spatialreal) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-10-01]
 
 Real-time lip-synced avatar rendering SDK for voice AI agents. Integrates with LiveKit voice agents via `pip install livekit-plugins-spatialreal`. Sub-1.5s latency, 10-20 KB/s bandwidth (vs 1-2 MB/s for cloud rendering), free avatar library, MIT licensed.
 
@@ -422,7 +422,7 @@ SIGGRAPH 2023 (Journal Track). \[[PDF](https://arxiv.org/abs/2303.14613)] \[[Pro
 
 **MDM: Human Motion Diffusion Model.**<br>
 *Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano.*<br>
-ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,110 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
+ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,112 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
 
 **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis.**<br>
 *[Rishabh Dabral](https://www.cse.iitb.ac.in/~rdabral), [Muhammad Hamza Mughal](https://m-hamza-mughal.github.io), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt).*<br>
@@ -686,7 +686,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2204.08839)] \[[Project](https://nogu-a
 
 **NeuMan: Neural Human Radiance Field from a Single Video.**<br>
 *Wei Jiang, Kwang Moo Yi, Golnoosh Samei, Oncel Tuzel, Anurag Ranjan.*<br>
-ECCV 2022. \[[PDF](https://arxiv.org/abs/2203.10157)] \[[Code](https://github.com/apple/ml-neuman) ⭐ 1,286 | 🐛 55 | 🌐 Python | 📅 2026-09-11]
+ECCV 2022. \[[PDF](https://arxiv.org/abs/2203.10157)] \[[Code](https://github.com/apple/ml-neuman) ⭐ 1,285 | 🐛 55 | 🌐 Python | 📅 2026-09-11]
 
 **ARAH: Animatable Volume Rendering of Articulated Human SDFs.**<br>
 *[Shaofei Wang](https://taconite.github.io), [Katja Schwarz](https://katjaschwarz.github.io), [Andreas Geiger](http://www.cvlibs.net), [Siyu Tang](https://vlg.inf.ethz.ch/team/Prof-Dr-Siyu-Tang.html).*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,191 | 🐛 6 | 📅 2026-09-27]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,192 | 🐛 6 | 📅 2026-09-27]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1462,7 +1462,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2306.08276)] \[[Project](https://tryond
 
 **High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions.**<br>
 *Sangyun Lee, Gyojung Gu, Sunghyun Park, Seunghwan Choi, Jaegul Choo.*<br>
-ECCV 2022. \[[PDF](https://arxiv.org/pdf/2206.14180.pdf)] \[[Project](https://koo616.github.io/HR-VITON)] \[[Code](https://github.com/sangyun884/HR-VITON) ⭐ 916 | 🐛 64 | 🌐 Python | 📅 2024-12-31]
+ECCV 2022. \[[PDF](https://arxiv.org/pdf/2206.14180.pdf)] \[[Project](https://koo616.github.io/HR-VITON)] \[[Code](https://github.com/sangyun884/HR-VITON) ⭐ 917 | 🐛 64 | 🌐 Python | 📅 2024-12-31]
 
 **Single Stage Virtual Try-on via Deformable Attention Flows.**<br>
 *Shuai Bai, Huiling Zhou, Zhikang Li, Chang Zhou, Hongxia Yang.*<br>
@@ -1666,7 +1666,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,842 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,841 | 🐛 34 | 🌐 Python | 📅 2022-06-13
 * DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,630 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._

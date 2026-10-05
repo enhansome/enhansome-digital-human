@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4110,
+            "stars": 4112,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1523,7 +1523,7 @@
             "open_issues": 55,
             "owner": "apple-aiml-research",
             "repo": "ml-neuman",
-            "stars": 1286,
+            "stars": 1285,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9729,
+            "stars": 9728,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3191,
+            "stars": 3192,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -2956,7 +2956,7 @@
             "open_issues": 64,
             "owner": "sangyun884",
             "repo": "HR-VITON",
-            "stars": 916,
+            "stars": 917,
             "topics": [
               "image-generation",
               "image-synthesis",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12842,
+                "stars": 12841,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T11:15:34.593Z",
+    "last_updated": "2026-10-05T12:32:55.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
