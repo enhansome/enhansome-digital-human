@@ -82,7 +82,7 @@
             "open_issues": 11,
             "owner": "1231234zhan",
             "repo": "mmlphuman",
-            "stars": 77,
+            "stars": 78,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4112,
+            "stars": 4113,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1143,7 +1143,7 @@
             "open_issues": 55,
             "owner": "aipixel",
             "repo": "GaussianAvatar",
-            "stars": 606,
+            "stars": 607,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1388,7 +1388,7 @@
             "open_issues": 7,
             "owner": "Skype-line",
             "repo": "X-Avatar",
-            "stars": 416,
+            "stars": 417,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2184,7 +2184,7 @@
             "open_issues": 1,
             "owner": "chaitanya100100",
             "repo": "TailorNet",
-            "stars": 435,
+            "stars": 436,
             "topics": [
               "3d-computer-graphics",
               "3d-computer-vision",
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3192,
+            "stars": 3193,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3302,7 +3302,7 @@
                 "open_issues": 41,
                 "owner": "muelea",
                 "repo": "shapy",
-                "stars": 388,
+                "stars": 389,
                 "topics": [
                   "3d-human",
                   "human-pose-estimation",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12841,
+                "stars": 12842,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3422,7 +3422,7 @@
                 "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2630,
+                "stars": 2631,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T12:32:55.789Z",
+    "last_updated": "2026-10-06T11:08:43.990Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
