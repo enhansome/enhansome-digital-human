@@ -2504,7 +2504,7 @@
             "open_issues": 11,
             "owner": "GAP-LAB-CUHK-SZ",
             "repo": "REC-MV",
-            "stars": 280,
+            "stars": 281,
             "topics": [
               "3d-models",
               "3d-reconstruction",
@@ -2910,11 +2910,11 @@
             "id": 273734636,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-07T08:19:35Z",
+            "last_commit": "2026-10-07T21:10:17Z",
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3194,
+            "stars": 3195,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3274,7 +3274,7 @@
                 "open_issues": 38,
                 "owner": "NVlabs",
                 "repo": "GLAMR",
-                "stars": 390,
+                "stars": 391,
                 "topics": [
                   "3d-reconstruction",
                   "cvpr2022",
@@ -3422,7 +3422,7 @@
                 "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2632,
+                "stars": 2633,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3499,7 +3499,7 @@
             "open_issues": 2,
             "owner": "boqian-li",
             "repo": "GarmentDreamer",
-            "stars": 65,
+            "stars": 66,
             "topics": [
               "3dv2025",
               "aigc",
@@ -3536,7 +3536,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2721,
+            "stars": 2722,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T11:57:15.321Z",
+    "last_updated": "2026-10-08T12:12:03.285Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",

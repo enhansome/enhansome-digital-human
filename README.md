@@ -1256,7 +1256,7 @@ ICCV 2023. \[[PDF](https://arxiv.org/pdf/2305.10418.pdf)] \[[Project](https://mm
 
 **REC-MV: REconstructing 3D Dynamic Cloth from Monocular Videos.**<br>
 *[Lingteng Qiu](https://lingtengqiu.github.io), [Guanying Chen](https://guanyingc.github.io), Jiapeng Zhou, [Mutian Xu](https://mutianxu.github.io), Junle Wang, [Xiaoguang Han](https://mypage.cuhk.edu.cn/academics/hanxiaoguang).*<br>
-CVPR 2023. \[[PDF](http://arxiv.org/abs/2305.14236)] \[[Project](https://lingtengqiu.github.io/2023/REC-MV)] \[[Code](https://github.com/GAP-LAB-CUHK-SZ/REC-MV) ⭐ 280 | 🐛 11 | 🌐 Python | 📅 2023-08-13]
+CVPR 2023. \[[PDF](http://arxiv.org/abs/2305.14236)] \[[Project](https://lingtengqiu.github.io/2023/REC-MV)] \[[Code](https://github.com/GAP-LAB-CUHK-SZ/REC-MV) ⭐ 281 | 🐛 11 | 🌐 Python | 📅 2023-08-13]
 
 **HOOD: Hierarchical Graphs for Generalized Modelling of Clothing Dynamics.**<br>
 *[Artur Grigorev](https://dolorousrtur.github.io), [Bernhard Thomaszewski](https://n.ethz.ch/~bthomasz/index.html), [Michael J. Black](https://ps.is.mpg.de/~black), [Otmar Hilliges](https://ait.ethz.ch/people/hilliges).*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,194 | 🐛 6 | 📅 2026-10-07]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,195 | 🐛 6 | 📅 2026-10-07]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1632,7 +1632,7 @@ CVPR 2020. \[[PDF](https://openaccess.thecvf.com/content_CVPR_2020/html/Zhang_Ge
 
 **GLAMR: Global Occlusion-Aware Human Mesh Recovery with Dynamic Cameras.**<br>
 *[Ye Yuan](https://www.ye-yuan.com), [Umar Iqbal](http://www.umariqbal.info), [Pavlo Molchanov](https://research.nvidia.com/person/pavlo-molchanov), [Kris Kitani](http://www.cs.cmu.edu/~kkitani), [Jan Kautz](https://jankautz.com).*<br>
-CVPR 2022 (Oral). \[[PDF](https://arxiv.org/abs/2112.01524)] \[[Project](https://nvlabs.github.io/GLAMR)] \[[Code](https://github.com/NVlabs/GLAMR) ⭐ 390 | 🐛 38 | 🌐 Python | 📅 2026-02-18]
+CVPR 2022 (Oral). \[[PDF](https://arxiv.org/abs/2112.01524)] \[[Project](https://nvlabs.github.io/GLAMR)] \[[Code](https://github.com/NVlabs/GLAMR) ⭐ 391 | 🐛 38 | 🌐 Python | 📅 2026-02-18]
 
 **Shapy: Accurate 3D Body Shape Regression Using Metric and Semantic Attributes.**<br>
 *Vasileios Choutas, Lea Muller, Chun-Hao P. Huang, Siyu Tang, Dimitrios Tzionas, Michael J. Black.*<br>
@@ -1667,7 +1667,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 ### Datasets
 
 * Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,842 | 🐛 34 | 🌐 Python | 📅 2022-06-13
-* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,632 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
+* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,633 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
 * Fashionpedia. [\[Website\]](https://fashionpedia.github.io/home/index.html)
@@ -1689,7 +1689,7 @@ SIGGRAPH 2024 (TOG). \[[PDF](https://arxiv.org/abs/2401.16465)] \[[Project](http
 
 **GarmentDreamer: 3DGS Guided Garment Synthesis with Diverse Geometry and Texture Details.**<br>
 *Boqian Li, Xuan Li, Ying Jiang, Tianyi Xie, Feng Gao, Huamin Wang, Yin Yang, Chenfanfu Jiang.*<br>
-3DV 2025. \[[PDF](https://arxiv.org/abs/2405.12420)] \[[Project](https://xuan-li.github.io/GarmentDreamerDemo)] \[[Github](https://github.com/boqian-li/GarmentDreamer) ⭐ 65 | 🐛 2 | 🌐 Python | 📅 2025-10-02]
+3DV 2025. \[[PDF](https://arxiv.org/abs/2405.12420)] \[[Project](https://xuan-li.github.io/GarmentDreamerDemo)] \[[Github](https://github.com/boqian-li/GarmentDreamer) ⭐ 66 | 🐛 2 | 🌐 Python | 📅 2025-10-02]
 
 **Knitting 4D Garment with Elasticity Controlled for Body Motion.**<br>
 *[Zishun Liu](https://github.com/zishun), Xingjian Han, Yuchen Zhang, Xiangjia Chen, Yukun Lai, Eugeni L. Doubrovski, Emily Whiting, Charlie C.L. Wang.*<br>
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,721 | 🐛 135 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,722 | 🐛 135 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 430 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
