@@ -40,7 +40,7 @@
             "open_issues": 14,
             "owner": "facebookresearch",
             "repo": "pippo",
-            "stars": 652,
+            "stars": 653,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4114,
+            "stars": 4115,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1040,7 +1040,7 @@
             "open_issues": 54,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2682,
+            "stars": 2683,
             "topics": [
               "aicg",
               "aigc",
@@ -2214,7 +2214,7 @@
             "open_issues": 16,
             "owner": "simpleig",
             "repo": "Geo-PIFu",
-            "stars": 113,
+            "stars": 112,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2235,7 +2235,7 @@
             "open_issues": 38,
             "owner": "miraymen",
             "repo": "pix2surf",
-            "stars": 360,
+            "stars": 359,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2456,7 +2456,7 @@
             "open_issues": 2,
             "owner": "thmoa",
             "repo": "semantic_human_texture_stitching",
-            "stars": 160,
+            "stars": 159,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2691,7 +2691,7 @@
             "open_issues": 38,
             "owner": "miraymen",
             "repo": "pix2surf",
-            "stars": 360,
+            "stars": 359,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3195,
+            "stars": 3196,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3536,7 +3536,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2729,
+            "stars": 2730,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3557,7 +3557,7 @@
             "open_issues": 9,
             "owner": "ZhengZerong",
             "repo": "DeepHuman",
-            "stars": 430,
+            "stars": 429,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T11:19:56.808Z",
+    "last_updated": "2026-10-11T11:33:22.796Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
