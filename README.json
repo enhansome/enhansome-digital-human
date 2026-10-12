@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4115,
+            "stars": 4116,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -967,7 +967,7 @@
             "open_issues": 4,
             "owner": "Mathux",
             "repo": "TEMOS",
-            "stars": 456,
+            "stars": 457,
             "topics": [
               "human-motion",
               "motion-generation",
@@ -1037,10 +1037,10 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-17T05:17:23Z",
-            "open_issues": 54,
+            "open_issues": 53,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2683,
+            "stars": 2685,
             "topics": [
               "aicg",
               "aigc",
@@ -1354,7 +1354,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1213,
+            "stars": 1212,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12845,
+                "stars": 12847,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3422,7 +3422,7 @@
                 "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2634,
+                "stars": 2636,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3536,7 +3536,7 @@
             "open_issues": 135,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2730,
+            "stars": 2731,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T11:33:22.796Z",
+    "last_updated": "2026-10-12T13:26:48.632Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3576,7 +3576,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-04-18T02:42:41Z",
-      "open_issues": 3,
+      "open_issues": 4,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
       "stars": 1985,
