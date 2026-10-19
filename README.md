@@ -110,7 +110,7 @@ ECCV 2024. \[[PDF](https://arxiv.org/abs/2407.06938)] \[[Project](https://rodinh
 
 **Animatable Gaussians: Learning Pose-dependent Gaussian Maps for High-fidelity Human Avatar Modeling.**<br>
 *Zhe Li, Zerong Zheng, Lizhen Wang, Yebin Liu..*<br>
-CVPR 2024. \[[PDF](http://arxiv.org/abs/2311.16096)] \[[Project](https://animatable-gaussians.github.io)] \[[Code](https://github.com/lizhe00/AnimatableGaussians) ⭐ 1,098 | 🐛 36 | 🌐 Python | 📅 2024-11-16]
+CVPR 2024. \[[PDF](http://arxiv.org/abs/2311.16096)] \[[Project](https://animatable-gaussians.github.io)] \[[Code](https://github.com/lizhe00/AnimatableGaussians) ⭐ 1,099 | 🐛 36 | 🌐 Python | 📅 2024-11-16]
 
 **HumanNorm: Learning Normal Diffusion Model for High-quality and Realistic 3D Human Generation.**<br>
 *Xin Huang, Ruizhi Shao, Qi Zhang, Hongwen Zhang, Ying Feng, Yebin Liu, Qing Wang..*<br>
@@ -622,7 +622,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs)] \[[Project](https://xiuyuliang.cn/eco
 
 **X-Avatar: Expressive Human Avatars.**<br>
 *[Kaiyue Shen](https://skype-line.github.io), Chen Guo, Manuel Kaufmann, Juan Jose Zarate, Julien Valentin, Jie Song, Otmar Hilliges.*<br>
-CVPR 2023. \[[PDF](https://arxiv.org/abs/2303.04805)] \[[Project](https://skype-line.github.io/projects/X-Avatar)] \[[Code](https://github.com/Skype-line/X-Avatar) ⭐ 418 | 🐛 7 | 🌐 Python | 📅 2024-05-27]
+CVPR 2023. \[[PDF](https://arxiv.org/abs/2303.04805)] \[[Project](https://skype-line.github.io/projects/X-Avatar)] \[[Code](https://github.com/Skype-line/X-Avatar) ⭐ 417 | 🐛 7 | 🌐 Python | 📅 2024-05-27]
 
 **InstantAvatar: Learning Avatars from Monocular Video in 60 Seconds.**<br>
 *Tianjian Jiang, Xu Chen, Jie Song, Otmar Hilliges.*<br>
@@ -1640,7 +1640,7 @@ CVPR 2022. \[[PDF](http://arxiv.org/abs/2206.07036)] \[[Project](https://shapy.i
 
 **PoseScript: 3D Human Poses from Natural Language.**<br>
 *Ginger Delmas, Philippe Weinzaepfel, Thomas Lucas, Francesc Moreno-Noguer, Grégory Rogez.*<br>
-ECCV 2022. \[[PDF](http://arxiv.org/abs/2210.11795)] \[[Code](https://github.com/naver/posescript) ⭐ 211 | 🐛 0 | 🌐 Python | 📅 2025-02-13]
+ECCV 2022. \[[PDF](http://arxiv.org/abs/2210.11795)] \[[Code](https://github.com/naver/posescript) ⭐ 213 | 🐛 0 | 🌐 Python | 📅 2025-02-13]
 
 ### Human-Centric Perception
 
@@ -1667,7 +1667,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 ### Datasets
 
 * Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,854 | 🐛 34 | 🌐 Python | 📅 2022-06-13
-* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,638 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
+* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,637 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
 * Fashionpedia. [\[Website\]](https://fashionpedia.github.io/home/index.html)
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,736 | 🐛 136 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,737 | 🐛 136 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 429 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._

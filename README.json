@@ -208,7 +208,7 @@
             "open_issues": 36,
             "owner": "lizhe00",
             "repo": "AnimatableGaussians",
-            "stars": 1098,
+            "stars": 1099,
             "topics": [
               "3d-gaussian-splatting",
               "3d-human",
@@ -1388,7 +1388,7 @@
             "open_issues": 7,
             "owner": "Skype-line",
             "repo": "X-Avatar",
-            "stars": 418,
+            "stars": 417,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3330,7 +3330,7 @@
                 "open_issues": 0,
                 "owner": "naver",
                 "repo": "posescript",
-                "stars": 211,
+                "stars": 213,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3422,7 +3422,7 @@
                 "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2638,
+                "stars": 2637,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3536,7 +3536,7 @@
             "open_issues": 136,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2736,
+            "stars": 2737,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T09:49:32.526Z",
+    "last_updated": "2026-10-19T11:09:11.393Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
