@@ -328,7 +328,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2305.07514)] \[[Project](https://blendf
 
 **OTAvatar: One-shot Talking Face Avatar with Controllable Tri-plane Rendering.**<br>
 *Zhiyuan Ma, Xiangyu Zhu, Guojun Qi, Zhen Lei, Lei Zhang.*<br>
-CVPR 2023. \[[PDF](https://arxiv.org/pdf/2303.14662)] \[[Code](https://github.com/theEricMa/OTAvatar) ⭐ 324 | 🐛 9 | 🌐 Python | 📅 2024-03-05] \[[Demo](https://youtu.be/qpIoMYFr7Aw)]
+CVPR 2023. \[[PDF](https://arxiv.org/pdf/2303.14662)] \[[Code](https://github.com/theEricMa/OTAvatar) ⭐ 325 | 🐛 9 | 🌐 Python | 📅 2024-03-05] \[[Demo](https://youtu.be/qpIoMYFr7Aw)]
 
 **PanoHead: Geometry-Aware 3D Full-Head Synthesis in 360∘.**<br>
 *Sizhe An, Hongyi Xu, Yichun Shi, Guoxian Song, Umit Ogras, Linjie Luo.*<br>
@@ -406,7 +406,7 @@ TPAMI 2024. \[[PDF](https://arxiv.org/abs/2208.15001)] \[[Project](https://mingy
 
 **TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis.**<br>
 *Mathis Petrovich, Michael J. Black and Gül Varol.*<br>
-ICCV 2023. \[[PDF](https://arxiv.org/abs/2305.00976)] \[[Project](https://mathis.petrovich.fr/tmr/index.html)] \[[Code](https://github.com/Mathux/TMR) ⭐ 316 | 🐛 3 | 🌐 Python | 📅 2023-12-11]
+ICCV 2023. \[[PDF](https://arxiv.org/abs/2305.00976)] \[[Project](https://mathis.petrovich.fr/tmr/index.html)] \[[Code](https://github.com/Mathux/TMR) ⭐ 315 | 🐛 3 | 🌐 Python | 📅 2023-12-11]
 
 **SINC: Spatial Composition of 3D Human Motions for Simultaneous Action Generation.**<br>
 *Nikos Athanasiou, Mathis Petrovich, Michael J. Black, Gül Varol.*<br>
@@ -1406,7 +1406,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2204.11823)] \[[Code](https://youtu.be/
 
 **Text2Human: Text-Driven Controllable Human Image Generation.**<br>
 *Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu.*<br>
-SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2205.15996)] \[[Code](https://github.com/yumingj/Text2Human) ⭐ 845 | 🐛 9 | 🌐 Python | 📅 2024-07-24] \[[Project](https://yumingj.github.io/projects/Text2Human.html)]
+SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2205.15996)] \[[Code](https://github.com/yumingj/Text2Human) ⭐ 844 | 🐛 9 | 🌐 Python | 📅 2024-07-24] \[[Project](https://yumingj.github.io/projects/Text2Human.html)]
 
 **Self-Supervised Correlation Mining Network for Person Image Generation.**<br>
 *Zijian Wang, Xingqun Qi, Kun Yuan, Muyi Sun.*<br>
@@ -1442,7 +1442,7 @@ ECCV 2020.  \[[Code](https://github.com/Ha0Tang/XingGAN) ⭐ 225 | 🐛 3 | 🌐
 
 **Progressive Pose Attention Transfer for Person Image Generation.**<br>
 *Zhen Zhu, Tengteng Huang, Baoguang Shi, Miao Yu, Bofei Wang, Xiang Bai.*<br>
-CVPR 2019 (oral). \[[PDF](https://arxiv.org/abs/1904.03349)] \[[Code](https://github.com/tengteng95/Pose-Transfer.git) ⭐ 741 | 🐛 40 | 🌐 Python | 📅 2023-02-11]
+CVPR 2019 (oral). \[[PDF](https://arxiv.org/abs/1904.03349)] \[[Code](https://github.com/tengteng95/Pose-Transfer.git) ⭐ 742 | 🐛 40 | 🌐 Python | 📅 2023-02-11]
 
 **Generating Person Images with Appearance-aware Pose Stylizer.**<br>
 *Siyu Huang, Haoyi Xiong, Zhi-Qi Cheng, Qingzhong Wang, Xingran Zhou, Bihan Wen, Jun Huan, Dejing Dou.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,202 | 🐛 6 | 📅 2026-10-13]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,203 | 🐛 6 | 📅 2026-10-13]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1666,7 +1666,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,854 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,855 | 🐛 34 | 🌐 Python | 📅 2022-06-13
 * DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,637 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-20._

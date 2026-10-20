@@ -690,7 +690,7 @@
             "open_issues": 9,
             "owner": "theEricMa",
             "repo": "OTAvatar",
-            "stars": 324,
+            "stars": 325,
             "topics": [
               "cvpr2023",
               "deep-learning",
@@ -852,7 +852,7 @@
             "open_issues": 3,
             "owner": "Mathux",
             "repo": "TMR",
-            "stars": 316,
+            "stars": 315,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2760,7 +2760,7 @@
             "open_issues": 9,
             "owner": "yumingj",
             "repo": "Text2Human",
-            "stars": 845,
+            "stars": 844,
             "topics": [
               "siggraph2022"
             ]
@@ -2863,7 +2863,7 @@
             "open_issues": 40,
             "owner": "tengteng95",
             "repo": "Pose-Transfer",
-            "stars": 741,
+            "stars": 742,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3202,
+            "stars": 3203,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12854,
+                "stars": 12855,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T11:09:11.393Z",
+    "last_updated": "2026-10-20T10:21:12.631Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3579,7 +3579,7 @@
       "open_issues": 4,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
-      "stars": 1987,
+      "stars": 1988,
       "topics": [
         "avatar",
         "clothed-people-digitalization",
