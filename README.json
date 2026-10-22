@@ -208,7 +208,7 @@
             "open_issues": 36,
             "owner": "lizhe00",
             "repo": "AnimatableGaussians",
-            "stars": 1099,
+            "stars": 1100,
             "topics": [
               "3d-gaussian-splatting",
               "3d-human",
@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4120,
+            "stars": 4122,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -946,7 +946,7 @@
             "open_issues": 23,
             "owner": "GuyTevet",
             "repo": "MotionCLIP",
-            "stars": 503,
+            "stars": 504,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1040,7 +1040,7 @@
             "open_issues": 53,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2687,
+            "stars": 2688,
             "topics": [
               "aicg",
               "aigc",
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3204,
+            "stars": 3205,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3223,7 +3223,7 @@
             "open_issues": 6,
             "owner": "JianqiangRen",
             "repo": "FlowBasedBodyReshaping",
-            "stars": 183,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12857,
+                "stars": 12860,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3536,7 +3536,7 @@
             "open_issues": 136,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2740,
+            "stars": 2742,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-21T10:30:15.741Z",
+    "last_updated": "2026-10-22T10:31:24.695Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3579,7 +3579,7 @@
       "open_issues": 4,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
-      "stars": 1989,
+      "stars": 1990,
       "topics": [
         "avatar",
         "clothed-people-digitalization",
