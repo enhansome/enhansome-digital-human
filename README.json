@@ -565,7 +565,7 @@
             "open_issues": 19,
             "owner": "hongfz16",
             "repo": "AvatarCLIP",
-            "stars": 1102,
+            "stars": 1103,
             "topics": [
               "3d-generation",
               "motion-generation",
@@ -826,7 +826,7 @@
             "open_issues": 27,
             "owner": "MotrixLab",
             "repo": "MotionDiffuse",
-            "stars": 985,
+            "stars": 983,
             "topics": [
               "3d-generation",
               "diffusion-model",
@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4122,
+            "stars": 4123,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -992,7 +992,7 @@
             "open_issues": 2,
             "owner": "atnikos",
             "repo": "teach",
-            "stars": 400,
+            "stars": 401,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1037,7 +1037,7 @@
             "language": "Python",
             "license": "Apache-2.0",
             "last_commit": "2026-03-17T05:17:23Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "aigc3d",
             "repo": "LHM",
             "stars": 2688,
@@ -1354,7 +1354,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1213,
+            "stars": 1211,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -1926,7 +1926,7 @@
             "open_issues": 6,
             "owner": "zju3dv",
             "repo": "animatable_nerf",
-            "stars": 524,
+            "stars": 525,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9722,
+            "stars": 9723,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2910,11 +2910,11 @@
             "id": 273734636,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-13T21:09:17Z",
+            "last_commit": "2026-10-23T06:36:28Z",
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3205,
+            "stars": 3206,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12860,
+                "stars": 12861,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3422,7 +3422,7 @@
                 "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2638,
+                "stars": 2639,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3536,7 +3536,7 @@
             "open_issues": 136,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2742,
+            "stars": 2743,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T10:31:24.695Z",
+    "last_updated": "2026-10-23T10:26:12.821Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3576,10 +3576,10 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-04-18T02:42:41Z",
-      "open_issues": 4,
+      "open_issues": 5,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
-      "stars": 1990,
+      "stars": 1991,
       "topics": [
         "avatar",
         "clothed-people-digitalization",
