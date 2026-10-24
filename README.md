@@ -582,7 +582,7 @@ CVPR 2023. \[[PDF](http://arxiv.org/abs/2305.06351)] \[[Project](https://gengsha
 
 **Representing Volumetric Videos as Dynamic MLP Maps.**<br>
 *Sida Peng, Yunzhi Yan, Qing Shuai, Hujun Bao, Xiaowei Zhou.*<br>
-CVPR 2023. \[[PDF](https://arxiv.org/pdf/2304.06717.pdf)] \[[Project](https://zju3dv.github.io/mlp_maps)] \[[Code](https://github.com/zju3dv/mlp_maps) ⭐ 237 | 🐛 0 | 🌐 Cuda | 📅 2026-09-15]
+CVPR 2023. \[[PDF](https://arxiv.org/pdf/2304.06717.pdf)] \[[Project](https://zju3dv.github.io/mlp_maps)] \[[Code](https://github.com/zju3dv/mlp_maps) ⭐ 238 | 🐛 0 | 🌐 Cuda | 📅 2026-09-15]
 
 **Learning Neural Volumetric Representations of Dynamic Humans in Minutes.**<br>
 *[Chen Geng](https://chen-geng.com), Sida Peng, Zhen Xu, Hujun Bao, Xiaowei Zhou.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,206 | 🐛 6 | 📅 2026-10-23]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,207 | 🐛 6 | 📅 2026-10-23]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1667,7 +1667,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 ### Datasets
 
 * Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,861 | 🐛 34 | 🌐 Python | 📅 2022-06-13
-* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,639 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
+* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,638 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
 * Fashionpedia. [\[Website\]](https://fashionpedia.github.io/home/index.html)
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-24._

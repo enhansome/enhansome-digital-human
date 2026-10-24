@@ -1280,7 +1280,7 @@
             "open_issues": 0,
             "owner": "zju3dv",
             "repo": "mlp_maps",
-            "stars": 237,
+            "stars": 238,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9723,
+            "stars": 9722,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3206,
+            "stars": 3207,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3422,7 +3422,7 @@
                 "open_issues": 61,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2639,
+                "stars": 2638,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T10:26:12.821Z",
+    "last_updated": "2026-10-24T09:44:51.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3579,7 +3579,7 @@
       "open_issues": 5,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
-      "stars": 1991,
+      "stars": 1992,
       "topics": [
         "avatar",
         "clothed-people-digitalization",
