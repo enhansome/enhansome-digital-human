@@ -402,7 +402,7 @@ ICLR 2024. \[[PDF](http://arxiv.org/abs/2310.08580)] \[[Project](https://neu-vi.
 
 **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model.**<br>
 *[Mingyuan Zhang](https://mingyuan-zhang.github.io), [Zhongang Cai](https://caizhongang.github.io), [Liang Pan](https://github.com/paul007pl), [Fangzhou Hong](https://hongfz16.github.io), [Xinying Guo](https://gxyes.github.io), [Lei Yang](https://yanglei.me), [Ziwei Liu](https://liuziwei7.github.io).*<br>
-TPAMI 2024. \[[PDF](https://arxiv.org/abs/2208.15001)] \[[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] \[[Code](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 983 | 🐛 27 | 🌐 Python | 📅 2024-07-19]
+TPAMI 2024. \[[PDF](https://arxiv.org/abs/2208.15001)] \[[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] \[[Code](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 984 | 🐛 27 | 🌐 Python | 📅 2024-07-19]
 
 **TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis.**<br>
 *Mathis Petrovich, Michael J. Black and Gül Varol.*<br>
@@ -422,7 +422,7 @@ SIGGRAPH 2023 (Journal Track). \[[PDF](https://arxiv.org/abs/2303.14613)] \[[Pro
 
 **MDM: Human Motion Diffusion Model.**<br>
 *Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano.*<br>
-ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,124 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
+ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,126 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
 
 **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis.**<br>
 *[Rishabh Dabral](https://www.cse.iitb.ac.in/~rdabral), [Muhammad Hamza Mughal](https://m-hamza-mughal.github.io), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt).*<br>
@@ -494,7 +494,7 @@ ECCV 2024. \[[PDF](https://arxiv.org/abs/2407.11174)]
 
 **HiLo: Detailed and Robust 3D Clothed Human Reconstruction with High-and Low-Frequency Information of Parametric Models.**<br>
 *Yifan Yang, Dong Liu, Shuhai Zhang, Zeshuai Deng, Zixiong Huang, Mingkui Tan.*<br>
-CVPR 2024. \[[PDF](https://arxiv.org/abs/2404.04876)] \[[Github](https://github.com/YifYang993/HiLo) ⭐ 47 | 🐛 4 | 🌐 Python | 📅 2025-05-13]
+CVPR 2024. \[[PDF](https://arxiv.org/abs/2404.04876)] \[[Github](https://github.com/YifYang993/HiLo) ⭐ 47 | 🐛 5 | 🌐 Python | 📅 2025-05-13]
 
 **IntrinsicAvatar: Physically Based Inverse Rendering of Dynamic Humans from Monocular Videos Via Explicit Ray Tracing.**<br>
 *Shaofei Wang, Božidar Antić, Andreas Geiger, Siyu Tang.*<br>
@@ -1110,7 +1110,7 @@ ECCV 2020. \[[PDF](https://arxiv.org/abs/2007.11610)] \[[Data](https://nextcloud
 
 **TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.**<br>
 *Chaitanya Patel, Zhouyingcheng Liao, Gerard Pons-Moll.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.04583)] \[[Code](https://github.com/chaitanya100100/TailorNet) ⭐ 436 | 🐛 1 | 🌐 Python | 📅 2022-03-04] \[[Project](https://virtualhumans.mpi-inf.mpg.de/tailornet)] \[[Data](https://github.com/zycliao/TailorNet_dataset) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2026-02-09]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.04583)] \[[Code](https://github.com/chaitanya100100/TailorNet) ⭐ 437 | 🐛 1 | 🌐 Python | 📅 2022-03-04] \[[Project](https://virtualhumans.mpi-inf.mpg.de/tailornet)] \[[Data](https://github.com/zycliao/TailorNet_dataset) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2026-02-09]
 
 **Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction.**<br>
 *Tong He, John Collomosse, Hailin Jin, Stefano Soatto.*<br>
@@ -1276,7 +1276,7 @@ SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2205.01355)] \[[Code](https://githu
 
 **DiffCloth: Differentiable Cloth Simulation with Dry Frictional Contact.**<br>
 *[Yifei Li](https://people.csail.mit.edu/liyifei), [Tao Du](https://people.csail.mit.edu/taodu), [Kui Wu](https://people.csail.mit.edu/kuiwu), [Jie Xu](http://people.csail.mit.edu/jiex), [Wojciech Matusik](https://cdfg.csail.mit.edu/wojciech).*<br>
-TOG 2022. \[[PDF](https://arxiv.org/abs/2106.05306)] \[[Project](https://people.csail.mit.edu/liyifei/publication/diffcloth-differentiable-cloth-simulator)] \[[Code](https://github.com/omegaiota/DiffCloth) ⭐ 433 | 🐛 8 | 🌐 C++ | 📅 2024-05-10]
+TOG 2022. \[[PDF](https://arxiv.org/abs/2106.05306)] \[[Project](https://people.csail.mit.edu/liyifei/publication/diffcloth-differentiable-cloth-simulator)] \[[Code](https://github.com/omegaiota/DiffCloth) ⭐ 434 | 🐛 8 | 🌐 C++ | 📅 2024-05-10]
 
 **DIG: Draping Implicit Garment over the Human Body.**<br>
 *Ren Li, Benoît Guillard, Edoardo Remelli, Pascal Fua.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,208 | 🐛 6 | 📅 2026-10-23]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,211 | 🐛 6 | 📅 2026-10-23]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1666,7 +1666,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,863 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,865 | 🐛 34 | 🌐 Python | 📅 2022-06-13
 * DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,638 | 🐛 61 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,743 | 🐛 136 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,744 | 🐛 136 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 429 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
