@@ -40,7 +40,7 @@
             "open_issues": 14,
             "owner": "facebookresearch",
             "repo": "pippo",
-            "stars": 655,
+            "stars": 656,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -161,7 +161,7 @@
             "open_issues": 5,
             "owner": "jefftan969",
             "repo": "dressrecon",
-            "stars": 144,
+            "stars": 145,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -826,7 +826,7 @@
             "open_issues": 27,
             "owner": "MotrixLab",
             "repo": "MotionDiffuse",
-            "stars": 984,
+            "stars": 983,
             "topics": [
               "3d-generation",
               "diffusion-model",
@@ -852,7 +852,7 @@
             "open_issues": 3,
             "owner": "Mathux",
             "repo": "TMR",
-            "stars": 314,
+            "stars": 315,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4127,
+            "stars": 4128,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1019,7 +1019,7 @@
             "open_issues": 3,
             "owner": "TMT22",
             "repo": "HumanOLAT",
-            "stars": 43,
+            "stars": 44,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1736,7 +1736,7 @@
             "open_issues": 9,
             "owner": "xuchen-ethz",
             "repo": "gdna",
-            "stars": 182,
+            "stars": 181,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 8,
             "owner": "omegaiota",
             "repo": "DiffCloth",
-            "stars": 434,
+            "stars": 435,
             "topics": [
               "cloth-simulation",
               "differentiable",
@@ -3223,7 +3223,7 @@
             "open_issues": 6,
             "owner": "JianqiangRen",
             "repo": "FlowBasedBodyReshaping",
-            "stars": 183,
+            "stars": 184,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12867,
+                "stars": 12869,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3419,7 +3419,7 @@
                 "language": "Jupyter Notebook",
                 "license": null,
                 "last_commit": "2025-01-28T04:30:15Z",
-                "open_issues": 61,
+                "open_issues": 60,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
                 "stars": 2638,
@@ -3536,7 +3536,7 @@
             "open_issues": 136,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2745,
+            "stars": 2746,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T10:50:46.124Z",
+    "last_updated": "2026-10-28T11:31:51.262Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3579,7 +3579,7 @@
       "open_issues": 5,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
-      "stars": 1994,
+      "stars": 1995,
       "topics": [
         "avatar",
         "clothed-people-digitalization",
