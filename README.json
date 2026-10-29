@@ -182,7 +182,7 @@
             "open_issues": 0,
             "owner": "RodinHD",
             "repo": "RodinHD",
-            "stars": 217,
+            "stars": 218,
             "topics": [
               "3d-generation",
               "ai",
@@ -1040,7 +1040,7 @@
             "open_issues": 54,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2688,
+            "stars": 2690,
             "topics": [
               "aicg",
               "aigc",
@@ -2184,7 +2184,7 @@
             "open_issues": 1,
             "owner": "chaitanya100100",
             "repo": "TailorNet",
-            "stars": 437,
+            "stars": 438,
             "topics": [
               "3d-computer-graphics",
               "3d-computer-vision",
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9723,
+            "stars": 9722,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3212,
+            "stars": 3213,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12869,
+                "stars": 12873,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3536,7 +3536,7 @@
             "open_issues": 136,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2746,
+            "stars": 2748,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T11:31:51.262Z",
+    "last_updated": "2026-10-29T11:41:05.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
