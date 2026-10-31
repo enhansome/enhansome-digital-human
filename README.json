@@ -1040,7 +1040,7 @@
             "open_issues": 54,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2691,
+            "stars": 2692,
             "topics": [
               "aicg",
               "aigc",
@@ -1694,7 +1694,7 @@
             "open_issues": 52,
             "owner": "YuliangXiu",
             "repo": "ICON",
-            "stars": 1680,
+            "stars": 1679,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -2094,7 +2094,7 @@
             "open_issues": 51,
             "owner": "mks0601",
             "repo": "I2L-MeshNet_RELEASE",
-            "stars": 735,
+            "stars": 736,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12875,
+                "stars": 12876,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-30T11:33:24.698Z",
+    "last_updated": "2026-10-31T11:07:56.271Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
