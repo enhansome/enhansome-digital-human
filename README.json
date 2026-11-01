@@ -826,7 +826,7 @@
             "open_issues": 27,
             "owner": "MotrixLab",
             "repo": "MotionDiffuse",
-            "stars": 983,
+            "stars": 984,
             "topics": [
               "3d-generation",
               "diffusion-model",
@@ -1040,7 +1040,7 @@
             "open_issues": 54,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2692,
+            "stars": 2694,
             "topics": [
               "aicg",
               "aigc",
@@ -2184,7 +2184,7 @@
             "open_issues": 1,
             "owner": "chaitanya100100",
             "repo": "TailorNet",
-            "stars": 438,
+            "stars": 439,
             "topics": [
               "3d-computer-graphics",
               "3d-computer-vision",
@@ -2910,11 +2910,11 @@
             "id": 273734636,
             "language": null,
             "license": null,
-            "last_commit": "2026-10-23T06:36:28Z",
+            "last_commit": "2026-11-01T09:16:13Z",
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3213,
+            "stars": 3214,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-31T11:07:56.271Z",
+    "last_updated": "2026-11-01T11:58:56.912Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",

@@ -402,7 +402,7 @@ ICLR 2024. \[[PDF](http://arxiv.org/abs/2310.08580)] \[[Project](https://neu-vi.
 
 **MotionDiffuse: Text-Driven Human Motion Generation with Diffusion Model.**<br>
 *[Mingyuan Zhang](https://mingyuan-zhang.github.io), [Zhongang Cai](https://caizhongang.github.io), [Liang Pan](https://github.com/paul007pl), [Fangzhou Hong](https://hongfz16.github.io), [Xinying Guo](https://gxyes.github.io), [Lei Yang](https://yanglei.me), [Ziwei Liu](https://liuziwei7.github.io).*<br>
-TPAMI 2024. \[[PDF](https://arxiv.org/abs/2208.15001)] \[[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] \[[Code](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 983 | 🐛 27 | 🌐 Python | 📅 2024-07-19]
+TPAMI 2024. \[[PDF](https://arxiv.org/abs/2208.15001)] \[[Project](https://mingyuan-zhang.github.io/projects/MotionDiffuse.html)] \[[Code](https://github.com/mingyuan-zhang/MotionDiffuse) ⭐ 984 | 🐛 27 | 🌐 Python | 📅 2024-07-19]
 
 **TMR: Text-to-Motion Retrieval Using Contrastive 3D Human Motion Synthesis.**<br>
 *Mathis Petrovich, Michael J. Black and Gül Varol.*<br>
@@ -454,7 +454,7 @@ ICCV 2025. \[[PDF](https://arxiv.org/abs/2508.09137)] \[[Project](https://vcai.m
 
 **LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds.**<br>
 *Lingteng Qiu, Xiaodong Gu, Peihao Li, Qi Zuo, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan, Guanying Chen, Zilong Dong, Liefeng Bo.*<br>
-ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10625)] \[[Project](https://lingtengqiu.github.io/LHM)] \[[Github](https://github.com/aigc3d/LHM) ⭐ 2,692 | 🐛 54 | 🌐 Python | 📅 2026-03-17]
+ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10625)] \[[Project](https://lingtengqiu.github.io/LHM)] \[[Github](https://github.com/aigc3d/LHM) ⭐ 2,694 | 🐛 54 | 🌐 Python | 📅 2026-03-17]
 
 **ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness.**<br>
 *Boqian Li, Haiwen Feng, Zeyu Cai, Michael J. Black, Yuliang Xiu.*<br>
@@ -1110,7 +1110,7 @@ ECCV 2020. \[[PDF](https://arxiv.org/abs/2007.11610)] \[[Data](https://nextcloud
 
 **TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.**<br>
 *Chaitanya Patel, Zhouyingcheng Liao, Gerard Pons-Moll.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.04583)] \[[Code](https://github.com/chaitanya100100/TailorNet) ⭐ 438 | 🐛 1 | 🌐 Python | 📅 2022-03-04] \[[Project](https://virtualhumans.mpi-inf.mpg.de/tailornet)] \[[Data](https://github.com/zycliao/TailorNet_dataset) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2026-02-09]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.04583)] \[[Code](https://github.com/chaitanya100100/TailorNet) ⭐ 439 | 🐛 1 | 🌐 Python | 📅 2022-03-04] \[[Project](https://virtualhumans.mpi-inf.mpg.de/tailornet)] \[[Data](https://github.com/zycliao/TailorNet_dataset) ⭐ 157 | 🐛 1 | 🌐 Python | 📅 2026-02-09]
 
 **Geo-PIFu: Geometry and Pixel Aligned Implicit Functions for Single-view Human Reconstruction.**<br>
 *Tong He, John Collomosse, Hailin Jin, Stefano Soatto.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,213 | 🐛 6 | 📅 2026-10-23]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,214 | 🐛 6 | 📅 2026-11-01]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-31._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
