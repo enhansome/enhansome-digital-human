@@ -208,7 +208,7 @@
             "open_issues": 36,
             "owner": "lizhe00",
             "repo": "AnimatableGaussians",
-            "stars": 1103,
+            "stars": 1104,
             "topics": [
               "3d-gaussian-splatting",
               "3d-human",
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9723,
+            "stars": 9722,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2340,7 +2340,7 @@
             "open_issues": 60,
             "owner": "shunsukesaito",
             "repo": "PIFu",
-            "stars": 1822,
+            "stars": 1823,
             "topics": [
               "3d-printing",
               "3d-reconstruction",
@@ -2504,7 +2504,7 @@
             "open_issues": 11,
             "owner": "GAP-LAB-CUHK-SZ",
             "repo": "REC-MV",
-            "stars": 281,
+            "stars": 280,
             "topics": [
               "3d-models",
               "3d-reconstruction",
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3213,
+            "stars": 3215,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12877,
+                "stars": 12878,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3422,7 +3422,7 @@
                 "open_issues": 60,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2640,
+                "stars": 2641,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-02T13:46:13.422Z",
+    "last_updated": "2026-11-03T12:57:54.512Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3576,7 +3576,7 @@
       "language": null,
       "license": "MIT",
       "last_commit": "2026-04-18T02:42:41Z",
-      "open_issues": 5,
+      "open_issues": 6,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
       "stars": 1997,
