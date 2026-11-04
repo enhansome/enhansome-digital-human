@@ -129,7 +129,7 @@
             "open_issues": 4,
             "owner": "silence-tang",
             "repo": "GaussianIP",
-            "stars": 26,
+            "stars": 27,
             "topics": [
               "3d",
               "3d-human",
@@ -318,7 +318,7 @@
             "open_issues": 6,
             "owner": "TingtingLiao",
             "repo": "TADA",
-            "stars": 311,
+            "stars": 312,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -826,7 +826,7 @@
             "open_issues": 27,
             "owner": "MotrixLab",
             "repo": "MotionDiffuse",
-            "stars": 984,
+            "stars": 985,
             "topics": [
               "3d-generation",
               "diffusion-model",
@@ -870,7 +870,7 @@
             "language": "Python",
             "license": null,
             "last_commit": "2025-11-05T14:35:05Z",
-            "open_issues": 3,
+            "open_issues": 4,
             "owner": "atnikos",
             "repo": "sinc",
             "stars": 101,
@@ -1040,7 +1040,7 @@
             "open_issues": 54,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2694,
+            "stars": 2695,
             "topics": [
               "aicg",
               "aigc",
@@ -1354,7 +1354,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1212,
+            "stars": 1213,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -1807,7 +1807,7 @@
             "open_issues": 4,
             "owner": "hongfz16",
             "repo": "Garment4D",
-            "stars": 139,
+            "stars": 140,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1947,7 +1947,7 @@
             "open_issues": 1,
             "owner": "onlinereconstruction",
             "repo": "deep_surfels",
-            "stars": 69,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2181,7 +2181,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2022-03-04T08:02:16Z",
-            "open_issues": 1,
+            "open_issues": 0,
             "owner": "chaitanya100100",
             "repo": "TailorNet",
             "stars": 439,
@@ -2483,7 +2483,7 @@
             "open_issues": 3,
             "owner": "eth-ait",
             "repo": "4d-dress",
-            "stars": 142,
+            "stars": 143,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3215,
+            "stars": 3218,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -2956,7 +2956,7 @@
             "open_issues": 64,
             "owner": "sangyun884",
             "repo": "HR-VITON",
-            "stars": 918,
+            "stars": 917,
             "topics": [
               "image-generation",
               "image-synthesis",
@@ -3099,7 +3099,7 @@
             "open_issues": 63,
             "owner": "geyuying",
             "repo": "PF-AFN",
-            "stars": 560,
+            "stars": 559,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3141,7 +3141,7 @@
             "open_issues": 9,
             "owner": "switchablenorms",
             "repo": "DeepFashion_Try_On",
-            "stars": 887,
+            "stars": 888,
             "topics": [
               "acgpn",
               "deepfashion",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12878,
+                "stars": 12879,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3422,7 +3422,7 @@
                 "open_issues": 60,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2641,
+                "stars": 2642,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3478,7 +3478,7 @@
             "open_issues": 16,
             "owner": "IHe-KaiI",
             "repo": "DressCode",
-            "stars": 297,
+            "stars": 298,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3533,10 +3533,10 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-08-12T05:09:47Z",
-            "open_issues": 136,
+            "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2751,
+            "stars": 2749,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T12:57:54.512Z",
+    "last_updated": "2026-11-04T13:12:50.603Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
@@ -3579,7 +3579,7 @@
       "open_issues": 6,
       "owner": "weihaox",
       "repo": "awesome-digital-human",
-      "stars": 1997,
+      "stars": 1998,
       "topics": [
         "avatar",
         "clothed-people-digitalization",
