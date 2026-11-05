@@ -826,7 +826,7 @@
             "open_issues": 27,
             "owner": "MotrixLab",
             "repo": "MotionDiffuse",
-            "stars": 985,
+            "stars": 986,
             "topics": [
               "3d-generation",
               "diffusion-model",
@@ -852,7 +852,7 @@
             "open_issues": 3,
             "owner": "Mathux",
             "repo": "TMR",
-            "stars": 317,
+            "stars": 318,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -873,7 +873,7 @@
             "open_issues": 4,
             "owner": "atnikos",
             "repo": "sinc",
-            "stars": 101,
+            "stars": 102,
             "topics": [
               "motion-control",
               "motion-generation"
@@ -946,7 +946,7 @@
             "open_issues": 23,
             "owner": "GuyTevet",
             "repo": "MotionCLIP",
-            "stars": 504,
+            "stars": 505,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -992,7 +992,7 @@
             "open_issues": 2,
             "owner": "atnikos",
             "repo": "teach",
-            "stars": 401,
+            "stars": 402,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3218,
+            "stars": 3220,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3330,7 +3330,7 @@
                 "open_issues": 0,
                 "owner": "naver",
                 "repo": "posescript",
-                "stars": 213,
+                "stars": 214,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12879,
+                "stars": 12882,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T13:12:50.603Z",
+    "last_updated": "2026-11-05T13:26:43.697Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
