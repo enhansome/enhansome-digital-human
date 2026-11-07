@@ -208,7 +208,7 @@
             "open_issues": 36,
             "owner": "lizhe00",
             "repo": "AnimatableGaussians",
-            "stars": 1104,
+            "stars": 1105,
             "topics": [
               "3d-gaussian-splatting",
               "3d-human",
@@ -415,7 +415,7 @@
             "open_issues": 3,
             "owner": "icoz69",
             "repo": "StyleAvatar3D",
-            "stars": 504,
+            "stars": 503,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -826,7 +826,7 @@
             "open_issues": 27,
             "owner": "MotrixLab",
             "repo": "MotionDiffuse",
-            "stars": 986,
+            "stars": 987,
             "topics": [
               "3d-generation",
               "diffusion-model",
@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4131,
+            "stars": 4130,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9720,
+            "stars": 9717,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2649,7 +2649,7 @@
             "open_issues": 1,
             "owner": "hbertiche",
             "repo": "PBNS",
-            "stars": 116,
+            "stars": 115,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3099,7 +3099,7 @@
             "open_issues": 63,
             "owner": "geyuying",
             "repo": "PF-AFN",
-            "stars": 559,
+            "stars": 558,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3536,7 +3536,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2751,
+            "stars": 2752,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T13:10:16.149Z",
+    "last_updated": "2026-11-07T11:53:14.914Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
