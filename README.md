@@ -1182,7 +1182,7 @@ TPAMI 2019. \[[PDF](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=\&arnumber=87
 
 **PIFu: Pixel-Aligned Implicit Function for High-Resolution Clothed Human Digitization.**<br>
 *Shunsuke Saito, Zeng Huang, Ryota Natsume, Shigeo Morishima, Angjoo Kanazawa, Hao Li.*<br>
-ICCV 2019. \[[PDF](https://arxiv.org/pdf/1905.05172.pdf)] \[[Project](shunsukesaito.github.io/PIFu)] \[[Code](https://github.com/shunsukesaito/PIFu) ⭐ 1,823 | 🐛 60 | 🌐 Python | 📅 2023-11-24]
+ICCV 2019. \[[PDF](https://arxiv.org/pdf/1905.05172.pdf)] \[[Project](shunsukesaito.github.io/PIFu)] \[[Code](https://github.com/shunsukesaito/PIFu) ⭐ 1,824 | 🐛 60 | 🌐 Python | 📅 2023-11-24]
 
 **Multi-Garment Net\_Learning to Dress 3D people from Images.**<br>
 *Bharat Lal Bhatnagar, Garvita Tiwari, Christian Theobalt, Gerard Pons-Moll.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,221 | 🐛 6 | 📅 2026-11-01]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,222 | 🐛 6 | 📅 2026-11-01]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1462,7 +1462,7 @@ CVPR 2023. \[[PDF](https://arxiv.org/abs/2306.08276)] \[[Project](https://tryond
 
 **High-Resolution Virtual Try-On with Misalignment and Occlusion-Handled Conditions.**<br>
 *Sangyun Lee, Gyojung Gu, Sunghyun Park, Seunghwan Choi, Jaegul Choo.*<br>
-ECCV 2022. \[[PDF](https://arxiv.org/pdf/2206.14180.pdf)] \[[Project](https://koo616.github.io/HR-VITON)] \[[Code](https://github.com/sangyun884/HR-VITON) ⭐ 917 | 🐛 64 | 🌐 Python | 📅 2024-12-31]
+ECCV 2022. \[[PDF](https://arxiv.org/pdf/2206.14180.pdf)] \[[Project](https://koo616.github.io/HR-VITON)] \[[Code](https://github.com/sangyun884/HR-VITON) ⭐ 918 | 🐛 64 | 🌐 Python | 📅 2024-12-31]
 
 **Single Stage Virtual Try-on via Deformable Attention Flows.**<br>
 *Shuai Bai, Huiling Zhou, Zhikang Li, Chang Zhou, Hongxia Yang.*<br>
@@ -1666,7 +1666,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,881 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,882 | 🐛 34 | 🌐 Python | 📅 2022-06-13
 * DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,642 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,752 | 🐛 137 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,753 | 🐛 137 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 429 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

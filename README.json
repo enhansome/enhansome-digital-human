@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9717,
+            "stars": 9718,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2340,7 +2340,7 @@
             "open_issues": 60,
             "owner": "shunsukesaito",
             "repo": "PIFu",
-            "stars": 1823,
+            "stars": 1824,
             "topics": [
               "3d-printing",
               "3d-reconstruction",
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3221,
+            "stars": 3222,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -2956,7 +2956,7 @@
             "open_issues": 64,
             "owner": "sangyun884",
             "repo": "HR-VITON",
-            "stars": 917,
+            "stars": 918,
             "topics": [
               "image-generation",
               "image-synthesis",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12881,
+                "stars": 12882,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3536,7 +3536,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2752,
+            "stars": 2753,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T11:53:14.914Z",
+    "last_updated": "2026-11-08T12:07:49.428Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
