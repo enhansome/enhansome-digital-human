@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4130,
+            "stars": 4132,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1354,7 +1354,7 @@
             "open_issues": 41,
             "owner": "YuliangXiu",
             "repo": "ECON",
-            "stars": 1214,
+            "stars": 1215,
             "topics": [
               "3d-reconstruction",
               "avatar-generator",
@@ -1428,7 +1428,7 @@
             "id": 552577960,
             "language": "Python",
             "license": null,
-            "last_commit": "2026-11-09T09:25:02Z",
+            "last_commit": "2026-11-09T19:58:28Z",
             "open_issues": 1,
             "owner": "fengq1a0",
             "repo": "FOF",
@@ -1989,7 +1989,7 @@
             "open_issues": 1,
             "owner": "sergeyprokudin",
             "repo": "smplpix",
-            "stars": 455,
+            "stars": 454,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9718,
+            "stars": 9717,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3224,
+            "stars": 3225,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3422,7 +3422,7 @@
                 "open_issues": 60,
                 "owner": "switchablenorms",
                 "repo": "DeepFashion2",
-                "stars": 2642,
+                "stars": 2644,
                 "topics": []
               },
               "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3478,7 +3478,7 @@
             "open_issues": 16,
             "owner": "IHe-KaiI",
             "repo": "DressCode",
-            "stars": 298,
+            "stars": 299,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3536,7 +3536,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2753,
+            "stars": 2757,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T14:14:31.326Z",
+    "last_updated": "2026-11-10T13:42:47.218Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
