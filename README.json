@@ -182,7 +182,7 @@
             "open_issues": 0,
             "owner": "RodinHD",
             "repo": "RodinHD",
-            "stars": 218,
+            "stars": 219,
             "topics": [
               "3d-generation",
               "ai",
@@ -1325,7 +1325,7 @@
             "id": 610134638,
             "language": "Python",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-09T12:14:55Z",
+            "last_commit": "2026-11-11T01:53:01Z",
             "open_issues": 11,
             "owner": "SangHunHan92",
             "repo": "2K2K",
@@ -1565,7 +1565,7 @@
             "open_issues": 13,
             "owner": "DSaurus",
             "repo": "DiffuStereo",
-            "stars": 208,
+            "stars": 209,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9717,
+            "stars": 9718,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2573,7 +2573,7 @@
             "open_issues": 8,
             "owner": "omegaiota",
             "repo": "DiffCloth",
-            "stars": 435,
+            "stars": 436,
             "topics": [
               "cloth-simulation",
               "differentiable",
@@ -2649,7 +2649,7 @@
             "open_issues": 1,
             "owner": "hbertiche",
             "repo": "PBNS",
-            "stars": 115,
+            "stars": 116,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -2914,7 +2914,7 @@
             "open_issues": 6,
             "owner": "minar09",
             "repo": "awesome-virtual-try-on",
-            "stars": 3225,
+            "stars": 3226,
             "topics": [
               "2d-virtual-try-on",
               "3d-virtual-try-on",
@@ -3389,7 +3389,7 @@
                 "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12884,
+                "stars": 12886,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3478,7 +3478,7 @@
             "open_issues": 16,
             "owner": "IHe-KaiI",
             "repo": "DressCode",
-            "stars": 299,
+            "stars": 300,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3536,7 +3536,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2757,
+            "stars": 2758,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T13:42:47.218Z",
+    "last_updated": "2026-11-11T12:54:33.545Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
