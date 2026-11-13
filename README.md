@@ -238,7 +238,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2208.03550)] \[[Project](https://clip-a
 
 **AvatarCLIP: Zero-Shot Text-Driven Generation and Animation of 3D Avatars.**<br>
 *[Fangzhou Hong](https://hongfz16.github.io), Mingyuan Zhang, Liang Pan, Zhongang Cai, Lei Yang, Ziwei Liu.*<br>
-SIGGRAPH (TOG) 2022. \[[PDF](https://arxiv.org/abs/2205.08535)] \[[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] \[[Code](https://github.com/hongfz16/AvatarCLIP) ⭐ 1,104 | 🐛 19 | 🌐 Python | 📅 2023-02-15]
+SIGGRAPH (TOG) 2022. \[[PDF](https://arxiv.org/abs/2205.08535)] \[[Project](https://hongfz16.github.io/projects/AvatarCLIP.html)] \[[Code](https://github.com/hongfz16/AvatarCLIP) ⭐ 1,102 | 🐛 19 | 🌐 Python | 📅 2023-02-15]
 
 ## 3D Head Animatable Avatar (from 2D Image Collections)
 
@@ -1106,7 +1106,7 @@ ECCV 2020. \[[PDF](http://virtualhumans.mpi-inf.mpg.de/papers/NASA20/NASA.pdf)]
 
 **SIZER: A Dataset and Model for Parsing 3D Clothing and Learning Size Sensitive 3D Clothing.**<br>
 *Garvita Tiwari, Bharat Lal Bhatnagar, Tony Tung, [Gerard Pons-Moll](http://virtualhumans.mpi-inf.mpg.de/publications.html).*<br>
-ECCV 2020. \[[PDF](https://arxiv.org/abs/2007.11610)] \[[Data](https://nextcloud.mpi-klsb.mpg.de/index.php/s/nx6wK6BJFZCTF8C)] \[[Code](https://github.com/garvita-tiwari/sizer) ⭐ 93 | 🐛 4 | 🌐 Python | 📅 2024-10-07] \[[Project](https://virtualhumans.mpi-inf.mpg.de/sizer)]
+ECCV 2020. \[[PDF](https://arxiv.org/abs/2007.11610)] \[[Data](https://nextcloud.mpi-klsb.mpg.de/index.php/s/nx6wK6BJFZCTF8C)] \[[Code](https://github.com/garvita-tiwari/sizer) ⭐ 94 | 🐛 4 | 🌐 Python | 📅 2024-10-07] \[[Project](https://virtualhumans.mpi-inf.mpg.de/sizer)]
 
 **TailorNet: Predicting Clothing in 3D as a Function of Human Pose, Shape and Garment Style.**<br>
 *Chaitanya Patel, Zhouyingcheng Liao, Gerard Pons-Moll.*<br>
@@ -1406,7 +1406,7 @@ ECCV 2022. \[[PDF](https://arxiv.org/abs/2204.11823)] \[[Code](https://youtu.be/
 
 **Text2Human: Text-Driven Controllable Human Image Generation.**<br>
 *Yuming Jiang, Shuai Yang, Haonan Qiu, Wayne Wu, Chen Change Loy, Ziwei Liu.*<br>
-SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2205.15996)] \[[Code](https://github.com/yumingj/Text2Human) ⭐ 843 | 🐛 9 | 🌐 Python | 📅 2024-07-24] \[[Project](https://yumingj.github.io/projects/Text2Human.html)]
+SIGGRAPH 2022. \[[PDF](https://arxiv.org/abs/2205.15996)] \[[Code](https://github.com/yumingj/Text2Human) ⭐ 842 | 🐛 9 | 🌐 Python | 📅 2024-07-24] \[[Project](https://yumingj.github.io/projects/Text2Human.html)]
 
 **Self-Supervised Correlation Mining Network for Person Image Generation.**<br>
 *Zijian Wang, Xingqun Qi, Kun Yuan, Muyi Sun.*<br>
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,761 | 🐛 137 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,762 | 🐛 137 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 429 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-12._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-13._
