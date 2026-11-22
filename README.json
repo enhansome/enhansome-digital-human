@@ -925,7 +925,7 @@
             "open_issues": 69,
             "owner": "GuyTevet",
             "repo": "motion-diffusion-model",
-            "stars": 4150,
+            "stars": 4155,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1040,7 +1040,7 @@
             "open_issues": 54,
             "owner": "aigc3d",
             "repo": "LHM",
-            "stars": 2701,
+            "stars": 2702,
             "topics": [
               "aicg",
               "aigc",
@@ -1694,7 +1694,7 @@
             "open_issues": 52,
             "owner": "YuliangXiu",
             "repo": "ICON",
-            "stars": 1679,
+            "stars": 1680,
             "topics": [
               "3d-reconstruction",
               "animation",
@@ -2256,7 +2256,7 @@
             "open_issues": 99,
             "owner": "facebookresearch",
             "repo": "pifuhd",
-            "stars": 9714,
+            "stars": 9715,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3389,7 +3389,7 @@
                 "open_issues": 33,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12898,
+                "stars": 12899,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3536,7 +3536,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2770,
+            "stars": 2771,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T13:39:53.175Z",
+    "last_updated": "2026-11-22T13:32:50.581Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
