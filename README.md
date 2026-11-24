@@ -62,7 +62,7 @@ CVPR 2025. \[[Project page](https://lingtengqiu.github.io/2024/AniGS/)] \[[Paper
 
 **PSHuman: Photorealistic Single-image 3D Human Reconstruction using Cross-Scale Multiview Diffusion**<br>
 *Peng Li, Wangguandong Zheng, Yuan Liu, Tao Yu, Yangguang Li, Siyu Xia, Yan-Pei Cao, Yike Guo.*<br>
-CVPR 2025. \[[Project Page](https://penghtyx.github.io/PSHuman/)]  \[[Paper](https://arxiv.org/pdf/2409.10141)] \[[Code](https://github.com/pengHTYX/PSHuman/) ⭐ 466 | 🐛 22 | 🌐 Python | 📅 2024-12-11] \[[Demo](https://huggingface.co/spaces/RipleysNest/PSHuman)]
+CVPR 2025. \[[Project Page](https://penghtyx.github.io/PSHuman/)]  \[[Paper](https://arxiv.org/pdf/2409.10141)] \[[Code](https://github.com/pengHTYX/PSHuman/) ⭐ 468 | 🐛 22 | 🌐 Python | 📅 2024-12-11] \[[Demo](https://huggingface.co/spaces/RipleysNest/PSHuman)]
 
 **Pippo: High-Resolution Multi-View Humans from a Single Image**<br>
 *Yash Kant, Ethan Weber, Jin Kyu Kim, Rawal Khirodkar, Su Zhaoen, Julieta Martinez, Igor Gilitschenski, Shunsuke Saito, Timur Bagautdinov*<br>
@@ -98,7 +98,7 @@ CVPR 2025.  \[[PDF](https://arxiv.org/abs/2503.11143)] \[[Project](https://silen
 
 **DressRecon: Freeform 4D Human Reconstruction from Monocular Video.**<br>
 *Jeff Tan, Donglai Xiang, Shubham Tulsiani, Deva Ramanan, Gengshan Yang.*<br>
-3DV 2025.  \[[PDF](https://arxiv.org/abs/2409.20563)] \[[Project](https://jefftan969.github.io/dressrecon)] \[[Code](https://github.com/jefftan969/dressrecon) ⭐ 147 | 🐛 5 | 🌐 Python | 📅 2025-02-13]
+3DV 2025.  \[[PDF](https://arxiv.org/abs/2409.20563)] \[[Project](https://jefftan969.github.io/dressrecon)] \[[Code](https://github.com/jefftan969/dressrecon) ⭐ 148 | 🐛 5 | 🌐 Python | 📅 2025-02-13]
 
 **Drivable 3D Gaussian Avatars.**<br>
 *Wojciech Zielonka, Timur Bagautdinov, Shunsuke Saito, Michael Zollhöfer, Justus Thies, Javier Romero.*<br>
@@ -422,7 +422,7 @@ SIGGRAPH 2023 (Journal Track). \[[PDF](https://arxiv.org/abs/2303.14613)] \[[Pro
 
 **MDM: Human Motion Diffusion Model.**<br>
 *Guy Tevet, Sigal Raab, Brian Gordon, Yonatan Shafir, Daniel Cohen-Or, Amit H. Bermano.*<br>
-ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,156 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
+ICLR 2023. \[[PDF](https://arxiv.org/abs/2209.14916)] \[[Project](https://guytevet.github.io/mdm-page)] \[[Code](https://github.com/GuyTevet/motion-diffusion-model) ⭐ 4,158 | 🐛 69 | 🌐 Python | 📅 2025-10-01]
 
 **MoFusion: A Framework for Denoising-Diffusion-based Motion Synthesis.**<br>
 *[Rishabh Dabral](https://www.cse.iitb.ac.in/~rdabral), [Muhammad Hamza Mughal](https://m-hamza-mughal.github.io), [Vladislav Golyanik](https://people.mpi-inf.mpg.de/~golyanik), [Christian Theobalt](https://people.mpi-inf.mpg.de/~theobalt).*<br>
@@ -454,7 +454,7 @@ ICCV 2025. \[[PDF](https://arxiv.org/abs/2508.09137)] \[[Project](https://vcai.m
 
 **LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds.**<br>
 *Lingteng Qiu, Xiaodong Gu, Peihao Li, Qi Zuo, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan, Guanying Chen, Zilong Dong, Liefeng Bo.*<br>
-ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10625)] \[[Project](https://lingtengqiu.github.io/LHM)] \[[Github](https://github.com/aigc3d/LHM) ⭐ 2,702 | 🐛 53 | 🌐 Python | 📅 2026-03-17]
+ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10625)] \[[Project](https://lingtengqiu.github.io/LHM)] \[[Github](https://github.com/aigc3d/LHM) ⭐ 2,704 | 🐛 53 | 🌐 Python | 📅 2026-03-17]
 
 **ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness.**<br>
 *Boqian Li, Haiwen Feng, Zeyu Cai, Michael J. Black, Yuliang Xiu.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,230 | 🐛 6 | 📅 2026-11-01]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,231 | 🐛 6 | 📅 2026-11-24]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1666,7 +1666,7 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,898 | 🐛 33 | 🌐 Python | 📅 2022-06-13
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,899 | 🐛 33 | 🌐 Python | 📅 2022-06-13
 * DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,647 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
