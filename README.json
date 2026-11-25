@@ -1019,7 +1019,7 @@
             "open_issues": 3,
             "owner": "TMT22",
             "repo": "HumanOLAT",
-            "stars": 44,
+            "stars": 45,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -1523,7 +1523,7 @@
             "open_issues": 55,
             "owner": "apple-aiml-research",
             "repo": "ml-neuman",
-            "stars": 1285,
+            "stars": 1286,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3386,10 +3386,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2022-06-13T20:36:21Z",
-                "open_issues": 33,
+                "open_issues": 34,
                 "owner": "zalandoresearch",
                 "repo": "fashion-mnist",
-                "stars": 12899,
+                "stars": 12900,
                 "topics": [
                   "benchmark",
                   "computer-vision",
@@ -3536,7 +3536,7 @@
             "open_issues": 137,
             "owner": "vchoutas",
             "repo": "smplx",
-            "stars": 2771,
+            "stars": 2772,
             "topics": []
           },
           "first_seen": "2026-08-28T17:40:09.746Z"
@@ -3567,7 +3567,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-24T16:14:23.749Z",
+    "last_updated": "2026-11-25T15:58:02.888Z",
     "original_repository_info": {
       "archived": false,
       "description": "Digital Human Resource: 2D/3D/4D Human Modeling, Avatar Generation & Animation, Clothed People Digitalization, Virtual Try-On, etc.",
