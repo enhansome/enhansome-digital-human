@@ -454,11 +454,11 @@ ICCV 2025. \[[PDF](https://arxiv.org/abs/2508.09137)] \[[Project](https://vcai.m
 
 **LHM: Large Animatable Human Reconstruction Model from a Single Image in Seconds.**<br>
 *Lingteng Qiu, Xiaodong Gu, Peihao Li, Qi Zuo, Weichao Shen, Junfei Zhang, Kejie Qiu, Weihao Yuan, Guanying Chen, Zilong Dong, Liefeng Bo.*<br>
-ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10625)] \[[Project](https://lingtengqiu.github.io/LHM)] \[[Github](https://github.com/aigc3d/LHM) ⭐ 2,707 | 🐛 53 | 🌐 Python | 📅 2026-03-17]
+ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10625)] \[[Project](https://lingtengqiu.github.io/LHM)] \[[Github](https://github.com/aigc3d/LHM) ⭐ 2,708 | 🐛 53 | 🌐 Python | 📅 2026-03-17]
 
 **ETCH: Generalizing Body Fitting to Clothed Humans via Equivariant Tightness.**<br>
 *Boqian Li, Haiwen Feng, Zeyu Cai, Michael J. Black, Yuliang Xiu.*<br>
-ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10624)] \[[Project](https://boqian-li.github.io/ETCH)] \[[Github](https://github.com/boqian-li/ETCH) ⭐ 147 | 🐛 1 | 🌐 Python | 📅 2025-09-26]
+ICCV 2025. \[[PDF](https://arxiv.org/abs/2503.10624)] \[[Project](https://boqian-li.github.io/ETCH)] \[[Github](https://github.com/boqian-li/ETCH) ⭐ 148 | 🐛 1 | 🌐 Python | 📅 2025-09-26]
 
 **PARTE: Part-Guided Texturing for 3D Human Reconstruction from a Single Image.**<br>
 *Hyeongjin Nam, Donghwan Kim, Gyeongsik Moon, Kyoung Mu Lee.*<br>
@@ -954,7 +954,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/pdf/2203.08133.pdf)] \[[Project](https://zj
 
 **Function4D: Real-time Human Volumetric Capture from Very Sparse Consumer RGBD Sensors.**<br>
 *Tao Yu, Zerong Zheng, Kaiwen Guo, Pengpeng Liu, Qionghai Dai, Yebin Liu.*<br>
-CVPR 2021 (oral). \[[PDF](http://www.liuyebin.com/Function4D/assets/Function4D.pdf)] \[[Project](http://www.liuyebin.com/Function4D/Function4D.html)] \[[THuman2.0 Dataset](https://github.com/ytrock/THuman2.0-Dataset) ⭐ 381 | 🐛 20 | 📅 2024-09-14]
+CVPR 2021 (oral). \[[PDF](http://www.liuyebin.com/Function4D/assets/Function4D.pdf)] \[[Project](http://www.liuyebin.com/Function4D/Function4D.html)] \[[THuman2.0 Dataset](https://github.com/ytrock/THuman2.0-Dataset) ⭐ 382 | 🐛 20 | 📅 2024-09-14]
 
 **POSEFusion: Pose-guided Selective Fusion for Single-view Human Volumetric Capture.**<br>
 *[Zhe Li](https://lizhe00.github.io), Tao Yu, Zerong Zheng, Kaiwen Guo, Yebin Liu.*<br>
@@ -1450,7 +1450,7 @@ IJCAI 2020. \[[PDF](https://arxiv.org/abs/2007.09077)] \[[Code](https://github.c
 
 ## Image-Based Virtual Try-On
 
-\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,233 | 🐛 6 | 📅 2026-11-24]
+\[[Awesome Virtual Try-on (VTON)](https://github.com/minar09/awesome-virtual-try-on) ⭐ 3,234 | 🐛 6 | 📅 2026-11-24]
 
 **FashionTex: Controllable Virtual Try-on with Text and Texture.**<br>
 *Anran Lin, Nanxuan Zhao, Shuliang Ning, Yuda Qiu, Baoyuan Wang, Xiaoguang Han.*<br>
@@ -1558,7 +1558,7 @@ TNNLS 2021. \[[PDF](https://arxiv.org/abs/2102.03503)]
 
 **Unpaired Person Image Generation with Semantic Parsing Transformation.**<br>
 *Sijie Song, Wei Zhang, Jiaying Liuv, Zongming Guo, Tao Mei.*<br>
-TPAMI 2020. \[[PDF](https://arxiv.org/abs/1912.06324)] \[[CVPR 2019](https://arxiv.org/abs/1904.03379)] \[[TPAMI 2020](https://ieeexplore.ieee.org/document/9085915/authors#authors)] \[[Code](https://github.com/JDAI-CV/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving) ⭐ 218 | 🐛 21 | 🌐 Python | 📅 2021-05-17]
+TPAMI 2020. \[[PDF](https://arxiv.org/abs/1912.06324)] \[[CVPR 2019](https://arxiv.org/abs/1904.03379)] \[[TPAMI 2020](https://ieeexplore.ieee.org/document/9085915/authors#authors)] \[[Code](https://github.com/JDAI-CV/Down-to-the-Last-Detail-Virtual-Try-on-with-Detail-Carving) ⭐ 217 | 🐛 21 | 🌐 Python | 📅 2021-05-17]
 
 **Do Not Mask What You Do Not Need to Mask: a Parser-Free Virtual Try-On.**<br>
 *Thibaut Issenhuth, Jérémie Mary, Clément Calauzènes.*<br>
@@ -1570,7 +1570,7 @@ ACM MM 2020. \[[PDF](https://arxiv.org/abs/2009.04592)] \[[Project](http://mslab
 
 **Towards Photo-Realistic Virtual Try-On by Adaptively Generating Preserving Image Content.**<br>
 *Han Yang, Ruimao Zhang, Xiaobao Guo, Wei Liu, Wangmeng Zuo, Ping Luo.*<br>
-CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.05863)] \[[Code](https://github.com/switchablenorms/DeepFashion_Try_On) ⭐ 888 | 🐛 9 | 🌐 Python | 📅 2022-10-04]
+CVPR 2020. \[[PDF](https://arxiv.org/abs/2003.05863)] \[[Code](https://github.com/switchablenorms/DeepFashion_Try_On) ⭐ 887 | 🐛 9 | 🌐 Python | 📅 2022-10-04]
 
 **PSGAN: Pose and Expression Robust Spatial-Aware GAN for Customizable Makeup Transfer.**<br>
 *Wentao Jiang, Si Liu, Chen Gao, Jie Cao, Ran He, Jiashi Feng, Shuicheng Yan.*<br>
@@ -1636,7 +1636,7 @@ CVPR 2022 (Oral). \[[PDF](https://arxiv.org/abs/2112.01524)] \[[Project](https:/
 
 **Shapy: Accurate 3D Body Shape Regression Using Metric and Semantic Attributes.**<br>
 *Vasileios Choutas, Lea Muller, Chun-Hao P. Huang, Siyu Tang, Dimitrios Tzionas, Michael J. Black.*<br>
-CVPR 2022. \[[PDF](http://arxiv.org/abs/2206.07036)] \[[Project](https://shapy.is.tue.mpg.de)] \[[Code](https://github.com/muelea/shapy) ⭐ 389 | 🐛 41 | 🌐 Python | 📅 2024-02-17]
+CVPR 2022. \[[PDF](http://arxiv.org/abs/2206.07036)] \[[Project](https://shapy.is.tue.mpg.de)] \[[Code](https://github.com/muelea/shapy) ⭐ 390 | 🐛 41 | 🌐 Python | 📅 2024-02-17]
 
 **PoseScript: 3D Human Poses from Natural Language.**<br>
 *Ginger Delmas, Philippe Weinzaepfel, Thomas Lucas, Francesc Moreno-Noguer, Grégory Rogez.*<br>
@@ -1666,8 +1666,8 @@ CVPR 2022. \[[PDF](https://arxiv.org/abs/2203.13815)] \[[Code](https://github.co
 
 ### Datasets
 
-* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,902 | 🐛 34 | 🌐 Python | 📅 2022-06-13
-* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,647 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2025-01-28
+* Fashion-MNIST. [\[Fashion-MNIST\]](https://github.com/zalandoresearch/fashion-mnist) ⭐ 12,904 | 🐛 34 | 🌐 Python | 📅 2022-06-13
+* DeepFashion2 Dataset. [\[Website\]](https://github.com/switchablenorms/DeepFashion2) ⭐ 2,648 | 🐛 60 | 🌐 Jupyter Notebook | 📅 2025-01-28
 * NTURGBD-Parsing-4K Dataset. \[[Website](https://github.com/hongfz16/HCMoCo) ⭐ 125 | 🐛 3 | 🌐 Python | 📅 2022-06-23]
 * WildAvatar (2024). [\[Website\]](https://arxiv.org/pdf/2407.02165)
 * Fashionpedia. [\[Website\]](https://fashionpedia.github.io/home/index.html)
@@ -1719,7 +1719,7 @@ ICCV 2021. \[[PDF](https://arxiv.org/abs/2102.01690)]
 
 ## Dataset
 
-* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,775 | 🐛 137 | 🌐 Python | 📅 2024-08-12]
+* `SMPL`. To download the [SMPL-X](https://smpl-x.is.tue.mpg.de), [SMPL+H](http://mano.is.tue.mpg.de) and SMPL ([Male and Female](http://smpl.is.tue.mpg.de), [Gender Neural Model](http://smplify.is.tue.mpg.de)) model, go to this project website and register to get access to the downloads section. \[[Code](https://github.com/vchoutas/smplx#loading-smpl-x-smplh-and-smpl) ⭐ 2,776 | 🐛 137 | 🌐 Python | 📅 2024-08-12]
 
 * `THUmanDataset`. [THUman](https://github.com/ZhengZerong/DeepHuman/tree/master/THUmanDataset) ⭐ 427 | 🐛 9 | 🌐 Python | 📅 2021-06-21 is a 3D real-world human model dataset containing approximately 7000 models.
 
@@ -1735,4 +1735,4 @@ CVPR 2021. \[[PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Fieraru
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-27._
